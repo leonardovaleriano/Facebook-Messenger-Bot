@@ -1,0 +1,15 @@
+﻿2016-04-19 20:23:34 *** unknown_113079502558227937850 added user 'unknown_113079502558227937850' to conversation
+2016-04-19 20:23:36 *** unknown_113079502558227937850 started a video chat
+2016-04-19 20:35:34 *** unknown_102644120926004731361 ended a video chat
+2016-04-20 15:50:15 *** unknown_113079502558227937850 added user 'Leonardo Neri' to conversation
+2016-04-20 16:02:13 *** unknown_113079502558227937850 started a video chat
+2016-04-20 16:02:25 *** unknown_113079502558227937850 ended a video chat
+2016-04-20 16:02:31 *** unknown_113079502558227937850 started a video chat
+2016-04-20 16:02:33 *** unknown_113079502558227937850 ended a video chat
+2016-04-20 16:05:27 *** unknown_102644120926004731361 started a video chat
+2016-04-20 16:09:03 *** unknown_113079502558227937850 ended a video chat
+2016-04-20 16:11:31 *** Leonardo Neri started a video chat
+2016-04-20 16:11:32 *** Leonardo Neri ended a video chat
+2016-04-20 16:14:49 *** unknown_113079502558227937850 started a video chat
+2016-04-20 16:22:36 *** unknown_113079502558227937850 removed user 'unknown_105463120256323703981' from conversation
+2016-04-20 18:19:00 *** Leonardo Neri ended a video chat

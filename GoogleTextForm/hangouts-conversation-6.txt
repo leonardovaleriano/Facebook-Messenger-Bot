@@ -1,0 +1,1266 @@
+﻿2014-03-19 14:53:35 <Pedro Barbosa> http://docs.opencv.org/doc/tutorials/core/how_to_scan_images/how_to_scan_images.html
+2014-03-24 03:20:10 <Pedro Barbosa> e tu não dorme não é?
+2014-03-24 03:20:11 <Pedro Barbosa> :P
+2014-03-24 03:34:12 <Leonardo Valeriano> ahuahauha
+2014-03-24 03:34:30 <Leonardo Valeriano> to vendo se eu termino logo a dissertalao
+2014-03-24 03:34:40 <Leonardo Valeriano> *dissertação
+2014-04-13 14:05:23 <Pedro Barbosa> Ei véi. Acho que não vou. Avise a galera que eu faço 8h essa semana.
+2014-04-13 14:07:27 <Leonardo Valeriano> blz Pedro
+2014-04-13 14:07:30 <Leonardo Valeriano> fica na paz
+2014-04-13 14:07:40 <Leonardo Valeriano> só tão mexendo em bola agora
+2014-04-13 14:07:47 <Leonardo Valeriano> *Robson
+2014-04-13 14:08:27 <Pedro Barbosa> Blz!
+2014-04-13 14:08:43 <Pedro Barbosa> E pra tentar aparecer mais é?
+2014-04-13 14:08:50 <Pedro Barbosa> A bola?
+2014-04-13 14:15:03 <Leonardo Valeriano> é sim
+2014-04-13 14:15:22 <Leonardo Valeriano> o foda é que o único jogo que aparece no cel é bra x ita
+2014-04-13 14:15:32 <Pedro Barbosa> Blz
+2014-04-13 14:15:37 <Leonardo Valeriano> tem que ver esse bug do servidor Web
+2014-04-13 14:15:44 <Pedro Barbosa> Ouxi
+2014-04-13 14:16:10 <Leonardo Valeriano> assim que terminar bola a gente roda os vídeos de mex e austr
+2014-04-13 14:16:23 <Leonardo Valeriano> pra analisar os trechos
+2014-04-13 14:16:25 <Pedro Barbosa> Mas a galera tem certeza que a bronca é no server?
+2014-04-13 14:16:57 <Leonardo Valeriano> sim sim
+2014-04-13 14:17:12 <Leonardo Valeriano> tem que instanciar jogos pelo Server Web
+2014-04-13 14:17:24 <Leonardo Valeriano> e felizardo n conseguiu
+2014-04-13 14:18:09 <Pedro Barbosa> Ahh sim
+2014-04-13 14:18:21 <Pedro Barbosa> Tem que fazer os cadastros la né?
+2014-04-13 14:18:43 <Leonardo Valeriano> é
+2014-04-18 14:20:03 <Pedro Barbosa> Ei man
+2014-04-18 14:20:08 <Pedro Barbosa> Tais por ai?
+2014-04-22 14:23:40 <Leonardo Valeriano> oi
+2014-04-22 14:23:47 <Leonardo Valeriano> cheguei agora
+2014-04-22 14:23:52 <Leonardo Valeriano> tava um inferno
+2014-04-22 17:14:51 <Pedro Barbosa> http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+2014-04-24 23:43:49 <Pedro Barbosa> ei leo
+2014-04-24 23:43:52 <Pedro Barbosa> tu usa que editor latex?
+2014-04-24 23:44:12 <Leonardo Valeriano> Eu uso o Led
+2014-04-24 23:44:20 <Pedro Barbosa> hmmm
+2014-04-24 23:44:25 <Leonardo Valeriano> Mas n indico :)
+2014-04-24 23:44:26 <Pedro Barbosa> tu já viu esse kile?
+2014-04-24 23:44:41 <Leonardo Valeriano> Ele é muito desorganizado
+2014-04-24 23:44:45 <Leonardo Valeriano> Vi n...
+2014-04-24 23:44:51 <Pedro Barbosa> hmmm
+2014-04-24 23:44:52 <Pedro Barbosa> massa
+2014-04-24 23:44:58 <Pedro Barbosa> vou instalar um ambiente aqui
+2014-04-24 23:45:01 <Pedro Barbosa> e queria saber e tals
+2014-04-24 23:45:11 <Pedro Barbosa> tu saisse tarde pra carai da urja né?
+2014-04-24 23:45:23 <Pedro Barbosa> henrique mandou uma msg de 22h dizendo "conseguimos"
+2014-04-24 23:45:38 <Pedro Barbosa> imaginei que a segunda pessoa era tu
+2014-04-24 23:54:07 <Leonardo Valeriano> Tô aqui ainda☺
+2014-04-24 23:54:15 <Pedro Barbosa> ouxi vei
+2014-04-24 23:54:16 <Pedro Barbosa> pq?
+2014-04-24 23:54:22 <Pedro Barbosa> que lombra
+2014-04-24 23:54:42 <Leonardo Valeriano> Vou ver o que acontece durante a apresentação.
+2014-04-24 23:54:49 <Pedro Barbosa> siim
+2014-04-24 23:54:59 <Leonardo Valeriano> Se precisar de alguma coisa.
+2014-04-24 23:55:13 <Pedro Barbosa> manda joão se comunicar diretamente com vocês caso falhe
+2014-04-24 23:55:19 <Pedro Barbosa> pq da outra vez ele não falou na hora
+2014-04-24 23:55:26 <Leonardo Valeriano> Eu terminei os testes no servidor e vi que n deu bronca.
+2014-04-24 23:55:39 <Leonardo Valeriano> Exato.
+2014-04-25 00:09:30 <Leonardo Valeriano> Foda que a gente esqueceu de bater o ponto de meia noite.
+2014-04-25 00:09:53 <Pedro Barbosa> cacete
+2014-04-25 00:09:58 <Leonardo Valeriano> Merda da porra.
+2014-04-25 00:10:26 <Leonardo Valeriano> Vou falar com felipe amanhã, pra ver como fica.
+2014-04-25 00:10:42 <Leonardo Valeriano> Eu bati o ponto agora.
+2014-04-25 00:10:55 <Leonardo Valeriano> Aew fica como entrada
+2014-04-25 00:11:16 <Leonardo Valeriano> E o dia anterior fica como falta marcação
+2014-04-25 00:14:56 <Pedro Barbosa> acho que é assim mesmo
+2014-04-25 00:24:49 <Pedro Barbosa> o cara só visualiza através do pdf é?
+2014-04-25 00:24:52 <Pedro Barbosa> no latex?
+2014-04-25 00:25:29 <Leonardo Valeriano> É
+2014-04-25 00:27:38 <Pedro Barbosa> joão vai testar de que horas pow?
+2014-04-25 01:00:44 <Leonardo Valeriano> daqui a pouco
+2014-04-25 01:00:48 <Leonardo Valeriano> +2h
+2014-04-25 01:06:26 <Leonardo Valeriano> henrique já dormiu
+2014-04-25 01:06:27 <Leonardo Valeriano> :)
+2014-04-25 01:06:55 <Leonardo Valeriano> olha tu sabe qual script rodar pra pegar os dados do server?
+2014-04-25 01:07:13 <Pedro Barbosa> pra pegar?
+2014-04-25 01:07:18 <Pedro Barbosa> seguinte
+2014-04-25 01:07:28 <Pedro Barbosa> mas tu quer pegar quais?
+2014-04-25 01:07:37 <Pedro Barbosa> aqueles dat?
+2014-04-25 01:08:09 <Leonardo Valeriano> só pra saber que tem dados no server
+2014-04-25 01:08:14 <Pedro Barbosa> hmmm
+2014-04-25 01:08:19 <Pedro Barbosa> vai lá na raiz c:
+2014-04-25 01:08:29 <Pedro Barbosa> tem uma pasta chamada scripts se não me engano que eu criei
+2014-04-25 01:08:31 <Leonardo Valeriano> eu tô desconfiando que o plano de dados de João acabou
+2014-04-25 01:08:51 <Leonardo Valeriano> ele baixou muitos dados e a operadora deu créu
+2014-04-25 01:09:10 <Pedro Barbosa> lá tem um script python
+2014-04-25 01:09:19 <Pedro Barbosa> isso no server visse
+2014-04-25 01:09:30 <Pedro Barbosa> copia esse script pra tu em um lugar que tu quiser
+2014-04-25 01:09:36 <Pedro Barbosa> abre ele pra editar com o idle
+2014-04-25 01:09:58 <Pedro Barbosa> vai ter um for lá
+2014-04-25 01:10:04 <Pedro Barbosa> for key in keys:
+2014-04-25 01:10:16 <Pedro Barbosa> tu comenta a linha que tem delete_key
+2014-04-25 01:10:21 <Pedro Barbosa> e deixa só a que tem o print
+2014-04-25 01:10:31 <Pedro Barbosa> print key.key
+2014-04-25 01:10:35 <Pedro Barbosa> e roda ele
+2014-04-25 01:10:44 <Pedro Barbosa> não modifica o arquivo lá onde ele ta não
+2014-04-25 01:10:52 <Pedro Barbosa> copia pra tu
+2014-04-25 01:11:20 <Leonardo Valeriano> blz
+2014-04-25 01:11:24 <Leonardo Valeriano> eu fiz isso
+2014-04-25 01:11:33 <Leonardo Valeriano> botei no Desktop
+2014-04-25 01:11:40 <Leonardo Valeriano> depois eu deleto ele
+2014-04-25 01:11:52 <Pedro Barbosa> blz
+2014-04-25 01:13:33 <Leonardo Valeriano> pra rodar eu faço:
+2014-04-25 01:13:41 <Leonardo Valeriano> python C:\Users\sfc\Desktop\del_aws.py id
+2014-04-25 01:13:52 <Leonardo Valeriano> não é?
+2014-04-25 01:15:07 <Pedro Barbosa> ahh sim
+2014-04-25 01:15:09 <Pedro Barbosa> é sim
+2014-04-25 01:15:17 <Pedro Barbosa> tinha esquecido dessa parte
+2014-04-25 01:15:21 <Pedro Barbosa> na verdade
+2014-04-25 01:15:29 <Pedro Barbosa> n sei se ele ta pra rodar como script
+2014-04-25 01:15:34 <Pedro Barbosa> acho que tem que fazer
+2014-04-25 01:15:44 <Pedro Barbosa> python del_aws.py id
+2014-04-25 01:16:10 <Pedro Barbosa> ahhh
+2014-04-25 01:16:18 <Pedro Barbosa> vi agora que tu colocou o python antes do caminho todo
+2014-04-25 01:16:24 <Pedro Barbosa> blz
+2014-04-25 01:16:27 <Pedro Barbosa> é isso mesmo
+2014-04-25 01:22:40 <Leonardo Valeriano> eu dei cd
+2014-04-25 01:22:45 <Leonardo Valeriano> mais fácil
+2014-04-25 01:22:47 <Leonardo Valeriano> :)
+2014-04-25 01:22:53 <Pedro Barbosa> é melhor mesmo
+2014-04-25 01:22:53 <Pedro Barbosa> aoihaoiuah
+2014-04-25 01:22:56 <Pedro Barbosa> pegou?
+2014-04-25 01:23:00 <Leonardo Valeriano> pegou
+2014-04-25 01:23:10 <Leonardo Valeriano> tou listando todos os jogs
+2014-04-25 01:23:13 <Leonardo Valeriano> *jogos
+2014-04-25 01:23:17 <Pedro Barbosa> hmmm
+2014-04-25 01:23:42 <Pedro Barbosa> pra tu testar
+2014-04-25 01:23:52 <Pedro Barbosa> é melhor tu colocar os id hard coded mesmo
+2014-04-25 01:23:53 <Pedro Barbosa> pow
+2014-04-25 01:24:06 <Pedro Barbosa> coloca lá uma lista de ids
+2014-04-25 01:24:16 <Pedro Barbosa> e imprime do jeito que tu quiser num arquivo
+2014-04-25 01:24:35 <Pedro Barbosa> arquivo é o seguinte em python
+2014-04-25 01:24:49 <Pedro Barbosa> with open(nomearquivo, modo) as f:
+2014-04-25 01:25:02 <Pedro Barbosa> aí tu da um tab pra ficar identado
+2014-04-25 01:25:09 <Pedro Barbosa> e faz f.write(string)
+2014-04-25 01:25:11 <Pedro Barbosa> pronto
+2014-04-25 01:25:20 <Pedro Barbosa> exemplo
+2014-04-25 01:25:30 <Leonardo Valeriano> funcionou pow
+2014-04-25 01:25:51 <Leonardo Valeriano> todos os jogos tem dados
+2014-04-25 01:25:53 <Pedro Barbosa> with open('arquivo.txt', 'w') as f:
+     f.write("hello world")
+2014-04-25 01:26:00 <Pedro Barbosa> ahhh blz
+2014-04-25 01:26:16 <Leonardo Valeriano> se joão n conseguir rodar é o 3g dele que n tá baixando os dados
+2014-04-25 01:26:30 <Pedro Barbosa> era bom o cel bicho
+2014-04-25 01:26:34 <Pedro Barbosa> pra testar aqui logo
+2014-04-25 01:26:47 <Leonardo Valeriano> ou pq a internet acabou, ou a operadora bloqueou
+2014-04-25 01:26:59 <Leonardo Valeriano> Wi-fi funciona com certeza
+2014-04-25 01:27:26 <Leonardo Valeriano> deve ter alguma bronca com essa operadora ou a 3g que tá ruim onde ele testa
+2014-04-25 01:27:29 <Pedro Barbosa> fiquei pensando que eu posso ter apagado isso quando tava escrevendo esse script
+2014-04-25 01:27:35 <Pedro Barbosa> apagado os jogos
+2014-04-25 01:27:37 <Pedro Barbosa> sei lá
+2014-04-25 01:27:44 <Leonardo Valeriano> mas é nenhuma
+2014-04-25 01:27:50 <Leonardo Valeriano> agora tem todos os jogos
+2014-04-25 01:27:55 <Pedro Barbosa> hmmm
+2014-04-30 16:13:39 <Leonardo Valeriano> Ei Pedro, tu conhece o Bastter?
+2014-04-30 16:13:46 <Leonardo Valeriano> tem um link massa dele
+2014-04-30 16:13:47 <Leonardo Valeriano> http://www.bastter.com/Mercado/Aprendizado/passo-a-passo-iniciante.aspx
+2014-04-30 16:16:41 <Pedro Barbosa> justamente
+2014-04-30 16:16:47 <Pedro Barbosa> era esse que eu tava querendo lembrar
+2014-04-30 16:16:56 <Pedro Barbosa> pra te mostrar
+2014-04-30 16:16:57 <Leonardo Valeriano> Leia tudo vei
+2014-04-30 16:17:04 <Pedro Barbosa> ele mostra muita informação das empresas
+2014-04-30 16:17:15 <Leonardo Valeriano> conhecimento é tudo antes de executar qqr plano
+2014-04-30 16:17:26 <Leonardo Valeriano> leia tudo mesmo
+2014-04-30 16:17:38 <Pedro Barbosa> humrum
+2014-04-30 16:17:41 <Pedro Barbosa> vou dar uma sacada
+2014-04-30 16:17:48 <Pedro Barbosa> tem coisa que ele fala pra ler depois de 2 a 3 anos de bolsa
+2014-04-30 16:17:49 <Pedro Barbosa> ioauhaoiuhaoiuh
+2014-04-30 16:18:00 <Leonardo Valeriano> ahahahah
+2014-04-30 16:18:04 <Leonardo Valeriano> é foda
+2014-04-30 16:18:13 <Pedro Barbosa> mas tu viu a parte de acompanhamento dos dados da empresa do bastter
+2014-04-30 16:18:14 <Leonardo Valeriano> a Filosofia é o principal
+2014-04-30 16:18:15 <Pedro Barbosa> ?
+2014-04-30 16:18:17 <Pedro Barbosa> tem tudo veio
+2014-04-30 16:18:26 <Pedro Barbosa> lucro, divida g´rafico pra tudo
+2014-04-30 16:18:31 <Leonardo Valeriano> já acompanho há quase 1 ano
+2014-04-30 16:19:15 <Pedro Barbosa> ahh pow
+2014-04-30 16:19:17 <Pedro Barbosa> massa
+2014-05-07 21:42:14 <Pedro Barbosa> Ei leo
+2014-05-07 21:42:29 <Pedro Barbosa> tu tem o modelo da dissertação aí pra eu ir escrevendo no template já?
+2014-05-07 23:54:52 <Leonardo Valeriano> Eu te envio.
+2014-05-08 00:11:04 <Pedro Barbosa> peguei um aqui
+2014-05-08 00:11:10 <Pedro Barbosa> ta dando erro nos acronimos
+2014-05-08 00:11:13 <Pedro Barbosa> sabes o que é?
+2014-05-08 00:11:17 <Pedro Barbosa> naqueles \ac
+2014-05-08 00:11:21 <Pedro Barbosa> ou \acp
+2014-05-08 00:11:41 <Leonardo Valeriano> Cedilha?
+2014-05-08 00:11:48 <Pedro Barbosa> não
+2014-05-08 00:11:54 <Pedro Barbosa> package pra acronimos
+2014-05-08 00:11:56 <Pedro Barbosa> o cara faz
+2014-05-08 00:11:58 <Pedro Barbosa> por exemplo
+2014-05-08 00:12:03 <Pedro Barbosa> \ac{cr}
+2014-05-08 00:12:08 <Pedro Barbosa> é um acronimo pra cr
+2014-05-08 00:12:22 <Pedro Barbosa> só que ta acusando erro de compilação
+2014-05-08 00:12:28 <Leonardo Valeriano> Como fica no texto?
+2014-05-08 00:12:36 <Pedro Barbosa> não compila
+2014-05-08 00:13:17 <Leonardo Valeriano> Tem que usar algum package?
+2014-05-08 00:13:49 <Pedro Barbosa> peguei aquele risethesis
+2014-05-08 00:13:59 <Leonardo Valeriano> Hum...
+2014-05-08 00:14:27 <Leonardo Valeriano> Vê os acrônimos no Google
+2014-05-08 00:14:58 <Leonardo Valeriano> Pode ser que esse rise n tenha, ou tenha redefinido a forma de fazer.
+2014-05-08 00:15:07 <Pedro Barbosa> pois é
+2014-05-08 00:15:10 <Pedro Barbosa> tu usou oq?
+2014-05-08 00:15:20 <Pedro Barbosa> nao foi a rise?
+2014-05-08 00:15:47 <Leonardo Valeriano>  A ufpethesis
+2014-05-08 00:16:01 <Pedro Barbosa> hmmmm
+2014-05-08 00:16:07 <Leonardo Valeriano> E ainda modifiquei pra comportar a banto
+2014-05-08 00:16:16 <Leonardo Valeriano> *abnt
+2014-05-08 00:17:33 <Pedro Barbosa> hmmmm
+2014-05-08 00:17:38 <Pedro Barbosa> é que o rise já ta na abnt
+2014-05-08 00:17:43 <Pedro Barbosa> aí achei que seria mais fácil
+2014-05-08 00:17:47 <Pedro Barbosa> mas pelo visto
+2014-05-08 00:17:48 <Pedro Barbosa> :/
+2014-05-08 00:17:54 <Leonardo Valeriano> É, eu vi no email
+2014-05-08 00:18:14 <Leonardo Valeriano> Mas no meu compilador n ficou legal..
+2014-05-08 00:18:55 <Pedro Barbosa> pois é
+2014-05-08 00:18:59 <Pedro Barbosa> essa porra não compila
+2014-05-08 00:19:01 <Leonardo Valeriano> Tava estourando as colunas do texto e n estava listando as referências direito
+2014-05-08 00:20:29 <Leonardo Valeriano> Eu quebrei a cabeça pra ajeitar, mas depois aprendi a alterar a classe mesmo. Deixei ela mais enxuta e utilizei o package da abnt
+2014-05-08 00:20:44 <Pedro Barbosa> hmmm
+2014-05-08 00:20:58 <Leonardo Valeriano> Tem um template da abnt visse.
+2014-05-08 00:21:04 <Leonardo Valeriano> Abnt2
+2014-05-08 00:21:34 <Leonardo Valeriano> Tem um Google code project que tem bastante coisa
+2014-05-08 00:21:34 <Pedro Barbosa> hmmm
+2014-05-08 00:21:43 <Pedro Barbosa> vou dar uma sacada
+2014-05-08 00:22:14 <Leonardo Valeriano> \documentclass{abnt2}
+2014-05-08 00:22:31 <Leonardo Valeriano> Aew ele já inclui tudo que precisa.
+2014-05-08 00:23:09 <Leonardo Valeriano> Mas modifica instruções básicas como o \cite e outras
+2014-05-08 00:23:59 <Leonardo Valeriano> O que eu achei a desgraça é que tava tudo massa até chegar na abnt
+2014-05-08 00:24:36 <Pedro Barbosa> ouxi
+2014-05-08 00:24:46 <Pedro Barbosa> to vendo auqi que da erro de compilação mas gera o pdf
+2014-05-08 00:24:47 <Pedro Barbosa> então...
+2014-05-08 00:24:51 <Pedro Barbosa> ta de buenas
+2014-05-08 00:24:52 <Pedro Barbosa> :P
+2014-05-08 00:24:57 <Leonardo Valeriano> Kkkkkk
+2014-05-08 00:25:26 <Leonardo Valeriano> LateX tem dessas coisas. Vê se foi um warning
+2014-05-08 00:25:33 <Pedro Barbosa> foi não vei
+2014-05-08 00:25:36 <Pedro Barbosa> da erro pra cacete
+2014-05-08 00:25:38 <Pedro Barbosa> muitos
+2014-05-08 00:25:40 <Pedro Barbosa> aiuhaoiuahoiauhoiah
+2014-05-08 00:25:45 <Pedro Barbosa> to usando um plugin pra o eclipse
+2014-05-08 00:25:51 <Pedro Barbosa> eclipse é minha mãe
+2014-05-08 00:25:52 <Pedro Barbosa> aiuhaoiuahoaiuhaoiuh
+2014-05-08 00:26:18 <Pedro Barbosa> é que a galera que fez projeto do risethesis indica que faça com eclipse
+2014-05-08 00:26:27 <Leonardo Valeriano> Hum... No meu editor tem 3 botões para compilar
+2014-05-08 00:27:08 <Leonardo Valeriano> Hum... Vou ver esse plugin, acho que deve organizar melhor o projeto.
+2014-05-08 00:28:03 <Leonardo Valeriano> O botão que eu uso é o Latex compilation, os outros dois dão erro
+2014-05-08 00:28:08 <Leonardo Valeriano> N sei pq
+2014-05-08 00:29:17 <Pedro Barbosa> pois é
+2014-05-08 00:29:30 <Pedro Barbosa> o dono do risethesis pede pra usar pdflatex
+2014-05-08 00:29:33 <Pedro Barbosa> em vez de latex
+2014-05-08 00:29:36 <Pedro Barbosa> não sei pq
+2014-05-08 21:40:48 <Pedro Barbosa> leo
+2014-05-08 21:40:50 <Pedro Barbosa> eu me enganei
+2014-05-08 21:41:06 <Pedro Barbosa> o eclipse coloca os lixos e logs numa pasta tmp
+2014-05-08 21:41:08 <Pedro Barbosa> :)
+2014-05-08 21:41:32 <Leonardo Valeriano> Olha aew
+2014-05-08 21:41:45 <Leonardo Valeriano> Já é muita coisa
+2014-05-08 21:43:29 <Pedro Barbosa> :)
+2014-05-08 22:03:05 <Pedro Barbosa> pode me mandar a tua veio?
+2014-05-08 22:03:10 <Pedro Barbosa> ta foda aqui
+2014-05-08 22:03:14 <Pedro Barbosa> essa porra desse template
+2014-05-08 22:04:30 <Leonardo Valeriano> Hhehehe
+2014-05-08 22:04:40 <Leonardo Valeriano> Vou mandar agora
+2014-05-08 22:04:43 <Pedro Barbosa> fazer essa porra no word
+2014-05-08 22:04:45 <Pedro Barbosa> ioauhaoiuhaoiuah
+2014-05-08 22:04:46 <Pedro Barbosa> na moral
+2014-05-08 22:07:02 <Pedro Barbosa> tu poderia tentar testar esse rise aí
+2014-05-08 22:07:06 <Pedro Barbosa> pra ver se da a mesma merda?
+2014-05-08 22:07:11 <Pedro Barbosa> pq pode ser um package faltando
+2014-05-08 22:07:12 <Pedro Barbosa> sei lá
+2014-05-08 22:09:05 <Pedro Barbosa> To te mandando por email o projeto
+2014-05-08 22:09:29 <Leonardo Valeriano> Eu vou pegar o PC
+2014-05-08 22:09:37 <Pedro Barbosa> se der trabalho
+2014-05-08 22:09:38 <Pedro Barbosa> relaxa
+2014-05-08 22:09:45 <Leonardo Valeriano> N consigo enviar do tablet
+2014-05-08 22:10:02 <Leonardo Valeriano> Vai dar n. Já tinha que usar mesmo.
+2014-05-08 22:10:55 <Pedro Barbosa> humrum
+2014-05-08 22:10:58 <Pedro Barbosa> vlw!
+2014-05-08 22:17:31 <Pedro Barbosa> henrique me ensinou um programa aqui
+2014-05-08 22:17:33 <Pedro Barbosa> texmaker
+2014-05-08 22:23:40 <Leonardo Valeriano> esse é bom tbm
+2014-05-08 22:25:28 <Leonardo Valeriano> acabei de enviar
+2014-05-08 22:34:41 <Pedro Barbosa> massa!
+2014-05-08 22:34:43 <Pedro Barbosa> peguei aqui
+2014-05-08 23:27:14 <Pedro Barbosa> sem querer incomodar
+2014-05-08 23:27:20 <Pedro Barbosa> tentasse rodar o rise?
+2014-05-08 23:34:47 <Leonardo Valeriano> n vei
+2014-05-08 23:34:49 <Leonardo Valeriano> ahauhauaha
+2014-05-08 23:34:58 <Pedro Barbosa> relaxe
+2014-05-08 23:35:00 <Pedro Barbosa> :P
+2014-05-08 23:35:01 <Leonardo Valeriano> eu sei que ele dá problema no meu
+2014-05-08 23:35:06 <Leonardo Valeriano> n sei pq
+2014-05-08 23:35:15 <Leonardo Valeriano> vou tentar agora
+2014-05-08 23:35:31 <Leonardo Valeriano> o ufpethesis tá foda pra ajustar as citações
+2014-05-08 23:37:05 <Pedro Barbosa> tenta o rise
+2014-05-08 23:37:11 <Pedro Barbosa> pq ele tem as citações certas parece
+2014-05-08 23:37:13 <Pedro Barbosa> pra abnt
+2014-05-08 23:41:47 <Leonardo Valeriano> vou fazer
+2014-05-09 00:04:16 <Leonardo Valeriano> pra compilar eu tive que apagar \presentationpage
+2014-05-09 00:04:21 <Leonardo Valeriano> muito escroto
+2014-05-09 00:04:27 <Pedro Barbosa> mas e aí?
+2014-05-09 00:04:31 <Pedro Barbosa> pode ficar sem essa parada mesmo?
+2014-05-09 00:04:35 <Leonardo Valeriano> n
+2014-05-09 00:04:46 <Pedro Barbosa> onde ta definido isso?
+2014-05-09 00:04:49 <Pedro Barbosa> esse presentation?
+2014-05-09 00:04:56 <Leonardo Valeriano> eu vou pegar a definição do ufpethesis
+2014-05-09 00:05:08 <Leonardo Valeriano> deveria ter no rise
+2014-05-09 00:05:29 <Leonardo Valeriano> vê eu achei estranho as referências...
+2014-05-09 00:05:38 <Leonardo Valeriano> ele bota Anais...
+2014-05-09 00:05:49 <Leonardo Valeriano> com 3 pontos no final
+2014-05-09 00:05:56 <Leonardo Valeriano> n entendi
+2014-05-09 00:09:11 <Pedro Barbosa> ouxi
+2014-05-09 00:09:14 <Pedro Barbosa> não sei então
+2014-05-09 00:11:11 <Leonardo Valeriano> é uma doidera
+2014-05-09 00:11:21 <Leonardo Valeriano> mas eu vou passar aqui
+2014-05-09 00:11:27 <Leonardo Valeriano> pra ver no que dá
+2014-05-09 00:12:19 <Pedro Barbosa> blz
+2014-05-09 00:12:38 <Pedro Barbosa> comecei a escrever no bloco de notas aqui mesmo
+2014-05-09 00:12:40 <Pedro Barbosa> gedit
+2014-05-09 00:12:47 <Pedro Barbosa> pra não ficar empacado nisso
+2014-05-09 00:12:49 <Leonardo Valeriano> hum
+2014-05-09 00:12:52 <Leonardo Valeriano> vai pow
+2014-05-09 00:13:02 <Pedro Barbosa> paulo vai me mandar um rise corrigido amanhã ele disse
+2014-05-09 00:13:06 <Leonardo Valeriano> esses detalhes são chatíssimos
+2014-05-09 00:13:24 <Leonardo Valeriano> se n fosse essa porra de citação já tinha acabado
+2014-05-09 00:14:02 <Pedro Barbosa> bicho
+2014-05-09 00:14:06 <Pedro Barbosa> joga no word
+2014-05-09 00:14:12 <Pedro Barbosa> e corrige na mão mesmo pow
+2014-05-09 00:14:19 <Pedro Barbosa> e depois copia pra o texto
+2014-05-09 00:14:28 <Pedro Barbosa> no latex
+2014-05-09 00:14:49 <Leonardo Valeriano> tô quase fazendo isso
+2014-05-09 00:14:57 <Leonardo Valeriano> mas são muitas citações
+2014-05-09 00:14:59 <Leonardo Valeriano> :(
+2014-05-09 00:15:05 <Pedro Barbosa> foda é isso
+2014-05-09 00:15:08 <Pedro Barbosa> usa o mendeley
+2014-05-09 00:15:13 <Leonardo Valeriano> e quero aprumar pro doutorado
+2014-05-09 00:15:14 <Pedro Barbosa> pra o word
+2014-05-09 00:15:21 <Leonardo Valeriano> hum...
+2014-05-09 00:15:26 <Pedro Barbosa> ele bota na abnt certinho
+2014-05-09 00:19:32 <Pedro Barbosa> ve só
+2014-05-09 00:19:40 <Pedro Barbosa> quando tu acha algo em um survey por exemplo
+2014-05-09 00:19:50 <Pedro Barbosa> ou mesmo um artigo
+2014-05-09 00:19:54 <Pedro Barbosa> que ele faz uma citação
+2014-05-09 00:20:01 <Pedro Barbosa> tu cita o artigo, ou o artigo que ele citou?
+2014-05-09 00:21:28 <Leonardo Valeriano> é melhor tu botar o survey
+2014-05-09 00:21:47 <Pedro Barbosa> o texto pode ficar parecido?
+2014-05-09 00:21:49 <Leonardo Valeriano> pq se n tu tá tirando a mesma conclusão
+2014-05-09 00:22:06 <Leonardo Valeriano> se tu botar o do survey pode
+2014-05-09 00:22:45 <Leonardo Valeriano> se tu tirar um trecho do survey e n referenciar ele é cópia
+2014-05-09 00:27:06 <Pedro Barbosa> ahhh
+2014-05-09 00:27:07 <Pedro Barbosa> massa
+2014-05-09 00:27:09 <Pedro Barbosa> ouxi
+2014-05-09 00:27:19 <Pedro Barbosa> a citação é a legalização da cópia né?
+2014-05-09 00:27:20 <Pedro Barbosa> oiauhaoiuahoiuah
+2014-05-09 00:29:25 <Leonardo Valeriano> ahuahauahau
+2014-05-09 00:30:13 <Leonardo Valeriano> o problema é tu n querer citar o survey e colocar deduções que tem nele, citando os artigos que ele citou
+2014-05-09 00:30:27 <Leonardo Valeriano> eliminando o intermediário
+2014-05-09 00:30:32 <Leonardo Valeriano> entendesse?
+2014-05-09 00:31:05 <Pedro Barbosa> hmmm
+2014-05-09 00:31:06 <Pedro Barbosa> é
+2014-05-09 00:31:09 <Pedro Barbosa> vou citar o survey
+2014-05-09 00:31:14 <Pedro Barbosa> até pq survey é foda
+2014-05-09 00:31:15 <Leonardo Valeriano> provavelmente vc n deduziria se n tivesse lido o survey
+2014-05-09 00:31:23 <Pedro Barbosa> o cara chegar aquele nível de compilação de trabalhos
+2014-05-09 00:31:25 <Pedro Barbosa> é foda
+2014-05-09 00:31:32 <Leonardo Valeriano> é pow
+2014-05-09 00:31:45 <Leonardo Valeriano> revisar dá muito trabalho
+2014-05-09 00:31:50 <Pedro Barbosa> intaum
+2014-05-09 00:32:04 <Leonardo Valeriano> por isso que alguém faz o survey e eu uso
+2014-05-09 00:32:09 <Leonardo Valeriano> e o cito
+2014-05-09 00:32:10 <Pedro Barbosa> e o cara vai lá numas revistas de oftalmologia pra ver pq é importante a segmentação dos vasos da retina
+2014-05-09 00:32:19 <Leonardo Valeriano> ouxi
+2014-05-09 00:32:27 <Leonardo Valeriano> vai lá justificar só
+2014-05-09 00:32:31 <Pedro Barbosa> intaum
+2014-05-09 00:32:32 <Pedro Barbosa> aoiuahoaiuhaoiuahoiuh
+2014-05-09 00:32:51 <Leonardo Valeriano> aqui tá dando pau de codificação
+2014-05-09 00:35:48 <Pedro Barbosa> é que tem um arquivo que não ta em UTF
+2014-05-09 00:35:50 <Pedro Barbosa> acho que é isso
+2014-05-09 00:35:58 <Pedro Barbosa> aí tem que salvar em UTF
+2014-05-09 00:36:03 <Pedro Barbosa> abre ele e salva em UTF
+2014-05-09 00:46:22 <Leonardo Valeriano> tá tudo em utf
+2014-05-09 00:46:29 <Pedro Barbosa> pois é
+2014-05-09 00:46:35 <Pedro Barbosa> pra mim tb apareceu assim veio
+2014-05-09 00:46:38 <Leonardo Valeriano> mas meu editor usa outra codificação
+2014-05-09 00:46:50 <Pedro Barbosa> e tanto henrique como paulo me disseram pra mudar a codificação
+2014-05-09 00:46:55 <Leonardo Valeriano> é uma bostinha esse editor
+2014-05-09 00:46:58 <Pedro Barbosa> no meu todos aparecem utf
+2014-05-09 00:47:29 <Leonardo Valeriano> ele compila pow
+2014-05-09 00:47:43 <Leonardo Valeriano> são os meus arquivos que estão em ANSI
+2014-05-09 00:52:51 <Leonardo Valeriano> ah garoto
+2014-05-09 00:52:56 <Leonardo Valeriano> me garanti
+2014-05-09 00:53:47 <Pedro Barbosa> o que foi/
+2014-05-09 00:53:50 <Pedro Barbosa> conseguiu?
+2014-05-09 00:55:57 <Leonardo Valeriano> eu converti os meus capítulos em UTF sem BOM
+2014-05-09 00:56:17 <Leonardo Valeriano> e tô usando eles
+2014-05-09 00:56:21 <Leonardo Valeriano> o/
+2014-05-09 00:58:28 <Pedro Barbosa> como assim?
+2014-05-09 00:58:33 <Pedro Barbosa> tu usou teus capítulos no rise
+2014-05-09 00:59:07 <Leonardo Valeriano> adicionei
+2014-05-09 00:59:15 <Leonardo Valeriano> eu converti o 1
+2014-05-09 00:59:57 <Leonardo Valeriano> em UTF e já consegui usar ele sem dor de cabeça
+2014-05-09 01:02:08 <Pedro Barbosa> ouxi
+2014-05-09 01:02:10 <Pedro Barbosa> que bosta
+2014-05-09 01:02:15 <Pedro Barbosa> o 1?
+2014-05-09 01:02:18 <Pedro Barbosa> tu pegou o teu cap 1
+2014-05-09 01:02:21 <Pedro Barbosa> e colocou lá
+2014-05-09 01:02:24 <Pedro Barbosa> em utf
+2014-05-09 01:02:31 <Pedro Barbosa> eu não consigo
+2014-05-09 01:02:38 <Pedro Barbosa> entao é problema do dele
+2014-05-09 01:02:42 <Pedro Barbosa> do cap 1 dele
+2014-05-09 01:02:47 <Leonardo Valeriano> n pow
+2014-05-09 01:02:57 <Leonardo Valeriano> meu editor compilou o dele de boa
+2014-05-09 01:03:11 <Leonardo Valeriano> e compila o meu também
+2014-05-09 01:03:29 <Leonardo Valeriano> mas o meu e o dele tem diferentes codes
+2014-05-09 01:03:47 <Leonardo Valeriano> eu só igualei o code do meu com o dele
+2014-05-09 01:04:05 <Leonardo Valeriano> as referências têm que mudar
+2014-05-09 01:04:08 <Leonardo Valeriano> que bosta
+2014-05-09 01:04:13 <Leonardo Valeriano> :(
+2014-05-09 01:04:46 <Leonardo Valeriano> compilou o .bib mas ficou errada a formatação do meu
+2014-05-09 01:06:49 <Pedro Barbosa> compilou desde o inicio?
+2014-05-09 01:06:59 <Pedro Barbosa> mesmo com o \presentation
+2014-05-09 01:09:51 <Leonardo Valeriano> n
+2014-05-09 01:09:59 <Leonardo Valeriano> sem esse \presentation
+2014-05-09 01:10:05 <Leonardo Valeriano> depois eu olho ele
+2014-05-09 01:10:28 <Leonardo Valeriano> as referências ficaram iguais as dele
+2014-05-09 01:10:42 <Leonardo Valeriano> vi agora no pdf que tem no .zip
+2014-05-09 01:10:55 <Leonardo Valeriano> menos uma preocupação
+2014-05-09 01:39:30 <Leonardo Valeriano> porra bixo
+2014-05-09 01:39:39 <Leonardo Valeriano> ficou do carai as citaçõe
+2014-05-09 01:39:56 <Leonardo Valeriano> realmente fica estilizado
+2014-05-09 01:40:35 <Leonardo Valeriano> e ainda aparece os bookmarks no pdf que eu n consegui botar no thesis nem a pau
+2014-05-09 01:41:30 <Pedro Barbosa> porra
+2014-05-09 01:41:39 <Pedro Barbosa> vou tentar tirar essa porra da presentation
+2014-05-09 01:44:14 <Pedro Barbosa> tu só apagou a linha \presentationpage?
+2014-05-09 01:46:04 <Leonardo Valeriano> comentei
+2014-05-09 01:47:31 <Pedro Barbosa> da erro nesse caralho do mesmo jeito
+2014-05-09 01:47:35 <Pedro Barbosa> ¬¬
+2014-05-09 01:51:20 <Leonardo Valeriano> qual erro
+2014-05-09 01:51:22 <Leonardo Valeriano> ?
+2014-05-09 01:51:53 <Pedro Barbosa> a mesma coisa
+2014-05-09 01:51:56 <Pedro Barbosa> nos \ac
+2014-05-09 01:52:01 <Pedro Barbosa> e \acp da vida
+2014-05-09 01:52:03 <Pedro Barbosa> no abstract
+2014-05-09 01:58:20 <Pedro Barbosa> escrevi 3 linhas de introdução
+2014-05-09 01:58:21 <Pedro Barbosa> putz
+2014-05-09 01:58:24 <Pedro Barbosa> melhor eu ir dormir
+2014-05-09 01:58:31 <Pedro Barbosa> que amanhã tem aquela porra de analise chata
+2014-05-09 01:58:35 <Pedro Barbosa> iauhoaiuhaoiuahoiuah
+2014-05-09 02:06:32 <Leonardo Valeriano> haaiaaihaiha
+2014-05-09 02:06:49 <Leonardo Valeriano> tu precisa disso?
+2014-05-09 02:06:56 <Leonardo Valeriano> \ac
+2014-05-09 02:06:59 <Leonardo Valeriano> \acp
+2014-05-09 02:07:33 <Leonardo Valeriano> tu baixou e executou? ou apagasse algo no risethesis?
+2014-05-09 02:07:48 <Pedro Barbosa> Baixei e executei
+2014-05-09 02:08:02 <Pedro Barbosa> Deu erro no \presentation
+2014-05-09 02:08:07 <Pedro Barbosa> Ai comentei
+2014-05-09 02:08:13 <Pedro Barbosa> E deu erro nessas porra
+2014-05-09 02:08:22 <Pedro Barbosa> Vou apagar esse arq do abastract
+2014-05-09 02:11:33 <Leonardo Valeriano> é um caminho
+2014-05-09 02:11:44 <Leonardo Valeriano> pode ser o compilador do LateX
+2014-05-09 02:11:50 <Leonardo Valeriano> que não aceita
+2014-05-09 02:34:54 <Leonardo Valeriano> consegui botar a presentation page
+2014-05-09 02:34:57 <Leonardo Valeriano> o/
+2014-05-09 02:35:10 <Leonardo Valeriano> mas modifiquei a classe do rise
+2014-05-09 02:35:16 <Leonardo Valeriano> vou indo
+2014-05-09 02:35:20 <Leonardo Valeriano> até amanhã
+2014-05-09 02:35:32 <Pedro Barbosa> Vou ibdi tb
+2014-05-09 02:35:34 <Pedro Barbosa> Flw
+2014-05-12 20:07:31 <Pedro Barbosa> Ei man
+2014-05-12 20:07:43 <Pedro Barbosa> Tu recebe pela caixa é?
+2014-05-15 12:38:47 <Leonardo Valeriano> Fica em casa. Todo mundo já foi liberado.
+2014-05-15 12:39:23 <Pedro Barbosa> Massa. Vou ficar
+2014-05-15 12:39:41 <Pedro Barbosa> Vai ficar negativo né?
+2014-05-15 12:41:17 <Leonardo Valeriano> Vai.
+2014-05-15 12:42:15 <Leonardo Valeriano> Amanhã só venho de tarde.
+2014-05-18 22:24:19 <Pedro Barbosa> ei leo
+2014-05-18 22:24:31 <Pedro Barbosa> tem uma dissertação que tsang gosta muito né?
+2014-05-18 22:24:40 <Pedro Barbosa> que ele pede pra o cara se basear
+2014-05-18 22:24:42 <Pedro Barbosa> tu tem ela?
+2014-05-20 10:39:43 <Pedro Barbosa> http://www.redmine.org/
+2014-05-23 00:34:49 <Pedro Barbosa> ei leo
+2014-05-23 00:34:56 <Pedro Barbosa> tu conseguiu ajeitar os acrônimos?
+2014-05-23 11:57:01 <Leonardo Valeriano> Eu tirei eles. Mas n dava bronca n. Tu usa isso?
+2014-05-23 11:58:45 <Pedro Barbosa> Queria usar pra automatizar meus acrônimos
+2014-05-23 11:58:59 <Pedro Barbosa> To usando
+2014-05-23 11:59:05 <Pedro Barbosa> Da erro de compilação
+2014-05-23 11:59:09 <Pedro Barbosa> Mas gera o pdf
+2014-05-23 14:17:54 <Pedro Barbosa> http://stackoverflow.com/questions/413477/is-there-a-good-valgrind-substitute-for-windows
+2014-05-23 14:19:04 <Pedro Barbosa> http://www.cprogramming.com/debugging/valgrind.html
+2014-05-23 14:42:20 <Pedro Barbosa> http://valgrind.org/docs/manual/mc-manual.html#mc-manual.leaks
+2014-05-23 14:42:25 <Pedro Barbosa> saca o topico 4.2.7
+2014-07-29 15:25:36 <Pedro Barbosa> http://www.infoworld.com/t/javascript/meteor-aims-make-javascript-programming-fun-again-232659
+2014-08-13 12:37:28 <Pedro Barbosa> Ei vei
+2014-08-13 12:37:37 <Pedro Barbosa> qual é aquele número que o cara liga pra acompanhar o diploma?
+2014-08-13 12:37:54 <Leonardo Valeriano> bixo
+2014-08-13 12:38:00 <Leonardo Valeriano> eu vi no siga
+2014-08-13 12:38:13 <Leonardo Valeriano> busquei os processos
+2014-08-13 12:40:31 <Pedro Barbosa> mas no meu caso eu preciso ligar
+2014-08-13 12:40:49 <Pedro Barbosa> pq teve erro
+2014-08-13 12:41:08 <Leonardo Valeriano> hum.. n sei cara
+2014-08-13 12:41:14 <Pedro Barbosa> blz
+2014-08-13 12:41:19 <Pedro Barbosa> vou tentar algum genérico aqui
+2014-08-13 12:41:21 <Leonardo Valeriano> teve erro no diploma de Eng.?
+2014-08-13 12:41:23 <Pedro Barbosa> pra eles me trasnferirem
+2014-08-13 12:41:26 <Pedro Barbosa> Teve
+2014-08-13 12:41:33 <Pedro Barbosa> Eles me colocarm em ciências
+2014-08-13 12:41:34 <Pedro Barbosa> auhaoiuahoiauhaoiuh
+2014-08-13 12:41:41 <Leonardo Valeriano> hahauauaua
+2014-08-13 12:41:46 <Leonardo Valeriano> ixii
+2014-08-13 12:41:54 <Leonardo Valeriano> é foda isso
+2014-08-13 12:42:53 <Pedro Barbosa> é vei..
+2014-08-13 12:42:56 <Pedro Barbosa> :/
+2014-08-13 12:46:38 <Leonardo Valeriano> Eduardo Campos is dead!
+2014-08-13 12:46:49 <Leonardo Valeriano> Caiu o avião dele no Guarujá
+2014-08-18 18:36:07 <Pedro Barbosa> http://cppcheck.sourceforge.net/
+2014-09-02 20:48:32 <Pedro Barbosa> http://apstore.fifa.com/stores/products/category.aspx?catid=1062&cat=Germany]
+2014-09-02 20:48:41 <Pedro Barbosa> http://apstore.fifa.com/stores/products/category.aspx?catid=1062&cat=Germany
+2014-09-02 21:39:41 <Leonardo Valeriano> http://www.ebay.com/itm/NIKE-CTR360-TREQUARTISTA-II-FG-MENS-BLACK-FOOTBALL-BOOTS-US-10-FREE-POST-AUST-/361038665620?pt=AU_Men_Shoes&hash=item540f94d794
+2014-09-03 00:29:46 <Leonardo Valeriano> Pedro
+2014-09-03 00:29:51 <Leonardo Valeriano> se liga aew
+2014-09-03 00:30:07 <Leonardo Valeriano> vou te mandar o projeto que fiz no ShareLatex
+2014-09-03 00:30:13 <Leonardo Valeriano> da Apresentação
+2014-09-05 17:12:45 <Pedro Barbosa> Leo
+2014-09-05 17:12:47 <Pedro Barbosa> tais por aí
+2014-09-05 17:12:51 <Pedro Barbosa> meu celular descarregou
+2014-09-05 17:15:29 <Leonardo Valeriano> Oi
+2014-09-05 17:15:52 <Pedro Barbosa> diga lá
+2014-09-05 17:15:55 <Pedro Barbosa> meu cel descarregou
+2014-09-05 17:18:41 <Leonardo Valeriano> Pega os vídeos de output do Sfc na pasta E:/jogos_techcrunch
+2014-09-05 17:18:42 <Leonardo Valeriano> É manda pra Balaka
+2014-09-05 17:20:36 <Leonardo Valeriano> *e
+2014-09-05 17:23:01 <Pedro Barbosa> vou mandar
+2014-09-05 17:23:12 <Pedro Barbosa> tu sabe onde ta chelsea e manchester united
+2014-09-05 17:23:13 <Pedro Barbosa> ?
+2014-09-05 17:23:59 <Leonardo Valeriano> Hum..
+2014-09-05 17:24:10 <Pedro Barbosa> PERGUNTA A FELIZARDO
+2014-09-05 17:24:16 <Pedro Barbosa> eita
+2014-09-05 17:24:20 <Pedro Barbosa> liguei sem querer o caps
+2014-09-05 17:24:21 <Pedro Barbosa> :P
+2014-09-05 17:24:37 <Pedro Barbosa> é um trecho que foi utilizado em uma apresentação antiga
+2014-09-05 17:25:14 <Pedro Barbosa> preciso disso agora
+2014-09-05 17:25:22 <Pedro Barbosa> que é pra mandar pra um designer em sp
+2014-09-05 17:26:49 <Leonardo Valeriano> Tá no desktop. Na pasta test_resource
+2014-09-05 17:27:24 <Leonardo Valeriano> Acredito. Felizardo n sabe.
+2014-09-05 17:28:10 <Pedro Barbosa> ta não
+2014-09-05 17:28:18 <Pedro Barbosa> é chealsea vs m united
+2014-09-05 17:28:35 <Leonardo Valeriano> Hum, tá no desktop
+2014-09-05 17:28:36 <Pedro Barbosa> com um gol do cheasea eu acho
+2014-09-05 17:28:44 <Leonardo Valeriano> Pelo que me lembro.
+2014-09-05 17:28:45 <Pedro Barbosa> só um trechinho
+2014-09-05 17:29:12 <Leonardo Valeriano> Tem uma pasta C:/videos?
+2014-09-05 17:29:21 <Pedro Barbosa> vou ver lá
+2014-09-05 17:29:27 <Pedro Barbosa> em test_resource só tem
+2014-09-05 17:29:30 <Pedro Barbosa> m city
+2014-09-05 17:29:32 <Pedro Barbosa> e chealsea
+2014-09-05 17:30:42 <Pedro Barbosa> onde estão os jogos?
+2014-09-05 17:31:01 <Pedro Barbosa> os jogos brutos?
+2014-09-05 17:31:05 <Pedro Barbosa> no \\tucana?
+2014-09-05 17:31:33 <Leonardo Valeriano> Que jogos?
+2014-09-05 17:31:47 <Pedro Barbosa> todos que temos gravados
+2014-09-05 17:31:53 <Pedro Barbosa> brutos
+2014-09-05 17:31:57 <Leonardo Valeriano> Tem alguns em Tucana tbm
+2014-09-05 17:32:06 <Pedro Barbosa> tem um lugar que tem todos
+2014-09-05 17:32:16 <Pedro Barbosa> felizardo sabe
+2014-09-05 17:32:30 <Leonardo Valeriano> Na pasta resources
+2014-09-05 17:32:52 <Leonardo Valeriano> Tu mandou os jogos de output?
+2014-09-05 17:33:12 <Pedro Barbosa> n pow
+2014-09-05 17:33:26 <Pedro Barbosa> esse jogo não tem nada a ver com o que vcs tao trabalhando
+2014-09-05 17:33:34 <Pedro Barbosa> achei aqui num email antigo onde ficam os jogos
+2014-09-05 17:33:34 <Leonardo Valeriano> Tem que ver quando Balaka sai. Ele vai viajar hoje.
+2014-09-05 17:33:35 <Pedro Barbosa> \\192.168.1.111\Download\SFC\2. Videos\Base de dados\Jogos Completos
+2014-09-05 17:34:16 <Leonardo Valeriano> Sim pow. Eu entendi :)
+2014-09-05 17:34:49 <Leonardo Valeriano> Tô perguntando dos que eu te pedi pra reunir.
+2014-09-05 17:35:03 <Pedro Barbosa> sim
+2014-09-05 17:35:09 <Pedro Barbosa> ele me pediu pra pegar esse agora
+2014-09-05 17:35:16 <Pedro Barbosa> n me falou nada sobre os da techcrunch
+2014-09-05 17:35:20 <Pedro Barbosa> vou falar com ele logo mais
+2014-09-05 17:42:59 <Leonardo Valeriano> Witarq/público/Alessandro
+2014-09-05 17:43:42 <Leonardo Valeriano> Tem um vídeo lá chlxmnu
+2014-09-05 17:43:45 <Pedro Barbosa> veio
+2014-09-05 17:43:54 <Pedro Barbosa> felizardo não lembra de jeito nenhum onde ta o jogo?
+2014-09-05 17:44:07 <Pedro Barbosa> contra o manchester united
+2014-09-05 17:44:19 <Pedro Barbosa> gol de surridge
+2014-09-05 17:44:37 <Leonardo Valeriano> Nessa pasta que te falei agora
+2014-09-05 17:44:56 <Pedro Barbosa> ahhhh
+2014-09-05 17:44:59 <Pedro Barbosa> bl
+2014-09-05 17:45:01 <Pedro Barbosa> blz
+2014-09-05 17:45:06 <Pedro Barbosa> deixa eu ver aqui
+2014-09-05 17:46:36 <Leonardo Valeriano> Tô conversando com tua professora de inglês.
+2014-09-05 17:46:41 <Leonardo Valeriano> Gatinha
+2014-09-05 17:46:47 <Leonardo Valeriano> ;)
+2014-09-05 17:49:50 <Pedro Barbosa> kkkkkkkkkkkkkkkkkkkkkkkkkkk
+2014-09-05 17:49:58 <Pedro Barbosa> intaum!
+2014-09-05 17:50:16 <Pedro Barbosa> baxinha linda
+2014-09-05 17:51:42 <Leonardo Valeriano> Felizardo agrees
+2014-09-05 17:51:56 <Pedro Barbosa> haoiauhaoiuhaoih
+2014-09-05 17:52:14 <Pedro Barbosa> Everyone agrees
+2014-09-05 17:52:18 <Pedro Barbosa> kkkkkk
+2014-09-05 17:56:02 <Pedro Barbosa> leo
+2014-09-05 17:56:14 <Pedro Barbosa> é pra eu passar só os trechos pra balaca?
+2014-09-05 17:56:23 <Pedro Barbosa> os vídeos?
+2014-09-05 17:56:40 <Pedro Barbosa> ou pra passar aquela pasta toda?
+2014-09-05 17:56:45 <Pedro Barbosa> com resources e etc?
+2014-09-05 17:56:55 <Leonardo Valeriano> Cara, é o output todo. Se der tempo felizardo corta.
+2014-09-05 17:57:06 <Leonardo Valeriano> Só o vídeo.
+2014-09-05 17:57:13 <Leonardo Valeriano> Ele tem 10min
+2014-09-05 17:57:34 <Pedro Barbosa> calma
+2014-09-05 17:57:43 <Leonardo Valeriano> De cada jogo que tem pro Techcrunch, menos o do Liverpool
+2014-09-05 17:57:49 <Pedro Barbosa> passo a pasta JOGOS TECHCRUNCH toda né?
+2014-09-05 17:58:10 <Leonardo Valeriano> N cara, só os vídeos que o Sfc gerou.
+2014-09-05 17:58:28 <Pedro Barbosa> ahh blz
+2014-09-05 17:58:30 <Pedro Barbosa> ótimo
+2014-09-05 17:58:33 <Leonardo Valeriano> Os que tem 10min
+2014-09-05 17:58:48 <Pedro Barbosa> blz
+2014-09-05 17:58:52 <Pedro Barbosa> vou organizar aqui
+2014-09-05 18:01:21 <Pedro Barbosa> argentina alemanha tem 30 min porra
+2014-09-05 18:01:24 <Pedro Barbosa> tem 10 n
+2014-09-05 18:02:18 <Leonardo Valeriano> É pq ele tá estranho. Mas são 10min.
+2014-09-05 18:04:06 <Pedro Barbosa> ta blz
+2014-09-05 18:23:56 <Leonardo Valeriano> Balaka tá por aí?
+2014-09-05 18:24:03 <Pedro Barbosa> deve estar
+2014-09-05 18:24:09 <Pedro Barbosa> ele viaja amanhã
+2014-09-05 18:28:23 <Pedro Barbosa> leo
+2014-09-05 18:28:42 <Pedro Barbosa> qual o motivo de passar esses vídeos pra ele?
+2014-09-05 18:28:55 <Pedro Barbosa> ele não sabe porque estamos passando pra ele e nem eu
+2014-09-05 18:28:58 <Pedro Barbosa> haiuhaoiauh
+2014-09-05 18:41:10 <Leonardo Valeriano> João pediu um vídeo pra acompanhar o que acontece no celular
+2014-09-05 18:42:30 <Pedro Barbosa> massa
+2014-09-05 18:42:34 <Pedro Barbosa> vou avisar a ele
+2014-09-05 18:42:42 <Pedro Barbosa> tu queres dar mais algum recado a balaca é?
+2014-09-18 15:48:46 <Leonardo Valeriano> https://sites.google.com/a/cin.ufpe.br/multiple-classifier-system/home?pli=1
+2014-09-19 17:53:56 <Pedro Barbosa> http://www.visual-paradigm.com/download/community.jsp
+2014-09-19 17:54:59 <Pedro Barbosa> http://nclass.sourceforge.net/
+2014-09-19 17:56:50 <Pedro Barbosa> http://staruml.io/
+2014-10-03 00:21:12 <Leonardo Valeriano> "A forma como vc fala, toda atrapalhada.." disse Marina Silva, interrompida por William Bonner.
+2014-10-03 00:26:04 <Pedro Barbosa> Kkkkkkk
+2014-10-13 14:04:40 <Pedro Barbosa> Ei man
+2014-10-13 14:04:53 <Pedro Barbosa> O que foi exatamente que ficou faltando pra ver se eu consigo tocar pra frente
+2014-10-22 09:21:54 <Leonardo Valeriano> Saca aew man
+2014-10-22 09:21:55 <Leonardo Valeriano> http://www.computervisiononline.com/biblio/1105133037
+2014-10-22 12:10:42 <Pedro Barbosa> massa
+2014-10-22 12:10:46 <Pedro Barbosa> vou dar uma lida
+2014-11-06 20:48:45 <Pedro Barbosa> http://www.prnewswire.com/news-releases/image-recognition-market-worth-2565-billion-by-2019-251966041.html
+2014-11-26 21:04:56 <Leonardo Valeriano> Ei man
+2014-11-26 21:05:23 <Leonardo Valeriano> cruzeiro tá jogando de branco
+2014-11-26 21:05:46 <Leonardo Valeriano> conseguisse trocar
+2014-11-26 21:05:49 <Leonardo Valeriano> ?
+2014-11-26 21:17:21 <Pedro Barbosa> troquei
+2014-11-26 21:17:27 <Pedro Barbosa> mas linha ta ruim
+2014-11-26 21:17:30 <Pedro Barbosa> rodei a branch
+2014-11-26 21:17:37 <Leonardo Valeriano> porra
+2014-11-26 21:17:42 <Leonardo Valeriano> que triste
+2014-11-26 21:17:53 <Pedro Barbosa> e o app não ta pegando
+2014-11-26 21:17:56 <Leonardo Valeriano> as melhorias n surtiram efeito
+2014-11-26 21:18:36 <Leonardo Valeriano> tá dando freeze na app né?
+2014-11-26 21:18:49 <Leonardo Valeriano> ou tem outro problema?
+2014-11-26 21:19:49 <Pedro Barbosa> como fecha a flag?
+2014-11-26 21:19:52 <Pedro Barbosa> eu vou matar
+2014-11-26 21:19:56 <Pedro Barbosa> e rodar de novo
+2014-11-26 21:20:01 <Leonardo Valeriano> n pow
+2014-11-26 21:20:07 <Leonardo Valeriano> deixa aí
+2014-11-26 21:20:18 <Leonardo Valeriano> qual o problema
+2014-11-26 21:20:19 <Leonardo Valeriano> ?
+2014-11-26 21:20:22 <Pedro Barbosa> não ta rodando no app
+2014-11-26 21:20:36 <Pedro Barbosa> ele tenta carregar a escalação e da errp
+2014-11-26 21:20:41 <Pedro Barbosa> Escalação não está pronta
+2014-11-26 21:21:04 <Leonardo Valeriano> na pasta C:\setup_script_Copa_do_Brasil
+2014-11-26 21:21:07 <Pedro Barbosa> Erro: escalação ainda não está pronta
+2014-11-26 21:21:14 <Leonardo Valeriano> tem o set_end_flags
+2014-11-26 21:21:22 <Leonardo Valeriano> troca o id do jogo
+2014-11-26 21:21:33 <Pedro Barbosa> pra o segundo tempo né?
+2014-11-26 21:21:40 <Leonardo Valeriano> pra agora
+2014-11-26 21:21:41 <Pedro Barbosa> 4532
+2014-11-26 21:21:44 <Pedro Barbosa> eu sei
+2014-11-26 21:21:50 <Leonardo Valeriano> n pow
+2014-11-26 21:21:51 <Pedro Barbosa> vou matar
+2014-11-26 21:21:55 <Leonardo Valeriano> certo
+2014-11-26 21:21:57 <Pedro Barbosa> e usar o id 4532
+2014-11-26 21:22:02 <Leonardo Valeriano> n cara
+2014-11-26 21:22:16 <Leonardo Valeriano> o segundo tempo vai gravar
+2014-11-26 21:22:22 <Leonardo Valeriano> fecha aí
+2014-11-26 21:22:30 <Leonardo Valeriano> seta as flags de fim
+2014-11-26 21:22:32 <Pedro Barbosa> eu sei porra
+2014-11-26 21:22:41 <Leonardo Valeriano> e roda o Run pro primeiro tempo
+2014-11-26 21:22:44 <Leonardo Valeriano> 4531
+2014-11-26 21:22:49 <Pedro Barbosa> mas a gente vai usar o id do segundo tempo pra o primeiro
+2014-11-26 21:22:52 <Pedro Barbosa> pra ver se pega
+2014-11-26 21:22:58 <Leonardo Valeriano> n n n
+2014-11-26 21:23:02 <Leonardo Valeriano> precisa n
+2014-11-26 21:23:05 <Pedro Barbosa> blz
+2014-11-26 21:23:09 <Pedro Barbosa> vou tentar
+2014-11-26 21:23:19 <Leonardo Valeriano> antes de tentar no app
+2014-11-26 21:23:33 <Leonardo Valeriano> fecha o app e abre de novo
+2014-11-26 21:23:46 <Leonardo Valeriano> só pra ter certeza que atualizou
+2014-11-26 21:24:26 <Leonardo Valeriano> avisa aew se deu certo
+2014-11-26 21:28:26 <Pedro Barbosa> ve só
+2014-11-26 21:28:29 <Pedro Barbosa> esse set_end
+2014-11-26 21:28:37 <Pedro Barbosa> o cara tem que chamar por linha de comando passando o ID né?
+2014-11-26 21:34:00 <Leonardo Valeriano> oi
+2014-11-26 21:34:30 <Leonardo Valeriano> eita, foi mal. ele é um .bat
+2014-11-26 21:34:48 <Leonardo Valeriano> é só colocar o id, salvar e rodar
+2014-11-26 21:34:54 <Leonardo Valeriano> teve sucesso?
+2014-11-26 21:35:06 <Pedro Barbosa> o heroku tava cagado
+2014-11-26 21:35:11 <Leonardo Valeriano> hum.....
+2014-11-26 21:35:13 <Pedro Barbosa> felizardo criou um jogo novo
+2014-11-26 21:35:16 <Leonardo Valeriano> que triste
+2014-11-26 21:35:23 <Leonardo Valeriano> agora?
+2014-11-26 21:35:38 <Pedro Barbosa> quando a turma bloqueou os outros campeonatos apagou as escalações dos que já existiam
+2014-11-26 21:35:56 <Pedro Barbosa> ele cirou um novo
+2014-11-26 21:36:03 <Leonardo Valeriano> certo, mas eu pedi para deixarem o cruzeiro e atlético
+2014-11-26 21:36:36 <Pedro Barbosa> eles deixaram o jogo
+2014-11-26 21:36:43 <Pedro Barbosa> mas o que tinha cadastrado dentro apagou
+2014-11-26 21:36:54 <Leonardo Valeriano> operation fail
+2014-11-26 21:37:00 <Pedro Barbosa> yep
+2014-11-26 21:37:04 <Leonardo Valeriano> a gente ainda é muito complexo
+2014-11-26 21:37:19 <Leonardo Valeriano> tem que simplificar e unificar esse processo
+2014-11-26 21:38:26 <Pedro Barbosa> é
+2014-11-26 21:38:30 <Leonardo Valeriano> fala com Juarez
+2014-11-26 21:38:35 <Pedro Barbosa> felizardo ta reiniciando o celular
+2014-11-26 21:38:42 <Pedro Barbosa> dele
+2014-11-26 21:38:44 <Leonardo Valeriano> pra ver se a galera quer rodar o segundo tempo
+2014-11-26 21:38:45 <Pedro Barbosa> pra falar com o povo
+2014-11-26 21:38:52 <Leonardo Valeriano> blz
+2014-11-26 21:39:08 <Leonardo Valeriano> o foda é que apagaram as escalações
+2014-11-26 21:39:22 <Leonardo Valeriano> n era pra apagar nada, era só ocultar
+2014-11-26 21:41:37 <Leonardo Valeriano> valeu aí man
+2014-11-26 21:41:59 <Pedro Barbosa> de boas
+2014-11-26 21:41:59 <Leonardo Valeriano> se o pessoal n falar nada vai te embora
+2014-11-26 21:42:08 <Pedro Barbosa> blz man
+2014-11-26 21:42:25 <Leonardo Valeriano> conseguisse algum voucher?
+2014-11-26 21:42:31 <Pedro Barbosa> nada
+2014-11-26 21:42:36 <Pedro Barbosa> falei com meu coroa
+2014-11-26 21:42:49 <Leonardo Valeriano> tranquilo
+2014-11-26 21:43:13 <Pedro Barbosa> ei man
+2014-11-26 21:43:17 <Pedro Barbosa> deixasse o a ver tv aberto
+2014-11-26 21:43:18 <Pedro Barbosa> :P
+2014-11-26 21:43:25 <Leonardo Valeriano> deixei
+2014-11-26 21:43:29 <Leonardo Valeriano> para gravar
+2014-11-26 21:43:29 <Pedro Barbosa> e robson deixou as merda dele rodando
+2014-11-26 21:43:30 <Pedro Barbosa> ahoaiuhaoiuah
+2014-11-26 21:43:33 <Pedro Barbosa> não pow
+2014-11-26 21:43:35 <Leonardo Valeriano> ahauhauaha
+2014-11-26 21:43:39 <Pedro Barbosa> mas o jogo não funciona com ele aberto não
+2014-11-26 21:43:45 <Leonardo Valeriano> hum...
+2014-11-26 21:43:50 <Leonardo Valeriano> operation fail 2
+2014-11-26 21:43:52 <Leonardo Valeriano> :D
+2014-11-26 21:43:54 <Pedro Barbosa> pq acho que o recurso é único
+2014-11-26 21:43:55 <Pedro Barbosa> ahaouahoiuaha
+2014-11-26 21:43:56 <Leonardo Valeriano> blz
+2014-11-26 21:44:12 <Leonardo Valeriano> mas acho que ele pega visse
+2014-11-26 21:44:17 <Leonardo Valeriano> fica mais lento
+2014-11-26 21:44:21 <Pedro Barbosa> n
+2014-11-26 21:44:23 <Pedro Barbosa> ele fecha
+2014-11-26 21:44:28 <Leonardo Valeriano> massa
+2014-11-26 21:44:28 <Pedro Barbosa> o sfc fecha
+2014-11-26 21:44:33 <Pedro Barbosa> sem maiores explicações
+2014-11-26 21:44:34 <Pedro Barbosa> aiuhaoiuhaoiuah
+2014-11-26 21:44:42 <Leonardo Valeriano> entendi já
+2014-11-26 21:44:47 <Leonardo Valeriano> blz vlw mesmo
+2014-11-26 21:45:05 <Leonardo Valeriano> n tem como fazer as duas coisas no automátio
+2014-11-26 21:45:07 <Pedro Barbosa> n porra... quis dizer que o SFC sem dar explicações pq fechou
+2014-11-26 21:45:12 <Leonardo Valeriano> tem que ser manula
+2014-11-26 21:45:15 <Leonardo Valeriano> *manual
+2014-11-26 21:45:16 <Pedro Barbosa> é
+2014-11-26 21:45:26 <Leonardo Valeriano> eu tô ligado tbm 
+2014-11-26 21:45:29 <Leonardo Valeriano> entendi
+2014-11-26 21:45:36 <Leonardo Valeriano> blz cara
+2014-11-26 21:45:47 <Leonardo Valeriano> eu vou indo cara
+2014-11-26 21:46:02 <Leonardo Valeriano> valeu aew! flwz.
+2014-11-26 21:47:15 <Pedro Barbosa> blz
+2014-11-26 21:47:15 <Pedro Barbosa> flws
+2014-11-26 21:48:13 <Pedro Barbosa> ei vei
+2014-11-26 21:48:23 <Pedro Barbosa> aquele script de set_end_...
+2014-11-26 21:48:27 <Pedro Barbosa> não apaga nada não né?
+2014-11-26 21:56:17 <Pedro Barbosa> placar e tempo não funcionaram
+2014-11-26 21:56:58 <Pedro Barbosa> no placar de dentro na verdade
+2014-11-26 22:14:33 <Pedro Barbosa> Leo, eu rodei o L pra o segundo tempo
+2014-11-26 22:14:45 <Pedro Barbosa> e o cruzeiro continou atacando pra direita
+2014-12-09 11:08:37 <Pedro Barbosa> https://www.dropbox.com/sh/zga0goby4pdsvjv/AADAhIJSiO0w11-iXhxSYhGIa?dl=0
+2014-12-15 23:05:21 <Pedro Barbosa> http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+2014-12-26 10:03:09 <Pedro Barbosa> leo
+2014-12-26 10:03:15 <Pedro Barbosa> tais aí?
+2014-12-26 10:40:03 <Pedro Barbosa> leo
+2014-12-26 10:40:11 <Pedro Barbosa> não rolou o SDK?
+2014-12-26 10:40:13 <Leonardo Valeriano> opa
+2014-12-26 10:40:16 <Leonardo Valeriano> tudo bom?
+2014-12-26 10:40:22 <Pedro Barbosa> tudo
+2014-12-26 10:40:23 <Pedro Barbosa> :)
+2014-12-26 10:40:26 <Pedro Barbosa> mais ou menos
+2014-12-26 10:40:28 <Leonardo Valeriano> rapaz, eu terminei de programar
+2014-12-26 10:40:31 <Pedro Barbosa> trabalhar hj quebrou
+2014-12-26 10:40:47 <Leonardo Valeriano> mas sempre dá erro na linkagem
+2014-12-26 10:40:52 <Leonardo Valeriano> ahuhau
+2014-12-26 10:41:09 <Leonardo Valeriano> o foda é que as coisas ficam emperrando
+2014-12-26 10:41:16 <Leonardo Valeriano> isso estressa mais
+2014-12-26 10:41:40 <Leonardo Valeriano> tem uma pasta "Leonardo" no desktop do server
+2014-12-26 10:42:02 <Leonardo Valeriano> é a branche que tô trabalhando
+2014-12-26 10:42:13 <Leonardo Valeriano> Felizardo chegou?
+2014-12-26 10:42:26 <Pedro Barbosa> chegou
+2014-12-26 10:42:27 <Pedro Barbosa> ta aqui
+2014-12-26 10:42:39 <Leonardo Valeriano> vê com ele qual é o canal
+2014-12-26 10:42:49 <Pedro Barbosa> vou fazer o seguinte
+2014-12-26 10:43:08 <Pedro Barbosa> vou acertar pra gravar o jogo
+2014-12-26 10:43:12 <Pedro Barbosa> com felizardo
+2014-12-26 10:43:29 <Pedro Barbosa> e enquanto isso eu fico tentando botar pra funcionar aqui
+2014-12-26 10:43:31 <Leonardo Valeriano> é pow tem que gravar ele
+2014-12-26 10:43:53 <Leonardo Valeriano> o software da aver media tá no desktop
+2014-12-26 10:44:05 <Leonardo Valeriano> é bem tranquilo
+2014-12-26 10:44:06 <Pedro Barbosa> agora eu não posso tentar testar se tiver gravando né?
+2014-12-26 10:44:10 <Pedro Barbosa> ou uma coisa ou outra
+2014-12-26 10:44:12 <Leonardo Valeriano> tem que mudar o canal
+2014-12-26 10:44:30 <Leonardo Valeriano> sim, mas primeiro compila né  :P
+2014-12-26 10:46:00 <Pedro Barbosa> kkkkkkkkkkkkk
+2014-12-26 10:46:07 <Pedro Barbosa> esse é justamente o problema né?
+2014-12-26 10:46:15 <Pedro Barbosa> mas o erro dá na compilação mesmo né?
+2014-12-26 10:46:25 <Leonardo Valeriano> é pow
+2014-12-26 10:46:38 <Leonardo Valeriano> vê se tu consegue desvendar isso
+2014-12-26 10:46:42 <Leonardo Valeriano> :)
+2014-12-26 10:46:48 <Pedro Barbosa> mistério
+2014-12-26 10:46:49 <Pedro Barbosa> auaihaiuhaoiuhaoiuha
+2014-12-26 10:46:56 <Pedro Barbosa> vê só
+2014-12-26 10:47:04 <Pedro Barbosa> pra mudar o canal é pela sky é?
+2014-12-26 10:47:08 <Pedro Barbosa> ou pelo programa?
+2014-12-26 10:47:37 <Leonardo Valeriano> Pela sky
+2014-12-26 10:47:41 <Leonardo Valeriano> tem que descer
+2014-12-26 10:48:00 <Pedro Barbosa> não tem um jeito de alterar o canal direto no pc não né?
+2014-12-26 10:48:10 <Pedro Barbosa> a placa não faz a seleção de frequência nao?
+2014-12-26 10:48:18 <Leonardo Valeriano> faz n
+2014-12-26 10:48:30 <Leonardo Valeriano> o receptor é a sky
+2014-12-26 10:48:37 <Leonardo Valeriano> só por ele
+2014-12-26 10:49:19 <Pedro Barbosa> hmmm
+2014-12-26 11:02:14 <Pedro Barbosa> ei man
+2014-12-26 11:02:18 <Pedro Barbosa> não temos o canal
+2014-12-26 11:02:19 <Leonardo Valeriano> opa
+2014-12-26 11:02:21 <Pedro Barbosa> ESPN HD
+2014-12-26 11:02:23 <Leonardo Valeriano> hum..
+2014-12-26 11:02:28 <Pedro Barbosa> não foi comprado
+2014-12-26 11:02:31 <Pedro Barbosa> não entrou ou sei lá
+2014-12-26 11:02:37 <Leonardo Valeriano> então não ia rodar nunca
+2014-12-26 11:02:40 <Pedro Barbosa> sei q não ta ativo
+2014-12-26 11:02:45 <Pedro Barbosa> iauhiauhaiuhaihaiuah
+2014-12-26 11:02:54 <Leonardo Valeriano> tá passando o do Chelsea na FoxSports
+2014-12-26 11:02:59 <Pedro Barbosa> a gente poderia testar outro jogo né?
+2014-12-26 11:03:09 <Leonardo Valeriano> gravar
+2014-12-26 11:03:30 <Leonardo Valeriano> É o do West Ham
+2014-12-26 11:03:38 <Leonardo Valeriano> vê com o Feliz
+2014-12-26 11:03:43 <Pedro Barbosa> é man
+2014-12-26 11:03:47 <Pedro Barbosa> a gente vai tentar gravar outro
+2014-12-26 11:03:54 <Pedro Barbosa> o Chealsea já está em 60
+2014-12-26 11:04:03 <Leonardo Valeriano> pede pra o Feliz ver
+2014-12-26 11:04:08 <Leonardo Valeriano> se tem outro
+2014-12-26 11:06:34 <Pedro Barbosa> blz
+2014-12-26 11:06:51 <Pedro Barbosa> vamo gravar manchester city e outro aí
+2014-12-26 11:07:44 <Leonardo Valeriano> massa
+2014-12-26 11:07:49 <Leonardo Valeriano> vamos nessa
+2014-12-26 11:08:14 <Leonardo Valeriano> pelo menos ganharemos diversidade
+2014-12-26 11:08:17 <Leonardo Valeriano> :D
+2014-12-26 11:08:59 <Leonardo Valeriano> Comunica o pessoal sobre os problemas atuais, o canal bloqueado e o impedimento da biblioteca
+2014-12-26 11:11:48 <Pedro Barbosa> blz
+2014-12-26 11:11:55 <Pedro Barbosa> to sem zap zap
+2014-12-26 11:12:03 <Pedro Barbosa> mas peço pra o menino feliz
+2014-12-26 11:12:06 <Pedro Barbosa> auihaoiuhaiouhaiouah
+2014-12-26 11:13:25 <Pedro Barbosa> botasse pra gravar em que formato?
+2014-12-26 11:13:30 <Pedro Barbosa> pensei em h264
+2014-12-26 11:23:14 <Leonardo Valeriano> foi esse mesmo
+2014-12-26 11:23:33 <Leonardo Valeriano> tem lá nas configurações do software
+2014-12-26 11:23:42 <Leonardo Valeriano> ele grava em E:\Videos
+2014-12-26 11:24:06 <Leonardo Valeriano> Ei Filipe do DP tá aí?
+2014-12-26 11:24:22 <Leonardo Valeriano> o $ das férias n entrou
+2014-12-26 11:24:23 <Leonardo Valeriano> :(
+2014-12-26 11:26:36 <Pedro Barbosa> ta sim
+2014-12-26 11:26:43 <Pedro Barbosa> manda msg pra ele
+2014-12-26 11:26:46 <Pedro Barbosa> quer que eu fale algo?
+2014-12-26 11:26:53 <Pedro Barbosa> vou indo lá pra cima
+2014-12-26 11:26:56 <Pedro Barbosa> to nas máquinas
+2014-12-26 11:27:02 <Leonardo Valeriano> blz
+2014-12-26 11:27:02 <Pedro Barbosa> falo contigo em 5min
+2014-12-26 11:27:04 <Pedro Barbosa> flws
+2014-12-26 11:27:08 <Leonardo Valeriano> eu mando email pra ele
+2014-12-26 11:27:13 <Leonardo Valeriano> flws
+2014-12-26 11:32:57 <Pedro Barbosa> pronto
+2014-12-26 11:32:58 <Pedro Barbosa> voltei
+2014-12-26 11:33:00 <Pedro Barbosa> blz
+2014-12-26 11:33:03 <Pedro Barbosa> seguinte
+2014-12-26 11:33:11 <Pedro Barbosa> colocamos pra gravar liverpool
+2014-12-26 11:33:22 <Pedro Barbosa> amanha
+2014-12-26 11:33:30 <Pedro Barbosa> e o manchester city hj
+2014-12-26 11:33:59 <Leonardo Valeriano> do carai
+2014-12-26 11:34:12 <Pedro Barbosa> Fox Sports
+2014-12-26 11:34:16 <Leonardo Valeriano> se liga que os nomes que ele grava são doidos
+2014-12-26 11:34:23 <Pedro Barbosa> to ligado
+2014-12-26 11:34:26 <Leonardo Valeriano> massa!
+2014-12-26 11:34:46 <Pedro Barbosa> depois o cara verifica pelas datas de criação dos arquivos
+2014-12-26 11:35:03 <Pedro Barbosa> pronto
+2014-12-26 11:35:09 <Pedro Barbosa> agora eu vou começar a mexer na tua branch
+2014-12-26 11:35:13 <Pedro Barbosa> tu deu algum commit
+2014-12-26 11:35:14 <Leonardo Valeriano> blz
+2014-12-26 11:35:17 <Leonardo Valeriano> n n
+2014-12-26 11:35:20 <Pedro Barbosa> ou ta na pasta no server
+2014-12-26 11:35:26 <Leonardo Valeriano> tá no server
+2014-12-26 11:35:41 <Pedro Barbosa> working copy né?
+2014-12-26 11:35:47 <Leonardo Valeriano> tu pode commitar e ver na tua máquina
+2014-12-26 11:35:52 <Leonardo Valeriano> sim sim
+2014-12-26 11:36:05 <Leonardo Valeriano> pode ser algum problema de ambiente
+2014-12-26 11:36:59 <Pedro Barbosa> humrum
+2014-12-26 11:37:03 <Pedro Barbosa> vou tentar fazer isso
+2014-12-26 11:37:10 <Pedro Barbosa> o commit pode ser na tora?
+2014-12-26 11:37:16 <Pedro Barbosa> tudo de uma vez?
+2014-12-26 11:37:28 <Pedro Barbosa> ou tem coisas que tu não quer que suba pq foi teste?
+2014-12-26 11:38:15 <Leonardo Valeriano> n n
+2014-12-26 11:38:17 <Leonardo Valeriano> na tora
+2014-12-26 11:38:23 <Leonardo Valeriano> é branch pow
+2014-12-26 11:38:27 <Leonardo Valeriano> no stress
+2014-12-26 11:57:23 <Pedro Barbosa> blz
+2014-12-26 11:57:25 <Pedro Barbosa> vou almoçar
+2014-12-26 11:57:28 <Pedro Barbosa> na volta vejo isso
+2014-12-26 11:57:32 <Pedro Barbosa> vou me apressar não
+2014-12-26 11:57:34 <Pedro Barbosa> hahahhahaha
+2014-12-26 11:57:38 <Pedro Barbosa> flws
+2014-12-26 11:57:43 <Pedro Barbosa> vlw aí!
+2014-12-26 11:59:31 <Leonardo Valeriano> ahahaha
+2014-12-26 11:59:33 <Leonardo Valeriano> blz
+2014-12-26 11:59:35 <Leonardo Valeriano> flw
+2014-12-26 14:27:02 <Leonardo Valeriano> e aew, gravou tudo certo?
+2014-12-26 16:01:15 <Pedro Barbosa> gravou
+2014-12-26 16:01:16 <Pedro Barbosa> man
+2014-12-26 16:01:23 <Pedro Barbosa> será que é pq a lib é 32 bits?
+2014-12-26 16:01:31 <Pedro Barbosa> fudeu né?
+2014-12-26 16:01:33 <Pedro Barbosa> kkkkkk
+2014-12-26 18:03:16 <Leonardo Valeriano> oi
+2014-12-26 18:03:31 <Pedro Barbosa> ei man
+2014-12-26 18:03:47 <Pedro Barbosa> o problema é 32 bits mixed with 64 bits
+2014-12-26 18:03:49 <Pedro Barbosa> haoiuhaoiuahiuh
+2014-12-26 18:03:54 <Pedro Barbosa> não funciona pow
+2014-12-26 18:04:09 <Leonardo Valeriano> tu descobriu?
+2014-12-26 18:04:13 <Leonardo Valeriano> é isso mesmo?
+2014-12-26 18:04:14 <Pedro Barbosa> a lib é 32 bits
+2014-12-26 18:04:18 <Pedro Barbosa> pow...
+2014-12-26 18:04:28 <Pedro Barbosa> é o meu palpite mais forte
+2014-12-26 18:04:32 <Leonardo Valeriano> hum
+2014-12-26 18:04:42 <Leonardo Valeriano> mas pq dá esse erro
+2014-12-26 18:04:49 <Leonardo Valeriano> era para ser outra mensagem
+2014-12-26 18:04:50 <Pedro Barbosa> pq a gente pega projetos e recompila em x64
+2014-12-26 18:05:00 <Leonardo Valeriano> certo
+2014-12-26 18:05:02 <Pedro Barbosa> ?
+2014-12-26 18:05:19 <Pedro Barbosa> a bronca é que não temos o source code dessa parada
+2014-12-26 18:05:25 <Leonardo Valeriano> mas é a lib deles, já tá pronta
+2014-12-26 18:05:28 <Leonardo Valeriano> exato
+2014-12-26 18:05:31 <Pedro Barbosa> então tem que arrumar um jeito de misturar
+2014-12-26 18:05:31 <Leonardo Valeriano> mas calma
+2014-12-26 18:05:47 <Leonardo Valeriano> pq os projetos que vieram no CD funcionam?
+2014-12-26 18:05:59 <Pedro Barbosa> pq tu compilou em 32
+2014-12-26 18:06:08 <Leonardo Valeriano> eu n compilei nada n
+2014-12-26 18:06:15 <Leonardo Valeriano> tem um exe lá
+2014-12-26 18:06:16 <Pedro Barbosa> ouxi
+2014-12-26 18:06:19 <Pedro Barbosa> então como funcionar?
+2014-12-26 18:06:23 <Pedro Barbosa> então
+2014-12-26 18:06:27 <Pedro Barbosa> ele deve ser 32 bits
+2014-12-26 18:06:38 <Leonardo Valeriano> sei, sei...
+2014-12-26 18:06:50 <Pedro Barbosa> não tem problema rodar uma aplicação 32 bits em um SO 64 bits
+2014-12-26 18:07:01 <Leonardo Valeriano> hum...
+2014-12-26 18:07:02 <Pedro Barbosa> o problema é linkar uma lib 32 bits numa aplicação 64 bits
+2014-12-26 18:07:24 <Leonardo Valeriano> massa
+2014-12-26 18:07:35 <Pedro Barbosa> tem que fazer uma gambiarra grande... que não sei como ainda...
+2014-12-26 18:07:43 <Pedro Barbosa> pode ser dois programas se comunicando
+2014-12-26 18:07:43 <Leonardo Valeriano> vai no site deles, e pega novos SDK
+2014-12-26 18:08:00 <Pedro Barbosa> uma aplicação 32 bits... rodando em um processo diferente se comunicando com o SFC
+2014-12-26 18:08:08 <Pedro Barbosa> vou ver no site
+2014-12-26 18:08:12 <Leonardo Valeriano> eu acho que já fizeram esse SDK pra 64
+2014-12-26 18:08:13 <Pedro Barbosa> pode ser que tenha lpa
+2014-12-26 18:08:15 <Pedro Barbosa> não pensei nisso
+2014-12-26 18:08:19 <Pedro Barbosa> :P
+2014-12-26 18:08:22 <Pedro Barbosa> que burrico
+2014-12-26 18:08:51 <Leonardo Valeriano> eu tbm n pensei em plataformas diferente
+2014-12-26 18:09:02 <Leonardo Valeriano> a dll e a lib são de 2012
+2014-12-26 18:09:40 <Leonardo Valeriano> se tu pegar algo em x64 vai funcionar, pois acredito que tenha compatibilidade entre as placas
+2014-12-26 18:10:03 <Leonardo Valeriano> o foda é saber se é isso mesmo
+2014-12-26 18:10:20 <Pedro Barbosa> pior que o último sdk no site é de 2012
+2014-12-26 18:10:24 <Leonardo Valeriano> pois erro de plataforma era pra ser só na execução
+2014-12-26 18:10:29 <Leonardo Valeriano> hum..
+2014-12-26 18:10:33 <Pedro Barbosa> não pow
+2014-12-26 18:10:36 <Pedro Barbosa> ele não linka
+2014-12-26 18:10:42 <Pedro Barbosa> não consegue achar os símbolos
+2014-12-26 18:10:48 <Leonardo Valeriano> vê se tem na parte de manutenção ou atualização
+2014-12-26 18:10:54 <Leonardo Valeriano> hum...
+2014-12-26 18:11:02 <Pedro Barbosa> vou ver
+2014-12-26 18:11:17 <Pedro Barbosa> não li ainda
+2014-12-26 18:11:24 <Pedro Barbosa> mas tem esse site aqui que achei
+2014-12-26 18:11:25 <Pedro Barbosa> http://blog.mattmags.com/2007/06/30/accessing-32-bit-dlls-from-64-bit-code/
+2014-12-26 18:11:27 <Pedro Barbosa> depois eu vejo
+2014-12-26 18:11:31 <Pedro Barbosa> acho que vou indo vei
+2014-12-26 18:11:34 <Pedro Barbosa> ficando tarde já
+2014-12-26 18:11:43 <Pedro Barbosa> ta meio breu por aqui
+2014-12-26 18:12:15 <Pedro Barbosa> flws
+2014-12-26 18:12:21 <Leonardo Valeriano> vá lá
+2014-12-26 18:12:33 <Leonardo Valeriano> vcs n tem voucher não né?
+2014-12-26 18:12:37 <Leonardo Valeriano> pra Domingo?
+2014-12-26 18:12:51 <Pedro Barbosa> só pra domingo mesmo
+2014-12-26 18:13:13 <Leonardo Valeriano> hum
+2014-12-26 18:13:26 <Leonardo Valeriano> carai Pedro
+2014-12-26 18:13:31 <Leonardo Valeriano> tu é gênio
+2014-12-26 18:13:32 <Leonardo Valeriano> :D
+2014-12-26 18:14:42 <Leonardo Valeriano> o SFC não pode ser 32bits
+2014-12-26 18:14:53 <Leonardo Valeriano> se não a gente sai do real time
+2014-12-26 18:15:07 <Pedro Barbosa> isso
+2014-12-26 18:15:16 <Leonardo Valeriano> vai ter que ficar alocando e desalocando memória que nem louco
+2014-12-26 18:15:24 <Leonardo Valeriano> em tempo de execução
+2014-12-26 18:15:50 <Leonardo Valeriano> a última medição que vi deu pico de 4,8 GB
+2014-12-26 18:15:59 <Leonardo Valeriano> fora placas de vídeo.
+2014-12-26 18:16:13 <Pedro Barbosa> mas acho que deve ter muito mau uso
+2014-12-26 18:16:23 <Leonardo Valeriano> se fosse 32 bits, metade disso ia pra memória virtual no HD
+2014-12-26 18:16:32 <Leonardo Valeriano> é pre-alocação
+2014-12-26 18:16:39 <Leonardo Valeriano> a gente tem 16GB
+2014-12-26 18:16:42 <Leonardo Valeriano> :)
+2014-12-26 18:20:47 <Pedro Barbosa> e aí?
+2014-12-26 18:21:03 <Pedro Barbosa> essa parada vai dar trabalho
+2014-12-26 18:21:06 <Pedro Barbosa> putz
+2014-12-26 18:21:57 <Leonardo Valeriano> acredito que não
+2014-12-26 18:22:03 <Leonardo Valeriano> mas esse ano não sai mais
+2014-12-26 18:22:15 <Leonardo Valeriano> a não ser que achemos algo pra x64
+2014-12-26 18:22:37 <Pedro Barbosa> vai man
+2014-12-26 18:25:03 <Pedro Barbosa> 1- A gente acha x64. (possível)
+2- A gente acha um código fonte. (quase impossível)
+3- A gente cria um programa em 32 independente que envia frames pra o SFC.
+4- A gente descobre a mágica de linkar libs 32 bits em aplicações 64 bits.
+2014-12-26 18:25:38 <Leonardo Valeriano> pode tirar achar código fonte da lista
+2014-12-26 18:25:48 <Leonardo Valeriano> esses caras nunca iam dar
+2014-12-26 18:27:59 <Leonardo Valeriano> acho que esse surrogate process é mais limpeza
+2014-12-26 18:29:18 <Leonardo Valeriano> ei pedro,
+2014-12-26 18:29:24 <Leonardo Valeriano> tu vai embora né?
+2014-12-26 18:29:58 <Leonardo Valeriano> Domingo, tenta criar um projeto em 32bits que inclui só o que precisar pra compilar isso
+2014-12-26 18:30:16 <Pedro Barbosa> deve dar um trabalho da porra
+2014-12-26 18:30:22 <Leonardo Valeriano> vai n pow
+2014-12-26 18:30:34 <Leonardo Valeriano> tira a parte do FrameFeatures
+2014-12-26 18:30:38 <Leonardo Valeriano> opencv
+2014-12-26 18:30:43 <Pedro Barbosa> humrum
+2014-12-26 18:30:51 <Pedro Barbosa> eu vejo domingo como posso atacar isso
+2014-12-26 18:30:58 <Leonardo Valeriano> só o mínimo com as classes já feitas
+2014-12-26 18:31:02 <Pedro Barbosa> vou indo nessa
+2014-12-26 18:31:06 <Pedro Barbosa> ta tarde
+2014-12-26 18:31:08 <Pedro Barbosa> flws man
+2014-12-26 18:31:15 <Leonardo Valeriano> blz
+2014-12-26 18:33:10 <Leonardo Valeriano> flw man
+2014-12-26 18:33:47 <Leonardo Valeriano> até Domingo
+2014-12-26 18:38:27 <Leonardo Valeriano> Quando tu tiver tempo
+2014-12-26 18:38:31 <Leonardo Valeriano> http://solutions.avermedia.com/?q=br/products/capture-cards/hd/darkcrystal-hd-capture-sdk-ll
+2014-12-26 18:39:26 <Leonardo Valeriano> A gente pode usar o Windows directShow
+2014-12-26 18:39:35 <Leonardo Valeriano> (VLC)
+2014-12-26 18:39:42 <Leonardo Valeriano> é compatível
+2014-12-26 18:39:49 <Leonardo Valeriano> http://solutions.avermedia.com/?q=br/products/capture-cards/hd/darkcrystal-hd-capture-sdk-ll
+2014-12-26 20:06:17 <Pedro Barbosa> Hnmm
+2014-12-26 20:06:27 <Pedro Barbosa> Juarez dispensou
+2014-12-26 20:06:38 <Pedro Barbosa> Vamos trabalhar nisso segunda mesmo
+2014-12-26 20:06:55 <Pedro Barbosa> Descansa o juízo aí nesse fds
+2014-12-26 20:07:08 <Pedro Barbosa> A gente resolve isso segunda e terça
+2014-12-29 17:01:25 <Pedro Barbosa> e ai man
+2014-12-29 17:01:32 <Pedro Barbosa> viesse na empresa hj?
+2014-12-29 17:27:48 <Leonardo Valeriano> ei man
+2014-12-29 17:27:55 <Pedro Barbosa> opa
+2014-12-29 17:27:59 <Leonardo Valeriano> tais aí na empresa é?
+2014-12-29 17:28:03 <Pedro Barbosa> to sim
+2014-12-29 17:28:11 <Pedro Barbosa> to vendo se da pra ler com o VLC
+2014-12-29 17:28:26 <Leonardo Valeriano> hum
+2014-12-29 17:28:28 <Leonardo Valeriano> tu viu os links que te mandei
+2014-12-29 17:28:30 <Leonardo Valeriano> ?
+2014-12-29 17:28:40 <Pedro Barbosa> mandasse a descrição da placa
+2014-12-29 17:28:43 <Pedro Barbosa> do site
+2014-12-29 17:28:45 <Pedro Barbosa> foi iss?
+2014-12-29 17:29:15 <Leonardo Valeriano> certo, mas tem umas abas que tem uns drivers novos
+2014-12-29 17:29:28 <Pedro Barbosa> a bronca é o sdk
+2014-12-29 17:30:16 <Pedro Barbosa> tu sabe o que é esse CaptureStudio?
+2014-12-29 17:30:57 <Leonardo Valeriano> e outros softwares que podem conter a dll atualizada
+2014-12-29 17:33:17 <Leonardo Valeriano> é um outro software deles, pode ter a dll e lib mais atual
+2014-12-29 17:33:39 <Leonardo Valeriano> tenta instalar pra ver se tem
+2014-12-29 17:34:21 <Pedro Barbosa> vou tentar
+2014-12-29 17:34:43 <Pedro Barbosa> tu veio hj?
+2014-12-29 17:34:59 <Leonardo Valeriano> fui n
+2014-12-29 17:35:16 <Leonardo Valeriano> n fui "escalado"
+2014-12-29 17:35:22 <Pedro Barbosa> humrum
+2014-12-29 17:35:24 <Pedro Barbosa> de boas
+2014-12-29 17:35:25 <Leonardo Valeriano> tais sozinho aí?
+2014-12-29 17:35:38 <Pedro Barbosa> do sfc ta eu, davison e robson
+2014-12-29 17:35:50 <Pedro Barbosa> aí tem o pessoal dos outros projetos
+2014-12-29 17:36:03 <Pedro Barbosa> elba renato barbara e facinho
+2014-12-29 17:36:17 <Pedro Barbosa> acho que juarez e joão estão na sala de convivencia
+2014-12-29 17:36:25 <Leonardo Valeriano> hum...
+2014-12-29 17:36:52 <Leonardo Valeriano> era pra eles definirem o que vai rodar de offline pra Janeiro
+2014-12-29 17:37:15 <Pedro Barbosa> humrum
+2014-12-29 17:37:25 <Pedro Barbosa> mas acho que agora eles querem essa placa funcionando
+2014-12-29 17:37:32 <Pedro Barbosa> se bem que eu não falei nada com eles ainda
+2014-12-29 17:37:52 <Leonardo Valeriano> entendo
+2014-12-29 17:38:22 <Leonardo Valeriano> ela vai funcionar com o SFC, mas pra agora vai estar difícil
+2014-12-29 17:39:08 <Pedro Barbosa> pois é
+2014-12-29 17:39:09 <Pedro Barbosa> oa
+2014-12-29 17:39:13 <Pedro Barbosa> baixei altos softs aqui
+2014-12-29 17:39:19 <Pedro Barbosa> nenhum tem a dll
+2014-12-29 17:39:32 <Pedro Barbosa> muito menos a lib
+2014-12-29 17:39:37 <Leonardo Valeriano> poxa...
+2014-12-29 17:39:41 <Leonardo Valeriano> que triste
+2014-12-29 17:39:54 <Pedro Barbosa> vou tentar ver se consigo usar a API do VLC pra ler a placa de captura
+2014-12-29 17:39:58 <Pedro Barbosa> caso não consiga
+2014-12-29 17:40:08 <Leonardo Valeriano> será que vale a pena fazer outro processo?
+2014-12-29 17:40:10 <Pedro Barbosa> Tem que fazer comunicação inter processos
+2014-12-29 17:40:11 <Leonardo Valeriano> tudo bem
+2014-12-29 17:40:19 <Leonardo Valeriano> humrum
+2014-12-29 17:40:29 <Leonardo Valeriano> acho que VLC vai ficar lento
+2014-12-29 17:40:35 <Pedro Barbosa> http://blog.mattmags.com/2007/06/30/accessing-32-bit-dlls-from-64-bit-code/
+2014-12-29 17:40:49 <Pedro Barbosa> material interessante sobre esse dilema 32 vs 64
+2014-12-29 17:40:59 <Leonardo Valeriano> e precisamos configurar a placa pra ela capturar na resolução correta
+2014-12-29 17:41:13 <Leonardo Valeriano> talvez usando outro software
+2014-12-29 17:41:24 <Pedro Barbosa> humrum
+2014-12-29 17:41:42 <Pedro Barbosa> vou primeiro verificar a questão do VLC
+2014-12-29 17:42:05 <Pedro Barbosa> depois o proximo passo vai ser tentar compilar só a parte de leitura em 32 bits
+2014-12-29 17:42:53 <Pedro Barbosa> tu sabe onde o cara acha a API do VLC pra leitura
+2014-12-29 17:43:10 <Leonardo Valeriano> tem uns links na minha máquina
+2014-12-29 17:43:17 <Leonardo Valeriano> deixa eu ver se acho
+2014-12-29 17:43:37 <Leonardo Valeriano> coloca VLC + AVer media capture card
+2014-12-29 17:43:48 <Leonardo Valeriano> deve aparecer os links certos
+2014-12-29 17:44:45 <Leonardo Valeriano> Se liga aew
+2014-12-29 17:44:49 <Leonardo Valeriano> https://forum.videolan.org/viewtopic.php?f=32&t=122703
+2014-12-29 17:48:22 <Pedro Barbosa> vou dar uma olhada
+2014-12-29 17:48:45 <Leonardo Valeriano> Esse link cita a família da placa
+2014-12-29 17:55:31 <Pedro Barbosa> eu vi
+2014-12-29 17:55:32 <Pedro Barbosa> massa
+2014-12-29 17:55:35 <Pedro Barbosa> é o caminho eu acho
+2014-12-29 17:55:38 <Leonardo Valeriano> Conseguisse entender alguma coisa?  :)
+2014-12-29 17:55:43 <Pedro Barbosa> entendi não
+2014-12-29 17:55:45 <Pedro Barbosa> iuahoiauhaoiuh
+2014-12-29 17:55:52 <Pedro Barbosa> mas to procurando primeiro como usar VLC
+2014-12-29 17:55:54 <Pedro Barbosa> API
+2014-12-29 17:55:55 <Leonardo Valeriano> são muitos parâmetros chatos
+2014-12-29 17:55:55 <Pedro Barbosa> auhaioahoiauh
+2014-12-29 17:56:04 <Leonardo Valeriano> ouxii
+2014-12-29 17:56:07 <Leonardo Valeriano> dá não man
+2014-12-29 17:56:19 <Leonardo Valeriano> VLC é muito mal explicado
+2014-12-29 17:56:29 <Pedro Barbosa> to percebendo aqui ahiouahoiuaha
+2014-12-29 17:56:51 <Leonardo Valeriano> esse link tem pelo menos a resolução e frame rate de captura
+2014-12-29 17:58:46 <Pedro Barbosa> https://www.videolan.org/developers/vlc/doc/doxygen/html/group__libvlc__vlm.html#gaa8d58569f07229edabe9fdaab41b1c3d
+2014-12-29 18:01:50 <Leonardo Valeriano> Esse é o VLC 3.0
+2014-12-29 18:02:01 <Leonardo Valeriano> também 32bits
+2014-12-29 18:02:33 <Leonardo Valeriano> a gente usa o 2.03 se não me engano. Tem que se ligar nisso
+2014-12-29 18:02:55 <Pedro Barbosa> verdade
+2014-12-29 18:04:04 <Pedro Barbosa> tu sabe se tem documentação pra versão que a gente usa?
+2014-12-29 18:05:08 <Pedro Barbosa> eu me impressiono como a galera consegue usar essas porra veio
+2014-12-29 18:05:09 <Pedro Barbosa> auihaoiuhaoiuah
+2014-12-29 18:05:12 <Pedro Barbosa> é muita arte
+2014-12-29 18:05:46 <Leonardo Valeriano> é fodas...
+2014-12-29 18:06:28 <Leonardo Valeriano> deve ter um link com as diferentes versões
+2014-12-29 18:10:46 <Pedro Barbosa> o que a gente usa é o 2.0.3
+2014-12-29 18:18:46 <Pedro Barbosa> oa
+2014-12-29 18:19:04 <Pedro Barbosa> foda que esse código que tu me passou é um "pedaço de código"
+2014-12-29 18:19:05 <Pedro Barbosa> uahoiauhaoiuhaoiuha
+2014-12-29 18:20:06 <Leonardo Valeriano> ahuahauha
+2014-12-29 18:20:08 <Leonardo Valeriano> blz
+2014-12-29 18:43:28 <Pedro Barbosa> agora essa rotina aí não parece pegar frame a frame
+2014-12-29 18:43:40 <Pedro Barbosa> libvlc_vlm_play_media(inst, "mybroad");
+2014-12-29 18:43:56 <Pedro Barbosa> isso aí é uma função call back acho que toca o vídeo
+2014-12-29 18:56:30 <Leonardo Valeriano> aham
+2014-12-29 18:56:47 <Leonardo Valeriano> tem que avaliar, tbm acho que não fica real time
+2014-12-29 19:11:59 <Pedro Barbosa> tentei usar o código
+2014-12-29 19:12:08 <Pedro Barbosa> o código roda... mas estoura uns erros no console
+2014-12-29 19:12:22 <Pedro Barbosa> o primeiro é que ele não consegue achar o dispositivo
+2014-12-29 19:12:44 <Pedro Barbosa> aí desconfio que seja a String que especifica o dispositivo
+2015-01-05 14:34:28 <Pedro Barbosa> man
+2015-01-05 14:34:31 <Pedro Barbosa> tais aí?
+2015-01-05 14:36:41 <Leonardo Valeriano> oi
+2015-01-05 14:36:44 <Pedro Barbosa> dei um ipconfig aqui
+2015-01-05 14:36:50 <Pedro Barbosa> e o final do ip ta 69
+2015-01-05 14:36:58 <Pedro Barbosa> tenta usar esse aí pra fazer a conexão
+2015-01-05 14:37:00 <Leonardo Valeriano> respondeu
+2015-01-05 14:37:01 <Leonardo Valeriano> :)
+2015-01-05 14:37:06 <Pedro Barbosa> com 50
+2015-01-05 14:37:07 <Pedro Barbosa> ?
+2015-01-05 14:37:23 <Pedro Barbosa> bora puto!
+2015-01-05 14:37:25 <Pedro Barbosa> hasdadasad
+2015-01-05 14:37:28 <Pedro Barbosa> hackeado
+2015-01-05 14:37:31 <Pedro Barbosa> !AHOiauhaoiuha
+2015-01-05 14:37:40 <Pedro Barbosa> isso é com 69 ou 50
+2015-01-05 14:37:42 <Pedro Barbosa> 69
+2015-01-05 14:37:44 <Pedro Barbosa> blz
+2015-01-05 14:37:47 <Pedro Barbosa> converfsalw
+2015-01-05 14:37:51 <Pedro Barbosa> esquizofrenica da pora
+2015-01-05 14:37:53 <Pedro Barbosa> iuahaiouhaiouhaiouah
+2015-01-05 14:37:55 <Pedro Barbosa> vai
+2015-01-05 14:37:59 <Pedro Barbosa> vou subir
+2015-01-05 15:12:35 <Pedro Barbosa> http://blog.mattmags.com/2007/06/30/accessing-32-bit-dlls-from-64-bit-code/
+2015-01-05 18:15:18 <Pedro Barbosa> Hi,
+
+we are working in a project which intends to use DarkCrystal HD Capture SDK II.
+Our application is built in a x64 platform. But the SDK only provides a 32-bits lib and a 32-bits dll. 
+It would come in handy if you could provide the 64-bit version of the SDK. Otherwise, It is going to be tricky to get it to work.
+
+Thank you.
+2015-01-06 01:01:01 <Leonardo Valeriano> Já desse uma olhada:
+2015-01-06 01:01:03 <Leonardo Valeriano> http://mmlab.ie.cuhk.edu.hk/resources/deep_learning/overview.pdf
+2015-01-06 01:01:28 <Leonardo Valeriano> The Future
+2015-01-06 13:07:02 <Leonardo Valeriano> Interprocess communication
+2015-01-06 13:07:04 <Leonardo Valeriano> http://www.boost.org/doc/libs/1_37_0/doc/html/interprocess/quick_guide.html#interprocess.quick_guide.qg_offset_ptr
+2015-01-08 11:41:57 <Leonardo Valeriano> Ei man,
+2015-01-08 11:42:09 <Pedro Barbosa> Oi
+2015-01-08 11:42:15 <Leonardo Valeriano> o chinesinho mandou o sdk 64
+2015-01-08 11:42:20 <Leonardo Valeriano> :)
+2015-01-08 11:42:27 <Pedro Barbosa> Eu consegui compilar no meu pc
+2015-01-08 11:42:40 <Pedro Barbosa> Mas ta com frescura pra compilar no server
+2015-01-08 11:42:45 <Leonardo Valeriano> hum
+2015-01-08 11:42:48 <Leonardo Valeriano> pq?
+2015-01-08 11:42:51 <Pedro Barbosa> Acho que são as variáveis de ambiente
+2015-01-08 11:42:58 <Leonardo Valeriano> ahh siim
+2015-01-08 11:43:04 <Leonardo Valeriano> tem que alterar todas
+2015-01-08 11:43:05 <Pedro Barbosa> Ele da todos os erros de link de antes
+2015-01-08 11:43:17 <Pedro Barbosa> Vou tentar setar as variáveis de ambiente certinho aqui
+2015-01-08 11:43:32 <Leonardo Valeriano> agora tá tudo em Program Files
+2015-01-08 11:43:46 <Leonardo Valeriano> não tô conseguindo acessar de casa
+2015-01-08 11:43:48 <Leonardo Valeriano> :(
+2015-01-08 11:47:30 <Pedro Barbosa> Eu to usando
+2015-01-08 11:47:32 <Pedro Barbosa> Relaxa ai
+2015-01-08 11:47:44 <Pedro Barbosa> Acho foi aquelas ondas de filtro
+2015-01-08 11:47:52 <Pedro Barbosa> Add to project
+2015-01-08 11:47:58 <Pedro Barbosa> Essa coisas
+2015-01-08 11:48:04 <Pedro Barbosa> Relaxa que eu resolvo daqui
+2015-01-08 11:48:08 <Pedro Barbosa> Vou almoçar
+2015-01-08 11:48:13 <Pedro Barbosa> Volto já
+2015-01-08 11:48:16 <Leonardo Valeriano> intaum 
+2015-01-08 11:48:17 <Pedro Barbosa> Pronto
+2015-01-08 11:48:18 <Leonardo Valeriano> flw
+2015-01-08 11:48:19 <Pedro Barbosa> Era isso
+2015-01-08 11:48:22 <Pedro Barbosa> Compilou
+2015-01-08 11:48:24 <Leonardo Valeriano> ahahha
+2015-01-08 11:48:26 <Pedro Barbosa> Agora
+2015-01-08 11:48:28 <Leonardo Valeriano> 🙋
+2015-01-08 11:48:33 <Pedro Barbosa> :)
+2015-01-08 11:48:42 <Pedro Barbosa> Agora vamos para a parte funcional
+2015-01-08 11:48:48 <Pedro Barbosa> É bois!
+2015-01-08 11:48:55 <Pedro Barbosa> Nois!
+2015-01-08 11:49:05 <Pedro Barbosa> Flws
+2015-01-08 11:49:33 <Leonardo Valeriano> vamos nessa
+2015-02-02 14:40:01 <Pedro Barbosa> E ae, Leo
+2015-02-02 14:40:10 <Pedro Barbosa> Rolou o jogo do final de semana?
+2015-02-02 14:40:27 <Pedro Barbosa> Tens alguma coisa pra me passar? Era pra eu ter te perguntado isso na sexta... :P
+2015-03-26 11:00:14 <Leonardo Valeriano> ei, já pode formatar a tua máquina?
+2015-03-26 11:53:33 <Pedro Barbosa> Pode
+2015-03-26 11:53:42 <Pedro Barbosa> Devo chegar as 14
+2015-05-05 14:48:04 <Pedro Barbosa> Oa, não sei se tu sabe. Mas hj não tem treinamento.
+2015-05-12 14:13:18 <Pedro Barbosa> oa
+2015-05-12 14:13:23 <Pedro Barbosa> o reasource ta ok?
+2015-05-15 12:30:06 <Pedro Barbosa> https://www.youtube.com/watch?v=m0XjOWWHalY
+2015-05-17 10:20:47 <Pedro Barbosa> Man
+2015-05-17 12:15:36 <Pedro Barbosa> oa, cheguei agora aqui na urja, o jogo começou faz 22 minutos
+2015-05-17 12:15:41 <Pedro Barbosa> vou fazer esse não
+2015-05-17 13:34:42 <Leonardo Valeriano> tu já tá na empresa?
+2015-05-17 13:34:57 <Pedro Barbosa> to sim
+2015-05-17 13:35:03 <Pedro Barbosa> que pensei que ia fazer o jogo das 12h
+2015-05-17 13:35:05 <Leonardo Valeriano> eu tô chegando de 14:40
+2015-05-17 13:35:15 <Pedro Barbosa> Manchester e Arsenal
+2015-05-17 13:35:17 <Pedro Barbosa> Blz
+2015-08-29 14:10:44 *** Pedro Barbosa started a video chat
+2015-08-29 14:11:08 *** Pedro Barbosa ended a video chat
+2015-08-29 14:11:38 *** Leonardo Valeriano started a video chat
+2015-08-29 14:11:56 *** Pedro Barbosa ended a video chat
+2015-08-29 14:11:58 *** Leonardo Valeriano started a video chat
+2015-08-29 14:13:30 *** Leonardo Valeriano ended a video chat
+2016-01-15 13:46:23 <Leonardo Valeriano> https://medium.com/@octskyward/the-resolution-of-the-bitcoin-experiment-dabb30201f7#.ihv1dohkf
+2016-01-15 13:46:33 <Leonardo Valeriano> post sobre BitCoins

@@ -1,0 +1,1069 @@
+﻿2013-07-16 11:02:38 <Ing-Ren Tsang> Ola Leonardo
+2013-07-16 11:02:47 <Leonardo Valeriano> Oi Tsang
+2013-07-16 11:02:55 <Ing-Ren Tsang> podemos fazer o hangout agora?
+2013-07-16 11:03:13 <Leonardo Valeriano> Vamos
+2013-07-16 11:03:46 *** Ing-Ren Tsang started a video chat
+2013-07-16 11:04:32 *** Ing-Ren Tsang ended a video chat
+2013-07-16 11:04:38 <Ing-Ren Tsang> nao funcionou..
+2013-07-16 11:04:39 <Leonardo Valeriano> to baixando um plugin aqui
+2013-07-16 11:04:42 <Ing-Ren Tsang> ah o
+2013-07-16 11:04:44 <Ing-Ren Tsang> ok
+2013-07-16 11:04:47 <Ing-Ren Tsang> vc esta no skype?
+2013-07-16 11:05:05 <Leonardo Valeriano> eu formatei o computador
+2013-07-16 11:05:18 <Leonardo Valeriano> aí to tendo que instalar quase tudo
+2013-07-16 11:05:25 <Ing-Ren Tsang> ok aguardo
+2013-07-16 11:05:35 <Leonardo Valeriano> 2min eu instalo o plugin do Hangout
+2013-07-16 11:06:38 *** Leonardo Valeriano started a video chat
+2013-07-16 11:08:53 <Ing-Ren Tsang> caiu a conecao
+2013-07-16 11:09:04 <Leonardo Valeriano> hum
+2013-07-16 11:09:17 <Ing-Ren Tsang> vou chamar
+2013-07-16 12:10:58 *** Leonardo Valeriano ended a video chat
+2013-07-23 15:38:52 <Ing-Ren Tsang> oi Leonardo
+2013-07-23 15:39:09 <Ing-Ren Tsang> sim com o excel nao tem como fazer graficos muito bom...
+2013-07-23 15:39:19 <Leonardo Valeriano> hum
+2013-07-23 15:39:31 <Leonardo Valeriano> no caso, como vai ficar?
+2013-07-23 15:39:42 <Leonardo Valeriano> n tem como mandar um PDF do Word n?
+2013-07-23 15:39:55 <Leonardo Valeriano> tem que ser esse do email mesmo?
+2013-07-23 15:40:14 <Ing-Ren Tsang> como asi pdf no word?
+2013-07-23 15:40:46 <Leonardo Valeriano> o word converte em pdf
+2013-07-23 15:41:40 <Ing-Ren Tsang> sim tem que ser em pdf
+2013-07-23 15:42:05 <Ing-Ren Tsang> o grafico e assim mesmo se vc de um zoom vai ver que ela esta ok
+2013-07-23 15:42:23 <Ing-Ren Tsang> porem acho que esses grafico gerados no excel são de baixa qualidade
+2013-07-23 15:42:31 <Ing-Ren Tsang> ate o matlab nao gera algo muito bom
+2013-07-23 15:42:49 <Ing-Ren Tsang> programa feito http://plasma-gate.weizmann.ac.il/Grace/
+2013-07-23 15:43:01 <Ing-Ren Tsang> que sao open source consegue gerar algo bem melhro
+2013-07-23 15:43:07 <Ing-Ren Tsang> mas vamos deixar assim
+2013-07-23 15:43:16 <Ing-Ren Tsang> agora.
+2013-07-23 15:43:39 <Leonardo Valeriano> ok
+2013-07-23 15:44:19 <Leonardo Valeriano> o senhor é quem submete?
+2013-07-23 15:44:38 <Ing-Ren Tsang> sim eu subemto vou verificar o texto e faco isso ate o final do dia
+2013-07-23 15:44:47 <Leonardo Valeriano> ok então
+2013-07-23 15:45:20 <Ing-Ren Tsang> uma vez terminado vamos trabalhar no artigo para o periodico.
+2013-07-23 15:45:27 <Ing-Ren Tsang> vou fazer tambem a inscricao do artigo
+2013-07-23 15:45:48 <Ing-Ren Tsang> mas devo fazer no dia 27 pois assim vai para conta do cartao do outro mes...srrsr
+2013-07-23 15:46:01 <Leonardo Valeriano> hehehehe
+2013-07-23 15:46:15 <Ing-Ren Tsang> e ai como vao as coisas?
+2013-07-23 15:46:26 <Ing-Ren Tsang> sim Leonardo seria bom ja comecar a escrever a dissertacao
+2013-07-23 15:46:34 <Leonardo Valeriano> sim
+2013-07-23 15:46:42 <Leonardo Valeriano> começarei o quanto antes
+2013-07-23 15:46:53 <Ing-Ren Tsang> compartilhe no dropbox da mesma forma
+2013-07-23 15:47:04 <Ing-Ren Tsang> utilize o tex
+2013-07-23 15:47:09 <Ing-Ren Tsang> pois fica bem melhor
+2013-07-23 15:47:24 <Leonardo Valeriano> vou aprender latex
+2013-07-23 15:47:33 <Ing-Ren Tsang> da um trabalho no inicio para aprender mas os artigos de periodicos e tudo mais e bem melhor em latex
+2013-07-23 15:47:40 <Ing-Ren Tsang> a qualidade nao se compara.
+2013-07-23 15:47:41 <Ing-Ren Tsang> vale a pena
+2013-07-23 15:47:47 <Leonardo Valeriano> certo
+2013-07-23 15:47:56 <Leonardo Valeriano> vou começar a estudar.
+2013-07-23 15:48:20 <Leonardo Valeriano> o trabalho da dissertação vai ser bem parecido com o periódico
+2013-07-23 15:48:52 <Leonardo Valeriano> mas ainda tenho que fazer a parte de clusering pra finalizar a aplicação diarization
+2013-07-23 15:51:33 <Ing-Ren Tsang> sim essa é a ideia mesmo
+2013-08-09 13:38:22 <Ing-Ren Tsang> Leornado como falei no email, creio que isso seja apenas para estudantes de doutorado
+2013-08-09 13:38:35 <Ing-Ren Tsang> verifique com a pos talves o Dayvid nao informou isso...
+2013-08-09 13:49:34 <Ing-Ren Tsang> o estagio docencia e pedido pelo prof. na disicplina que ele esta dando.
+2013-08-09 13:49:46 <Ing-Ren Tsang> porem não estou no Cin agora. Para o mestrado não e requerimento
+2013-08-09 13:49:59 <Ing-Ren Tsang> pois não teriamos disciplina suficientes no Cin para todos.
+2013-08-09 13:50:10 <Ing-Ren Tsang> Ligue para pos e se informe
+2013-08-09 13:50:43 <Leonardo Valeriano> ok Tsang
+2013-08-09 13:51:27 <Ing-Ren Tsang> Dayvid deve esta engando
+2013-08-09 13:51:38 <Ing-Ren Tsang> ou ele nao falou que era estudante de mestrado.
+2013-08-09 14:06:54 <Leonardo Valeriano> eu perguntei isso pra ele agora, estou esperando ele me responder.
+2013-08-09 14:09:06 <Ing-Ren Tsang> sim mas o melhor é ligar para secretária da pós e se informar com eles.
+2013-08-09 14:11:34 <Leonardo Valeriano> um outro amigo foi na secretaria 2x e eles disseram que era obrigatório.
+2013-08-09 14:11:59 <Leonardo Valeriano> Mas no edital da Capes tem dizendo que é opcional.
+2013-08-09 14:12:05 <Ing-Ren Tsang> no mestrado??
+2013-08-09 14:12:11 <Ing-Ren Tsang> numca ouvi isso
+2013-08-09 14:12:23 <Leonardo Valeriano> fiquei confuso tbm
+2013-08-09 14:12:31 <Ing-Ren Tsang> e nao creio que os estudantes se matricula todos nisso.
+2013-08-09 14:12:32 <Leonardo Valeriano> eles podem ter se confundido
+2013-08-09 14:12:42 <Ing-Ren Tsang> Tem certeza que eles falaram que eram para estudante de mestrado.
+2013-08-09 14:12:43 <Ing-Ren Tsang> ?
+2013-08-09 14:13:01 <Ing-Ren Tsang> Leornado ligue voce mesmo e tire essa duvida
+2013-08-09 14:13:31 <Leonardo Valeriano> ok, vou ligar.
+2013-08-09 14:17:38 <Leonardo Valeriano> meu celular descarregou...
+2013-08-12 12:45:54 <Leonardo Valeriano> oi Tsang
+2013-08-12 12:50:51 <Ing-Ren Tsang> opa Leornado
+2013-08-12 12:50:54 <Ing-Ren Tsang> vi o seu email
+2013-08-12 12:51:01 <Ing-Ren Tsang> bom nunca tinha ouvido falar disso
+2013-08-12 12:51:16 <Ing-Ren Tsang> mas e coisa especifica entao da bolsa da capes???
+2013-08-12 12:53:58 <Leonardo Valeriano> o senhor viu o Termo que anexei?
+2013-08-12 12:54:03 <Ing-Ren Tsang> sim
+2013-08-12 12:54:11 <Leonardo Valeriano> ele tem dizendo que é só Doutorado
+2013-08-12 12:54:24 <Ing-Ren Tsang> acho que vc deve entrar em contato direto com Edna a coordenadore e esclarecer com ela
+2013-08-12 12:54:31 <Leonardo Valeriano> aí fiquei na dúvida se a secretaria pode me obrigar
+2013-08-12 12:54:36 <Leonardo Valeriano> ok
+2013-08-12 12:54:43 <Ing-Ren Tsang> Sim o CIn pode depende do que esta no estatudo
+2013-08-12 12:54:44 <Leonardo Valeriano> mas veja só
+2013-08-12 12:55:22 <Leonardo Valeriano> eu pensei o seguinte: Estágio Docência conta como experiência correto?
+2013-08-12 12:55:36 <Leonardo Valeriano> talvez seja interessante fazer
+2013-08-12 12:55:41 <Ing-Ren Tsang> estagio docencia e basicamente auxiliar um prof nas aulas
+2013-08-12 12:55:52 <Ing-Ren Tsang> mas agora para o 2013.1 ja esta muito tarde para pedir
+2013-08-12 12:56:03 <Ing-Ren Tsang> normalmente vc faz como o orientador
+2013-08-12 12:56:04 <Leonardo Valeriano> para melhorar o currículo pro Doutorado
+2013-08-12 12:56:11 <Leonardo Valeriano> hum..
+2013-08-12 12:56:13 <Leonardo Valeriano> entendi
+2013-08-12 12:56:13 <Ing-Ren Tsang> nao faz diferenca nenhuma...
+2013-08-12 12:56:16 <Ing-Ren Tsang> o que importa
+2013-08-12 12:56:22 <Ing-Ren Tsang> e publicacao
+2013-08-12 12:56:31 <Ing-Ren Tsang> e as notas que tirou
+2013-08-12 12:56:46 <Leonardo Valeriano> entendo
+2013-08-12 12:56:48 <Ing-Ren Tsang> essa parte conta mas pouco
+2013-08-12 12:56:58 <Ing-Ren Tsang> se vc tiver um artigo publicado conta muito mais
+2013-08-12 12:57:16 <Ing-Ren Tsang> http://www2.cin.ufpe.br/site/secao.php?s=3&c=122
+2013-08-12 12:57:23 <Ing-Ren Tsang> veja se tem algo no regimento da pos
+2013-08-12 12:57:31 <Ing-Ren Tsang> que diz que vc no mestrado tem que fazer estagio docencia
+2013-08-12 12:57:41 <Ing-Ren Tsang> ai explique o seu caso a Edna
+2013-08-12 12:57:46 <Ing-Ren Tsang> se ela dizer que tem
+2013-08-12 12:57:52 <Ing-Ren Tsang> vc faz no proximo semestre
+2013-08-12 12:57:58 <Ing-Ren Tsang> se nao comigo com George
+2013-08-12 13:01:25 <Leonardo Valeriano> o período de inscrição ainda não começou
+2013-08-12 13:01:46 <Ing-Ren Tsang> humm.... pensei que ja tinha passado
+2013-08-12 13:01:56 <Ing-Ren Tsang> e que o prof. tem que pedir
+2013-08-12 13:02:08 <Leonardo Valeriano> entendo
+2013-08-12 13:02:19 <Leonardo Valeriano> Henrique tinha conversado com George
+2013-08-12 13:02:40 <Ing-Ren Tsang> bom eu agora estou confuso com essas datas pergunte isso a edna tambem
+2013-08-12 13:02:45 <Ing-Ren Tsang> se ela falar que tem que fazer
+2013-08-12 13:02:45 <Leonardo Valeriano> aí eu vou tentar aproveitar
+2013-08-12 13:02:55 <Ing-Ren Tsang> entao peca que explique como e feito
+2013-08-12 13:03:46 <Ing-Ren Tsang> henrique vai ter que fazer?
+2013-08-12 13:04:02 <Ing-Ren Tsang> o que o George falou? talvez ele saiba de algo que nao estou informado.
+2013-08-12 13:04:22 <Leonardo Valeriano> eu vou perguntar pra ele
+2013-08-12 13:15:26 <Ing-Ren Tsang> ok qualquer coisa me avise
+2013-08-14 16:54:21 <Ing-Ren Tsang> leonardo
+2013-08-14 16:54:30 <Ing-Ren Tsang> vi os seu email com George,
+2013-08-14 16:54:50 <Ing-Ren Tsang> se nao de para pagar este semestre então temos que ver como vc faz no próximo.
+2013-08-14 16:55:04 <Ing-Ren Tsang> Vc sabe qual a orientação da pos para isso?
+2013-08-14 16:55:23 <Leonardo Valeriano> n sei professor
+2013-08-14 16:55:37 <Leonardo Valeriano> eu fiz a matrícula vínculo
+2013-08-14 16:55:48 <Ing-Ren Tsang> eu nao estava sabendo dessa modificacao
+2013-08-14 16:55:57 <Ing-Ren Tsang> Edna e fogo muda as coisas e nao avisa ninguem
+2013-08-14 16:56:09 <Ing-Ren Tsang> e essa exigencia nem é da capes também
+2013-08-14 16:56:15 <Ing-Ren Tsang> e do programa do Cin?
+2013-08-14 17:01:55 <Leonardo Valeriano> professor
+2013-08-14 17:02:15 <Leonardo Valeriano> uma mudança dessas deveria ser informada por email
+2013-08-14 17:02:24 <Leonardo Valeriano> e n falaram nada a respeitro
+2013-08-14 17:02:33 <Leonardo Valeriano> *respeito
+2013-08-14 17:03:14 <Leonardo Valeriano> talvez seja necessário só para a próxima entrada
+2013-08-14 17:13:46 <Ing-Ren Tsang> pois é isso que não entendo
+2013-08-14 17:13:57 <Ing-Ren Tsang> vc falou com Edna diretamente??
+2013-08-14 17:49:53 <Leonardo Valeriano> por email
+2013-08-14 17:50:00 <Leonardo Valeriano> mas ela n respondeu..
+2013-08-14 17:58:51 <Ing-Ren Tsang> É Edna e fogo para responder..
+2013-08-14 17:59:56 <Leonardo Valeriano> Eu vou mandar um email pra secretária explicando a mesma coisa, pra ver o que ela responde.
+2013-08-14 18:02:08 <Ing-Ren Tsang> ok
+2013-08-14 20:11:13 <Ing-Ren Tsang> http://www.ufpe.br/propesq/index.php?option=com_content&view=article&id=423:propesq-orienta-coordenadores-de-cursos-de-graduacao-e-pos-graduacao-sobre-estagio-docencia-&catid=83&Itemid=122
+2013-08-14 20:12:09 <Ing-Ren Tsang> verifique isso, acho que ai acho que vale argumentar com Edna
+2013-08-19 00:27:27 <Leonardo Valeriano> Pelo que li no material da Capes e da Federal, o estagio só fica obrigatório para o Doutorado. Falei com George e ele veria se dava pra me colocar na disciplina dele, caso não houvesse mais ninguém.
+2013-08-19 01:08:58 <Ing-Ren Tsang> opa
+2013-08-19 01:09:09 <Ing-Ren Tsang> ok espero que de certo.
+2013-08-19 01:09:15 <Ing-Ren Tsang> edna e fogo nao responde....
+2013-08-19 01:12:52 <Leonardo Valeriano> Mas n deve ser obrigatório. A secretaria deve ter lido o artigo que obriga os bolsistas a fazerem, mas n viu os detalhes nos parágrafos.
+2013-08-19 01:13:57 <Ing-Ren Tsang> entao é bom escrever para ela e confirmar
+2013-08-19 01:14:13 <Ing-Ren Tsang> porque o colegiado do Cin pode ter tomado essa decisao
+2013-08-19 01:14:21 <Ing-Ren Tsang> e isso independe de capes.
+2013-08-19 01:18:22 <Leonardo Valeriano> Entendo. Vou escrever outro email amanhã.
+2013-08-19 01:18:59 <Leonardo Valeriano> Acabei de fazer o algoritmo de clustering pra Dissertação.
+2013-08-19 01:19:37 <Leonardo Valeriano> Vou pegar a base que tenho e segmentar manualmente.
+2013-08-19 01:20:39 <Leonardo Valeriano> Depois eu atribuo o id de cada segmento para avaliar a clusterizacao. Espero que fique melhor.
+2013-08-19 01:21:28 <Ing-Ren Tsang> melhor do que que metodo?
+2013-08-19 01:21:42 <Ing-Ren Tsang> Leonardo também e importante escolher uma base conhecida
+2013-08-19 01:22:01 <Ing-Ren Tsang> pois note que sempre os revisores pegam nisso.
+2013-08-19 01:35:05 <Leonardo Valeriano> Eu tô comparando os resultados da segmentação utilizando experimentos do Speaker Diarization. Que é o que falta para completar a pesquisa.
+2013-08-19 01:36:11 <Leonardo Valeriano> Nós fizemos experimentos simples, faltaram os experimentos da aplicação propriamente dita.
+2013-08-19 01:37:56 <Leonardo Valeriano> A questão da base é complicada. Eu tenho o áudio de algumas telecoferencias feitas por empresas de capital aberto. Posso segmenta-las e usar como base.
+2013-08-19 01:39:08 <Leonardo Valeriano> São telecoferencias publicas para acesso dos acionistas e futuros investidores. Eu só tenho que baixar.
+2013-08-19 01:48:49 <Ing-Ren Tsang> no literatura tem alguma que varias pessoas utilizam?
+2013-08-19 01:48:52 <Ing-Ren Tsang> so o na nist??
+2013-08-19 01:49:27 <Ing-Ren Tsang> se essa base e disponivel publicamente nao tem problema entao colocamos no artigo
+2013-08-19 01:56:44 <Leonardo Valeriano> a desvantagem é a segmentação e identificação das pessoas, pois teremos que fazer manualmente.
+2013-08-19 01:57:55 <Ing-Ren Tsang> e..
+2013-08-19 01:58:09 <Ing-Ren Tsang> vc ja procurou uma base que tenha isso?
+2013-08-19 01:58:25 <Leonardo Valeriano> vou dar uma olhada
+2013-08-19 01:58:26 <Ing-Ren Tsang> vou verificar pois existem muitas bases que podemos nao conehcer..
+2013-08-19 01:58:38 <Ing-Ren Tsang> acho que vale a pena e evita muito trabalho se encontrarmos
+2013-08-19 02:00:05 <Leonardo Valeriano> ok
+2013-08-19 02:02:48 <Ing-Ren Tsang> vou procurar tambem
+2013-08-19 02:03:15 <Ing-Ren Tsang> tenho uma lista, mas estou agora ocupado fazenod uma revisao de artigo.
+2013-08-19 02:03:29 <Ing-Ren Tsang> Conversamo outra hora ok. Obrigado por manter informado.
+2013-08-19 02:03:35 <Ing-Ren Tsang> Abraços
+2013-08-19 02:03:55 <Leonardo Valeriano> ok
+2013-08-19 02:04:07 <Leonardo Valeriano> conversaremos.
+2013-08-19 02:04:13 <Leonardo Valeriano> abraço.
+2013-08-22 15:56:34 <Leonardo Valeriano> Olá Tsang
+2013-08-22 15:56:53 <Ing-Ren Tsang> olá Leornad
+2013-08-22 15:57:01 <Ing-Ren Tsang> Leornado.
+2013-08-22 15:57:07 <Leonardo Valeriano> A questão da base para os experimentos, eu tive a seguinte ideia:
+2013-08-22 15:58:09 <Leonardo Valeriano> Para a Dissertação, utilizamos a mesma base do artigo que publicamos e fazemos os experimentos em Speaker Diarization
+2013-08-22 15:59:04 <Leonardo Valeriano> Para o periódico fazemos a mesma coisa, exceto a base, que deverá ser voltada para a aplicação Speaker Diarization
+2013-08-22 15:59:46 <Ing-Ren Tsang> Leornado estou no conf call
+2013-08-22 15:59:56 <Ing-Ren Tsang> me de uma tempo para responder
+2013-08-22 15:59:57 <Leonardo Valeriano> Minha ideia para o periódico é utilizar base sintética para treinar e teleconferências para testes
+2013-08-22 15:59:57 <Leonardo Valeriano> ok
+2013-08-22 16:00:02 <Leonardo Valeriano> certo
+2013-08-22 16:00:07 <Leonardo Valeriano> tudo bem
+2013-08-22 17:24:38 <Ing-Ren Tsang> opa leornado desculpe a demora
+2013-10-09 09:27:58 <Ing-Ren Tsang> Olá Leornado
+2013-10-09 09:38:45 <Leonardo Valeriano> Oi Tsang
+2013-10-09 09:38:59 <Leonardo Valeriano> vamos começar a reunião aqui na Sophia agora
+2013-10-09 09:39:11 <Ing-Ren Tsang> ok
+2013-10-21 14:19:35 <Leonardo Valeriano> Oi Tsang, estou com algumas pendências pra fazer a inscrição no doutorado. A principal delas é o pré projeto, dado que n tem voz nos temas. Depois tem as notas do mestrado, ninguém botou as notas do último semestre cursado. Podemos conversar mais tarde? Abraço.
+2013-10-22 12:53:44 <Leonardo Valeriano> Oi Tsang,
+2013-10-22 12:53:58 <Leonardo Valeriano> o senhor pode falar agora
+2013-10-22 12:54:00 <Leonardo Valeriano> ?
+2013-10-22 12:54:08 <Ing-Ren Tsang> oi
+2013-10-22 12:54:21 <Ing-Ren Tsang> me da uns 15 minutos pois estou conversando com Tiago Buarque
+2013-10-22 12:54:31 <Leonardo Valeriano> tá ok
+2013-10-22 13:09:49 <Ing-Ren Tsang> Leornado
+2013-10-22 13:10:21 <Leonardo Valeriano> oi
+2013-10-22 13:10:48 <Ing-Ren Tsang> vc quer fazer usando o hangout?
+2013-10-22 13:11:03 <Leonardo Valeriano> eu tô aqui na empresa..
+2013-10-22 13:11:23 <Ing-Ren Tsang> ok podemos usar o chat
+2013-10-22 13:12:06 <Leonardo Valeriano> Tsang, o que o senhor acha de fazer a inscrição pro Doutorado ano que vem?
+2013-10-22 13:12:23 <Ing-Ren Tsang> nao vejo problemas
+2013-10-22 13:12:36 <Ing-Ren Tsang> pois esse lance do tema é apenas para a selecao
+2013-10-22 13:12:47 <Ing-Ren Tsang> eu posso enviar um projeto da no tema de imagens medicas para vc
+2013-10-22 13:12:53 <Ing-Ren Tsang> e ai e so fazer um pouco de adaptacao
+2013-10-22 13:13:07 <Ing-Ren Tsang> é que nao sabemos ainda como vai ser o processo de avaliacao
+2013-10-22 13:13:25 <Ing-Ren Tsang> devido as modificacoes no processo de selecao da pos ter modifcado
+2013-10-22 13:13:39 <Leonardo Valeriano> entendo
+2013-10-22 13:14:11 <Leonardo Valeriano> também tem a questão das notas pro histórico do mestrado
+2013-10-22 13:14:26 <Leonardo Valeriano> tem cadeira que não saíram as notas
+2013-10-22 13:14:29 <Ing-Ren Tsang> sim
+2013-10-22 13:14:32 <Ing-Ren Tsang> mas isso nao é problema
+2013-10-22 13:14:36 <Ing-Ren Tsang> o prof. que tem que fornecer
+2013-10-22 13:14:51 <Ing-Ren Tsang> e sao todos do CIn
+2013-10-22 13:15:17 <Ing-Ren Tsang> ai e culpa deles mesmo
+2013-10-22 13:16:06 <Leonardo Valeriano> eu tava pensando no ano que vem, porque daria mais tempo pra publicar, sem ter que pagar as cadeiras.
+2013-10-22 13:17:06 <Ing-Ren Tsang> veja Leornado nao vejo problemas nisso
+2013-10-22 13:17:07 <Ing-Ren Tsang> tambem
+2013-10-22 13:17:07 <Leonardo Valeriano> como seria pro senhor me enviar esse pré-projeto?
+2013-10-22 13:17:17 <Ing-Ren Tsang> pois o tempo minimo para o doutorado são 2 anos
+2013-10-22 13:17:44 <Ing-Ren Tsang> se vc quiser ficar trabalhando no projeto apenas no ao que vem agente vai adiantando tudo
+2013-10-22 13:18:02 <Leonardo Valeriano> eu tava pensando em publicar em periódicos e já entrar no doutorado pra defender a tese
+2013-10-22 13:19:14 <Ing-Ren Tsang> sim mas tem um tempo mimimo para fazer isso alem de que vc vai ter que pagar 3 disciplinas
+2013-10-22 13:19:26 <Ing-Ren Tsang> pois 3 vc pode trazer do mestrado
+2013-10-22 13:19:44 <Leonardo Valeriano> ah sim
+2013-10-22 13:19:58 <Leonardo Valeriano> pode trazer 3, n sabia disso
+2013-10-22 13:20:30 <Leonardo Valeriano> eu vou correr atrás das notas e dos históricos essa semana então. Podemos conversar mais sobre o pré-projeto depois?
+2013-10-22 13:21:11 <Leonardo Valeriano> Tem uma nota que é com o senhor. É o trabalho individual.
+2013-10-22 13:21:31 <Ing-Ren Tsang> veja vc quer tentar entrar esse ano ou no proximo?? pois no final para mim nao faz muita diferença o importante e esta trabalhndo no projeto.
+2013-10-22 13:22:01 <Ing-Ren Tsang> ok vou enviar a nota de trabalho individual para secgrad. Quando foi que vc se inscreveu?
+2013-10-22 13:22:31 <Leonardo Valeriano> na cadeira? eu paguei a cadeira em 2012.2
+2013-10-22 13:23:28 <Ing-Ren Tsang> ok vou repasar para eles... ali e complicado pois eu sempre passo a email e o pessoal da secgrad nao coloca no siga e eu nao tenho como colocar diretamente
+2013-10-22 13:23:38 <Ing-Ren Tsang> pois nao temos acesso ao siga da pos nessa disciplina.
+2013-10-22 13:23:46 <Leonardo Valeriano> certo
+2013-10-22 13:24:17 <Leonardo Valeriano> eu pensei no ano que vem mais pelo pré-projeto mesmo.
+2013-10-22 13:24:37 <Leonardo Valeriano> mas se for possível fazer até o dia 10, tudo bem.
+2013-10-22 13:24:54 <Ing-Ren Tsang> envio para vc
+2013-10-22 13:25:14 <Ing-Ren Tsang> me da um minuto que vou procurar e enviar agora
+2013-10-22 13:25:56 <Leonardo Valeriano> ok.
+vai começar uma reunião aqui na empresa, o senhor pode conversar depois? daqui a umas 2h?
+2013-10-22 13:30:32 <Ing-Ren Tsang> ok
+2013-10-25 13:14:39 <Ing-Ren Tsang> leornado
+2013-10-25 13:14:54 <Leonardo Valeriano> olá tsang
+2013-10-25 13:15:01 <Ing-Ren Tsang> Olá
+2013-10-25 13:15:14 <Ing-Ren Tsang> como esta a escrita da dissertação??
+2013-10-25 13:15:45 <Leonardo Valeriano> eu estou organizando os resultados finais
+2013-10-25 13:16:19 <Ing-Ren Tsang> mas vc tem algum manuscrito? compartilhe comigo depois assim poderei já ir acompanhado ok?
+2013-10-25 13:16:39 <Leonardo Valeriano> assim que eu começar, eu já vou colocar no dropbox.
+2013-10-25 13:16:42 <Ing-Ren Tsang> ok
+2013-10-25 13:16:53 <Leonardo Valeriano> eu tenho a dissertação de Dimas
+2013-10-25 13:17:07 <Leonardo Valeriano> como template
+2013-10-25 13:17:21 <Ing-Ren Tsang> ok mas acho melhor o formato do latex.
+2013-10-25 13:17:32 <Ing-Ren Tsang> mas isso pode ficar a sua escolha.
+2013-10-25 13:18:51 <Leonardo Valeriano> eu vou arrumar o latex então.
+2013-10-25 13:19:00 <Leonardo Valeriano> tenho que começar a aprende isso..
+2013-10-25 13:19:09 <Leonardo Valeriano> é muito chato o Word
+2013-10-25 13:20:19 <Ing-Ren Tsang> sim acho muito ruim e não fica realmente profissional.
+2013-10-25 13:20:34 <Ing-Ren Tsang> tem um template que muita gente usar no CIn.
+2013-10-25 13:21:26 <Ing-Ren Tsang> http://www.cin.ufpe.br/~paguso/ufpethesis/
+2013-10-25 13:22:42 <Leonardo Valeriano> hum
+2013-10-25 13:22:55 <Leonardo Valeriano> eu vou usá-lo então.
+2013-10-25 13:24:43 <Ing-Ren Tsang> ok também gostaria de discutir com vc para tentarmos escrever o artigo, que seria a extensão do que foi feito no SMC para tenatarmos submeter ao periodico Expert System with application http://www.journals.elsevier.com/expert-systems-with-applications/
+2013-10-25 13:58:21 <Leonardo Valeriano> ok
+2013-10-28 13:02:34 <Leonardo Valeriano> Oi Tsang
+2013-10-28 13:02:53 <Leonardo Valeriano> eu decidi que vou me inscrever no doutorado.
+2013-10-28 13:04:34 <Leonardo Valeriano> Vou utilizar os pré-projetos que o senhor mandou e bolar um sistema que combine os dois. Pensei em recuperar imagens de pessoas em base de dados, através da detecção de face
+2013-10-28 13:05:11 <Leonardo Valeriano> Tipo, o cara tira uma foto de alguém e recupera todas as fotos dessa pessoa na base.
+2013-10-28 13:05:34 <Leonardo Valeriano> Estou pensando em combinar as duas propostas.
+2013-10-28 13:10:04 <Ing-Ren Tsang> opa
+2013-10-28 13:10:51 <Ing-Ren Tsang> otimo
+2013-10-28 13:11:04 <Ing-Ren Tsang> ok
+2013-10-28 13:11:15 <Ing-Ren Tsang> tem uns artigos que ja vi que combina as duas coisas speech e face
+2013-10-28 13:11:36 <Ing-Ren Tsang> mas isso é so para a proposta da selecao
+2013-10-28 13:11:46 <Ing-Ren Tsang> no seu doutorado podemos fica so com problemas de speech
+2013-10-28 13:11:55 <Leonardo Valeriano> entendi
+2013-10-28 13:11:57 <Ing-Ren Tsang> ou sintese ou segmentacao.
+2013-10-28 13:12:10 <Leonardo Valeriano> mas quem é que vai corrigir afinal?
+2013-10-28 13:12:52 <Leonardo Valeriano> sim, eu vou precisar que o senhor mande um email pra secretaria dizendo que tenho condições de concluir o mestrado
+2013-10-28 13:13:09 <Leonardo Valeriano> e mande a nota de trabalho individual
+2013-10-28 13:13:46 <Ing-Ren Tsang> ok
+2013-10-28 13:13:49 <Ing-Ren Tsang> vou fazer isso agora
+2013-10-28 13:14:11 <Ing-Ren Tsang> e pra o secgrad?
+2013-10-28 13:14:48 <Leonardo Valeriano> mande amanhã
+2013-10-28 13:14:58 <Leonardo Valeriano> hoje é feriado no CIn
+2013-10-28 13:15:08 <Ing-Ren Tsang> ah?
+2013-10-28 13:15:11 <Leonardo Valeriano> é pra secretaria da pós
+2013-10-28 13:15:13 <Ing-Ren Tsang> só no Cin?
+2013-10-28 13:16:07 <Leonardo Valeriano> dia do servidor público
+2013-10-28 13:16:14 <Leonardo Valeriano> nacional na verdade
+2013-10-28 13:16:31 <Ing-Ren Tsang> ah ta... e nao sabia...
+2013-10-28 13:16:33 <Ing-Ren Tsang> rsrsr...
+2013-10-28 13:16:37 <Leonardo Valeriano> posgraduacao@cin.ufpe.br
+2013-10-28 13:17:07 <Leonardo Valeriano> eu mandei pra esse pedindo as notas, mas eles não me responderam
+2013-10-28 13:23:05 <Leonardo Valeriano> eu vou terminar a proposta hoje e mando pro senhor olhar, tudo bem?
+2013-10-28 13:23:25 <Leonardo Valeriano> amanhã vou na secretaria cobrar as notas.
+2013-10-28 13:24:19 <Ing-Ren Tsang> ok
+2013-10-28 13:24:30 <Ing-Ren Tsang> vou enviar o email hj
+2013-10-28 13:24:47 <Ing-Ren Tsang> com a nota e o informado.
+2013-10-28 13:24:53 <Ing-Ren Tsang> se precisar envio novamente.
+2013-10-28 13:25:07 <Ing-Ren Tsang> como esta a escrita da dissertacao?
+2013-10-28 13:25:44 <Leonardo Valeriano> vou começar assim que resolver as pendências da inscrição Tsang
+2013-10-28 13:26:04 <Leonardo Valeriano> eu n consigo me concentrar com problemas a resolver
+2013-10-28 13:26:22 <Ing-Ren Tsang> ok :-)
+2013-10-28 13:26:33 <Ing-Ren Tsang> sem problema.
+2013-10-28 13:26:46 <Leonardo Valeriano> mas tenho previsão para terminar no final de novembro
+2013-10-28 13:26:46 <Ing-Ren Tsang> vc tem ja um bom materia com o TG e o artigo.
+2013-10-28 13:27:25 <Leonardo Valeriano> vou baixar o Latex pra Windows e começar a aprender.
+2013-10-28 13:28:10 <Ing-Ren Tsang> ok veja tem um template que quase todo mundo usar no Cin
+2013-10-28 13:28:23 <Leonardo Valeriano> eu vi
+2013-10-28 13:28:28 <Leonardo Valeriano> eu peguei ele
+2013-10-28 13:28:31 <Ing-Ren Tsang> ok
+2013-10-28 13:28:41 <Leonardo Valeriano> pra ppt tem template tbm
+2013-10-28 13:28:42 <Leonardo Valeriano> ?
+2013-10-28 13:28:46 <Ing-Ren Tsang> sim vc se inscreveu no trabalho individual em 2012.2?
+2013-10-28 13:28:58 <Ing-Ren Tsang> nao ai creio que nao tem
+2013-10-28 13:29:20 <Ing-Ren Tsang> mas o pessoal usa o latex tambem para fazer apresentacao
+2013-10-28 13:29:22 <Ing-Ren Tsang> slide
+2013-10-28 13:30:51 <Leonardo Valeriano> hum
+2013-10-28 13:31:06 <Leonardo Valeriano> mas quanto a isso n tem muito problema, acredito.
+2013-10-28 13:31:24 <Leonardo Valeriano> tenho o template que usei no TG que é o do Cin
+2013-10-28 13:31:35 <Ing-Ren Tsang> ok
+2013-10-28 13:31:40 <Leonardo Valeriano> eu me inscrevi sim, em 2012.4
+2013-10-28 13:31:45 <Leonardo Valeriano> 2012.2
+2013-10-28 13:31:47 <Ing-Ren Tsang> ok
+2013-10-28 13:32:06 <Ing-Ren Tsang> enviei agora o email com copia para vc
+2013-10-28 13:34:03 <Leonardo Valeriano> mas faltou a nota n?
+2013-10-28 13:34:16 <Ing-Ren Tsang> opa ..
+2013-10-28 13:37:10 <Ing-Ren Tsang> reenviando
+2013-10-28 13:38:55 <Leonardo Valeriano> ok
+2013-10-28 13:45:03 <Ing-Ren Tsang> fico aguardando então o documento. Abraços
+2013-10-28 13:45:25 <Leonardo Valeriano> Abraço
+2013-10-28 13:45:37 <Leonardo Valeriano> hoje à noite é trabalho
+2013-10-28 13:46:39 <Ing-Ren Tsang> :-)
+2013-10-29 15:52:12 <Ing-Ren Tsang> ok
+2013-10-29 15:52:27 <Ing-Ren Tsang> se precisar de algo me avise.
+2013-10-29 15:52:37 <Ing-Ren Tsang> Depois vamos nos concentra da dissertacao
+2013-10-29 15:52:43 <Leonardo Valeriano> ok
+2013-10-29 15:52:48 <Ing-Ren Tsang> pois vai ter que ternimar ate fevereiro.
+2013-10-29 15:53:00 <Leonardo Valeriano> ok.
+2013-10-29 15:53:27 <Leonardo Valeriano> eu vou terminar o pré-projeto e volto pra Dissertação
+2013-10-29 15:54:33 <Ing-Ren Tsang> ok
+2013-10-30 10:37:38 <Leonardo Valeriano> Olá Tsang, o senhor poderia por favor enviar outro email para a secretaria, dizendo que posso concluir o mestrado. Ela afirmou que ainda não recebeu confirmação. 
+2014-01-06 21:57:23 <Leonardo Valeriano> Olá Tsang
+2014-01-06 21:57:33 <Ing-Ren Tsang> ola Leornardo
+2014-01-06 21:57:37 <Leonardo Valeriano> Tudo bom?
+2014-01-06 21:57:42 <Leonardo Valeriano> Feliz ano novo
+2014-01-06 21:57:44 <Ing-Ren Tsang> tudo bem de volta as atividades
+2014-01-06 21:57:50 <Ing-Ren Tsang> Sim para vc também Feliz Ano novo
+2014-01-06 21:57:58 <Leonardo Valeriano> obrigado
+2014-01-06 21:58:49 <Ing-Ren Tsang> Estou lendo a sua dissertacao a ultima versao que estava no dropbox
+2014-01-06 21:58:51 <Leonardo Valeriano> professor, estou com metade do capítulo de experimentos concluído e falta ainda o capítulo de conclusão
+2014-01-06 21:58:58 <Ing-Ren Tsang> vou comentando e envio para vvc depois
+2014-01-06 21:58:59 <Ing-Ren Tsang> ok
+2014-01-06 21:59:05 <Leonardo Valeriano> ok
+2014-01-06 21:59:06 <Leonardo Valeriano> ótimo
+2014-01-06 21:59:09 <Ing-Ren Tsang> vc esta atualizando no dropbox?
+2014-01-06 21:59:20 <Ing-Ren Tsang> pois vou ter que atualizar minha versao
+2014-01-06 21:59:29 <Leonardo Valeriano> assim que eu termino um capítulo eu atualizo
+2014-01-06 21:59:53 <Leonardo Valeriano> mas o capítulo que o senhor revisou eu n mexo
+2014-01-06 22:00:08 <Leonardo Valeriano> Tsang, eu posso marcar a data
+2014-01-06 22:00:11 <Ing-Ren Tsang> eu nao estou atualizando no dropobox
+2014-01-06 22:00:11 <Leonardo Valeriano> ?
+2014-01-06 22:00:21 <Leonardo Valeriano> ok, tudo bem
+2014-01-06 22:00:28 <Ing-Ren Tsang> baixei uma copia e estou fazenod isso no pdf local
+2014-01-06 22:00:31 <Ing-Ren Tsang> para lhe enviar depois
+2014-01-06 22:00:39 <Leonardo Valeriano> certo
+2014-01-06 22:00:44 <Ing-Ren Tsang> a data demos que ver com a banca
+2014-01-06 22:00:58 <Leonardo Valeriano> podemos definir a banca
+2014-01-06 22:01:01 <Leonardo Valeriano> ?
+2014-01-06 22:01:04 <Ing-Ren Tsang> mas sugiro final de fevereiro pois temos assim ate o final do mes para finalizar a dissertacao
+2014-01-06 22:01:15 <Ing-Ren Tsang> sim deve ser george, carlos, e um externo
+2014-01-06 22:01:22 <Ing-Ren Tsang> vc tem algum sugestão?
+2014-01-06 22:01:32 <Ing-Ren Tsang> do externo?
+2014-01-06 22:01:41 <Leonardo Valeriano> infelizmente n..
+2014-01-06 22:01:59 <Leonardo Valeriano> n conheço o pessoal da área que seja professor
+2014-01-06 22:02:01 <Ing-Ren Tsang> eu vou conversar com George
+2014-01-06 22:02:19 <Ing-Ren Tsang> pode ser talvez um pessoal do Rio grande do Sul
+2014-01-06 22:02:30 <Leonardo Valeriano> eu tava pensando em marcar antes mesmo de terminar, pois falta pouco
+2014-01-06 22:02:34 <Ing-Ren Tsang> te aviso vou tentar marca la para o dia 20 dependendo a disponibilidade dele
+2014-01-06 22:02:50 <Ing-Ren Tsang> sim precisar ser marcado pois precisar de um tempo de antecedencia
+2014-01-06 22:03:23 <Leonardo Valeriano> mas eu posso marcar, ou o senhor vai precisar confirmar o externo primeiro?
+2014-01-06 22:04:08 <Ing-Ren Tsang> tenho que confirmar o externo primeiro pois vc em que da o nome do membros da banca
+2014-01-06 22:05:22 <Leonardo Valeriano> ok, no sistema aqui do CIn, ele não pede o nome do externo... Só o orientador e o co-orientador
+2014-01-06 22:06:09 <Ing-Ren Tsang> vc em certeza
+2014-01-06 22:06:13 <Ing-Ren Tsang> acho que vai pedir em algum ponto
+2014-01-06 22:06:33 <Ing-Ren Tsang> mas talvez nao vc tenha que da depois...
+2014-01-06 22:06:37 <Ing-Ren Tsang> bom nao tenho certeza
+2014-01-06 22:06:48 <Ing-Ren Tsang> veja tambem acho que o titulo tem que ser melhorardo
+2014-01-06 22:07:07 <Ing-Ren Tsang> pois esta muito longo e tem ate a palavra em ingles
+2014-01-06 22:07:10 <Ing-Ren Tsang> que nao dever ficar
+2014-01-06 22:07:26 <Ing-Ren Tsang> sugiro algo mais simples
+2014-01-06 22:07:44 <Ing-Ren Tsang> combinacao de characteristica para segmentacao de voz
+2014-01-06 22:07:47 <Leonardo Valeriano> concordo
+2014-01-06 22:08:01 <Leonardo Valeriano> coloquei aquele pois veio primeiro em mente
+2014-01-06 22:08:13 <Ing-Ren Tsang> veja eu vou conversar com George e essa semana definimos a baca
+2014-01-06 22:08:15 <Ing-Ren Tsang> banca
+2014-01-06 22:08:31 <Ing-Ren Tsang> deixa eu tentar fechar com ele amanha e te informo
+2014-01-06 22:08:48 <Leonardo Valeriano> ok então professor
+2014-01-06 22:09:04 <Leonardo Valeriano> tem uma tradução para speaker diarization
+2014-01-06 22:09:14 <Ing-Ren Tsang> ainda estamos em tempo mas vamos ver se resolvemos isso essa semana.
+2014-01-06 22:09:24 <Leonardo Valeriano> "transcrição" de locutores
+2014-01-06 22:09:39 <Leonardo Valeriano> ok, precisamos mesmo
+2014-01-06 22:10:03 <Leonardo Valeriano> vou correr para terminar uma versão da dissertação.
+2014-01-06 22:10:08 <Ing-Ren Tsang> nao sei se precisarmos ter isso no titulo
+2014-01-06 22:10:27 <Leonardo Valeriano> é pq eu construo o sistema completo
+2014-01-06 22:10:32 <Leonardo Valeriano> que faz isso
+2014-01-06 22:10:45 <Leonardo Valeriano> no artigo eu n tinha feito
+2014-01-06 22:10:55 <Ing-Ren Tsang> sim mas veja o titulo nao e um abstract
+2014-01-06 22:11:09 <Ing-Ren Tsang> nao se diz tudo nele
+2014-01-06 22:11:18 <Leonardo Valeriano> entendo
+2014-01-06 22:11:41 <Ing-Ren Tsang> o titluo tem que ser interessante suficiente para o cara ler o abstract
+2014-01-06 22:11:52 <Ing-Ren Tsang> que tem que ser interessante suficiente para fazer a pessoa le o texto
+2014-01-06 22:12:13 <Ing-Ren Tsang> accho que o importante e a parte da combinacao
+2014-01-06 22:12:20 <Ing-Ren Tsang> e em que tipo de atividade
+2014-01-06 22:12:29 <Ing-Ren Tsang> segmentacao de voz
+2014-01-06 22:13:20 <Leonardo Valeriano> ok
+2014-01-06 22:13:32 <Leonardo Valeriano> essa parte do sistema fica no abstract
+2014-01-06 22:13:38 <Ing-Ren Tsang> Talvez: Combinação de caracteristica para segmentacao de voz em transicao de loucutores.
+2014-01-06 22:13:57 <Ing-Ren Tsang> transcricao
+2014-01-06 22:13:58 <Leonardo Valeriano> bom título
+2014-01-06 22:14:03 <Ing-Ren Tsang> ok fechado entao.
+2014-01-06 22:14:15 <Ing-Ren Tsang> veja depois que definir com George te aviso.
+2014-01-06 22:14:28 <Leonardo Valeriano> certo professor
+2014-01-06 22:14:41 <Ing-Ren Tsang> a data vai ficar entre os dias 20 a 25 ok
+2014-01-06 22:14:41 <Leonardo Valeriano> amanhã entro em contato com o senhor
+2014-01-06 22:14:43 <Ing-Ren Tsang> ?
+2014-01-06 22:14:50 <Ing-Ren Tsang> ok abraços
+2014-01-06 22:14:52 <Leonardo Valeriano> ok, combinado
+2014-01-06 22:14:58 <Leonardo Valeriano> abraço Tsang
+2014-01-07 22:03:57 <Leonardo Valeriano> Olá Tsang, o senhor conseguiu conversar com George?
+2014-01-08 15:44:50 <Leonardo Valeriano> Professor
+2014-01-08 15:45:19 <Leonardo Valeriano> O sistema pede suplentes para o avaliador externo e interno
+2014-01-08 15:46:28 <Ing-Ren Tsang> opa LEornado
+2014-01-08 15:50:15 <Leonardo Valeriano> oi
+2014-01-08 15:50:20 <Leonardo Valeriano> Tsang
+2014-01-08 15:50:27 <Ing-Ren Tsang> estou enviando as informacoes
+2014-01-08 15:50:36 <Leonardo Valeriano> não consigo finalizar o cadastro
+2014-01-08 15:50:38 <Leonardo Valeriano> ok
+2014-01-08 15:51:08 <Leonardo Valeriano> precisa do email de cada um
+2014-01-08 15:51:14 <Ing-Ren Tsang> eu sei
+2014-01-08 15:51:23 <Leonardo Valeriano> os do Cin eu já consegui
+2014-01-08 15:51:30 <Leonardo Valeriano> mas o restante n
+2014-01-08 15:53:23 <Ing-Ren Tsang> quem vvc colocou como suplente interno?
+2014-01-08 15:53:43 <Leonardo Valeriano> ninguém
+2014-01-08 15:53:54 <Leonardo Valeriano> n sei quem colocar
+2014-01-08 15:54:44 <Ing-Ren Tsang> ok envei o email como todas as informacoes
+2014-01-08 15:55:25 <Ing-Ren Tsang> vou fazer o convite
+2014-01-08 15:57:55 <Leonardo Valeriano> ok
+2014-01-08 15:57:59 <Leonardo Valeriano> obrigado
+2014-01-08 15:58:31 <Ing-Ren Tsang> a dissertacao tem que ser entrege ate o final do mes
+2014-01-08 15:58:56 <Ing-Ren Tsang> normalmente são 1 mes de antecedencia que ser pede. Vou esta revisando.
+2014-01-08 15:58:57 <Ing-Ren Tsang> abraços
+2014-01-08 16:00:42 <Leonardo Valeriano> professor
+2014-01-08 16:00:54 <Leonardo Valeriano> os departamentos dos suplentes
+2014-01-08 16:01:51 <Ing-Ren Tsang> cleber e prof do CIn
+2014-01-08 16:01:57 <Leonardo Valeriano> o externo no caso
+2014-01-08 16:02:37 <Ing-Ren Tsang> http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4761938Y5
+2014-01-08 16:02:49 <Ing-Ren Tsang> http://www.pgbiom.ufrpe.br/docentes/~borko/
+2014-01-08 16:04:30 <Leonardo Valeriano> terminei
+2014-01-08 16:05:13 <Ing-Ren Tsang> ok
+2014-01-08 16:06:14 <Leonardo Valeriano> enviei para o email do CIn
+2014-01-08 16:07:03 <Ing-Ren Tsang> ok veja confirme depois com a secretaria da pos
+2014-01-08 16:12:36 <Leonardo Valeriano> certo
+2014-01-08 16:12:53 <Ing-Ren Tsang> abracos
+2014-01-08 16:13:14 <Leonardo Valeriano> abraço
+2014-01-13 16:29:14 <Ing-Ren Tsang> Leornado
+2014-01-13 16:29:32 <Ing-Ren Tsang> vc viu que o Madeiro pediu para que a defesa fosse as 8:30
+2014-01-13 16:32:45 <Leonardo Valeriano> N vi professor
+2014-01-13 16:33:15 <Ing-Ren Tsang> eu passei o email para vc
+2014-01-13 16:33:38 <Leonardo Valeriano> estou vendo agora
+2014-01-13 16:33:47 <Leonardo Valeriano> mas n sei como vou mudar isso
+2014-01-13 16:33:58 <Ing-Ren Tsang> e so informar na secretaria da pos a modificacao
+2014-01-13 16:34:04 <Leonardo Valeriano> acho que tenho que passar na secretaria
+2014-01-13 16:34:12 <Ing-Ren Tsang> pois isso acarreta que eles tem que reserva a sala
+2014-01-13 16:34:14 <Leonardo Valeriano> por email?
+2014-01-13 16:34:18 <Ing-Ren Tsang> tente ligar primeiro
+2014-01-13 16:34:21 <Leonardo Valeriano> ok
+2014-01-13 16:34:23 <Ing-Ren Tsang> nao faça por email
+2014-01-13 16:34:30 <Leonardo Valeriano> vou ligar agora
+2014-01-13 16:34:32 <Ing-Ren Tsang> pois nada se resolver com emails...
+2014-01-13 16:34:44 <Ing-Ren Tsang> ou e muito dificil eles demoram demais.
+2014-01-13 16:35:08 <Ing-Ren Tsang> fale com eles e depois passe uma email para registrar
+2014-01-13 16:35:20 <Leonardo Valeriano> certo,
+2014-01-13 16:35:24 <Leonardo Valeriano> vou ligar agora
+2014-01-13 16:39:47 <Leonardo Valeriano> eu já liguei
+2014-01-13 16:39:59 <Leonardo Valeriano> ela pediu pra fazer o requerimento de novo
+2014-01-13 16:40:09 <Leonardo Valeriano> pois eles consideram o último
+2014-01-13 16:40:14 <Ing-Ren Tsang> ok
+2014-01-13 16:40:30 <Ing-Ren Tsang> entao vou confirmar com Madeiro, George e Carlos.
+2014-01-13 16:40:33 <Ing-Ren Tsang> Abraços
+2014-01-13 16:40:40 <Leonardo Valeriano> ok
+2014-01-13 16:40:43 <Leonardo Valeriano> abraços
+2014-01-17 12:47:15 <Leonardo Valeriano> Oi Tsang
+2014-01-17 12:47:29 <Leonardo Valeriano> Estou finalizando o Capítulo 4
+2014-01-17 12:47:59 <Leonardo Valeriano> e queria que o senhor disponibilizasse a revisão para que eu corrigisse
+2014-01-17 12:48:25 <Leonardo Valeriano> assim eu corrigiria enquanto o senhor revisaria o Cap. 4
+2014-01-17 12:48:35 <Leonardo Valeriano> no final juntaríamos tudo
+2014-01-17 12:49:01 <Leonardo Valeriano> até terça ou quarta
+2014-01-17 20:48:11 <Ing-Ren Tsang> OI Leonardo eu envio até o capitulo 4 neste final de semana.
+2014-01-19 01:20:35 <Leonardo Valeriano> Oi Tsang
+2014-01-19 01:20:45 <Ing-Ren Tsang> oi Leonardo tudo bem?
+2014-01-19 01:20:52 <Leonardo Valeriano> tudo bem
+2014-01-19 01:21:09 <Leonardo Valeriano> eu estou terminando o Capítulo 4
+2014-01-19 01:21:21 <Leonardo Valeriano> falta apenas uma seção dele
+2014-01-19 01:21:30 <Leonardo Valeriano> e depois tem a conclusão
+2014-01-19 01:21:37 <Ing-Ren Tsang> ok eu vou revisar e envio para vc
+2014-01-19 01:21:44 <Leonardo Valeriano> que é mais rápida
+2014-01-19 01:21:50 <Leonardo Valeriano> ok
+2014-01-19 01:22:09 <Ing-Ren Tsang> vc esta atualizando no dropbox?
+2014-01-19 01:22:11 <Leonardo Valeriano> assim que terminar eu envio essa última parte
+2014-01-19 01:22:30 <Leonardo Valeriano> ainda n botei o 4
+2014-01-19 01:22:41 <Leonardo Valeriano> assim que terminar eu coloco
+2014-01-19 01:22:57 <Leonardo Valeriano> o senhor tem alguma revisão dos demais capítulos?
+2014-01-19 01:23:53 <Ing-Ren Tsang> nao, eu estava finalizando dissertacao de Thiago, so fiz marca os pontos vou adicionar os comentário
+2014-01-19 01:24:02 <Leonardo Valeriano> ok
+2014-01-19 01:24:08 <Ing-Ren Tsang> envio na segunda feira
+2014-01-19 01:24:18 <Leonardo Valeriano> certo
+2014-01-19 01:24:25 <Ing-Ren Tsang> tenho que possar para o pdf
+2014-01-19 01:24:45 <Leonardo Valeriano> eu tava querendo finalizar tudo até terça ou quarta
+2014-01-19 01:24:57 <Ing-Ren Tsang> sim da tempo
+2014-01-19 01:25:18 <Ing-Ren Tsang> quando vc finalizar as conclusão?
+2014-01-19 01:26:16 <Ing-Ren Tsang> atualize tambem o titulo
+2014-01-19 01:27:20 <Leonardo Valeriano> ok
+2014-01-19 01:27:21 <Leonardo Valeriano> vou finalizar tudo logo
+2014-01-19 01:27:40 <Leonardo Valeriano> tem 1 seção do capítulo 4 e o Capítulo 5
+2014-01-19 01:27:46 <Leonardo Valeriano> não demora muito
+2014-01-19 01:28:23 <Leonardo Valeriano> George disse que só queria a versão digital
+2014-01-19 01:28:39 <Leonardo Valeriano> mas os outros avaliadores não sei como entregar
+2014-01-19 01:28:50 <Leonardo Valeriano> tem que imprimir e encadernar?
+2014-01-19 01:29:06 <Ing-Ren Tsang> envie uma email para eles perguntando
+2014-01-19 01:32:51 <Leonardo Valeriano> ok
+2014-01-19 17:22:53 <Leonardo Valeriano> Professor
+2014-01-19 17:23:00 <Leonardo Valeriano> desculpe a demora
+2014-01-19 17:23:24 <Leonardo Valeriano> eu tinha esquecido de escrever o algoritmo que avalia os clusters
+2014-01-19 17:23:55 <Leonardo Valeriano> acabei de gerar os resultados e eles foram formidáveis
+2014-01-19 17:25:21 <Ing-Ren Tsang> otimoo
+2014-01-19 17:25:38 <Ing-Ren Tsang> vamos finalizar a dissertacao primeiro depois pensamos em escrever o artigo
+2014-01-19 17:25:46 <Leonardo Valeriano> tenho que gerar um gráfico e escrever a discussão
+2014-01-19 17:25:50 <Ing-Ren Tsang> veja estou quase terminado a revisão e envio em seguida
+2014-01-19 17:26:46 <Leonardo Valeriano> ok
+2014-01-19 17:27:20 <Ing-Ren Tsang> passo por email. Verifique o modelo de referencia como envie no email anterior.
+2014-01-19 17:27:30 <Leonardo Valeriano> eu vi
+2014-01-19 17:27:37 <Leonardo Valeriano> vai ser por numeração mesmo
+2014-01-19 17:28:23 <Ing-Ren Tsang> outro ponto importante Leonardo e que a dissertação tem que ter uma discussão maior. Ele esta muito no formato de um artigo
+2014-01-19 17:29:16 <Ing-Ren Tsang> onde se tem uma limitaçao de paginas. No caso agora é ao contrario, então por exemplo quando vc fala de uma técnica tem que se descrita se nao esta usando mais mesmo assim tem que ter uma mimima descricao
+2014-01-19 17:29:32 <Ing-Ren Tsang> por exemplo as caracteristicas MFCC, ...
+2014-01-19 17:29:46 <Ing-Ren Tsang> pois a banca esta para avaliar isso também o seu conhecimento na área.
+2014-01-19 17:30:23 <Leonardo Valeriano> entendo
+2014-01-19 17:30:40 <Ing-Ren Tsang> todas palavras em inglês tem que esta em itálico
+2014-01-19 17:30:49 <Ing-Ren Tsang> e tambem vc usar muito cluster
+2014-01-19 17:31:13 <Leonardo Valeriano> vou substituir cluster por grupo
+2014-01-19 17:31:22 <Ing-Ren Tsang> melhor usar o termo em português quando existe só deixe em inglês quando não se tem um equivalente em português ou nao da para entender corretamente o que é
+2014-01-19 17:31:52 <Ing-Ren Tsang> clusterização por exemplo nao sei se existe essa palavra no dicionario português acho que seria agrupamento.
+2014-01-19 17:32:01 <Ing-Ren Tsang> marquei todas as palavras que encontrei.
+2014-01-19 17:33:47 <Ing-Ren Tsang> vc viu que estou comentando na maioria do texto marcado
+2014-01-19 17:33:52 <Ing-Ren Tsang> use o adobe para ler.
+2014-01-19 17:34:17 <Leonardo Valeriano> eu dei uma olhada
+2014-01-19 17:34:31 <Leonardo Valeriano> assim que terminar aqui eu inicio a revisão geral
+2014-01-19 17:34:47 <Ing-Ren Tsang> ok enviou daqui a pouco o resto do texto revisado.
+2014-01-19 17:34:48 <Ing-Ren Tsang> Abraços
+2014-01-19 17:34:57 <Leonardo Valeriano> Abraço
+2014-01-19 19:23:04 <Leonardo Valeriano> Acabei o 4º capítulo
+2014-01-19 19:23:24 <Leonardo Valeriano> daqui a pouco envio tudo com a conclusão
+2014-01-19 19:23:30 <Ing-Ren Tsang> ok
+2014-01-19 19:23:40 <Ing-Ren Tsang> eu aguardo. Envio também o resto da revisão.
+2014-01-19 20:23:35 <Leonardo Valeriano> Acabei de enviar
+2014-01-19 20:24:02 <Leonardo Valeriano> vou começar a revisão e adaptar as referências
+2014-01-19 20:33:06 <Ing-Ren Tsang> ik
+2014-01-19 20:33:07 <Ing-Ren Tsang> ok
+2014-01-19 20:33:28 <Ing-Ren Tsang> Qual email que vc enviou nao recebi ainda
+2014-01-19 20:33:56 <Ing-Ren Tsang> ou colocou no dropbox?
+2014-01-22 16:31:44 <Leonardo Valeriano> Oi Tsang
+2014-01-22 16:31:55 <Leonardo Valeriano> consegui revisar até o 2.1
+2014-01-22 16:32:08 <Ing-Ren Tsang> oi
+2014-01-22 16:32:16 <Leonardo Valeriano> O senhor quer ficar vendo capítulo por capítulo
+2014-01-22 16:32:36 <Leonardo Valeriano> ou por pacotes (Cap. 1 e 2)?
+2014-01-22 16:32:41 <Ing-Ren Tsang> me envie quando terminar metado da dissertacao
+2014-01-22 16:32:47 <Ing-Ren Tsang> pois eu hj nao tenho tempo de revisar
+2014-01-22 16:33:03 <Leonardo Valeriano> ok
+2014-01-22 16:33:09 <Leonardo Valeriano> vou prosseguir
+2014-01-22 16:36:52 <Ing-Ren Tsang> vc esta atualizando no dropbox?
+2014-01-22 16:36:59 <Ing-Ren Tsang> pois posso fica olhando
+2014-01-22 16:40:14 <Leonardo Valeriano> vou atualizar agora
+2014-01-22 16:40:19 <Ing-Ren Tsang> ok abraços
+2014-01-22 16:40:32 <Leonardo Valeriano> ok
+2014-01-22 16:40:35 <Leonardo Valeriano> abraço
+2014-01-23 16:28:53 <Ing-Ren Tsang> Leonardo quando finalizar o capitulo 2 me avise
+2014-01-23 16:30:10 <Leonardo Valeriano> ok
+2014-01-23 16:30:14 <Leonardo Valeriano> assim que concluir aviso
+2014-01-23 16:50:07 <Leonardo Valeriano> Tsang, os cap. 04 e 05
+2014-01-23 16:50:16 <Leonardo Valeriano> o senhor recomenda revisões
+2014-01-23 16:51:14 <Leonardo Valeriano> no 4 principalmente, tem muita coisa importante nos experimentos e análise que eu queria que o senhor desse uma opnião
+2014-01-30 14:49:25 <Leonardo Valeriano> Oi Tsang
+2014-01-30 14:49:33 <Leonardo Valeriano> eu preciso enviar o email logo
+2014-01-30 14:49:46 <Leonardo Valeriano> para saber se eles vão querer impressa
+2014-01-30 14:50:17 <Leonardo Valeriano> o professor da UPE provavelmente vai querer
+2014-01-30 14:50:56 <Leonardo Valeriano> e se mandar o email na sexta não sei se vai dar tempo dele responder.
+2014-01-30 16:32:20 <Leonardo Valeriano> Opa Tsang
+2014-01-30 16:32:32 <Ing-Ren Tsang> oi Leonardo
+2014-01-30 16:32:34 <Leonardo Valeriano> eu só fiquei preocupado mesmo com a data
+2014-01-30 16:32:57 <Ing-Ren Tsang> nao se preocupe tanto. O povo so le mesmo na semana anterior
+2014-01-30 16:33:10 <Ing-Ren Tsang> deixar eu revisar e enviamos
+2014-01-30 16:33:18 <Leonardo Valeriano> tá ok
+2014-01-30 16:33:24 <Ing-Ren Tsang> isso sera com 3 semanas.
+2014-01-30 16:33:33 <Ing-Ren Tsang> que já e muito bom
+2014-01-30 16:33:43 <Ing-Ren Tsang> as pessoas normalmente envia com 2 ou uma.
+2014-01-30 16:34:14 <Leonardo Valeriano> só isso?
+2014-01-30 16:34:17 <Leonardo Valeriano> meu Deus
+2014-01-30 16:34:34 <Ing-Ren Tsang> sim é raro receber algo com 1 mês antes.
+2014-01-30 16:34:50 <Leonardo Valeriano> eu tava preocupado com os professores não aceitarem
+2014-01-30 16:34:54 <Leonardo Valeriano> mas
+2014-01-30 16:34:58 <Leonardo Valeriano> *mais
+2014-01-30 16:35:07 <Ing-Ren Tsang> ah isso não existe
+2014-01-30 16:35:28 <Ing-Ren Tsang> a coisa não funciona desta forma.
+2014-01-30 16:35:42 <Ing-Ren Tsang> Fique tranquilo veja deixa eu terminar a revisao que envio para vc.
+2014-01-30 16:36:13 <Leonardo Valeriano> tá certo
+2014-01-30 16:36:18 <Leonardo Valeriano> fico no aguardo.
+2014-01-30 16:37:00 <Ing-Ren Tsang> Ok finalizo hj ou amanha abraços
+2014-01-30 16:37:24 <Leonardo Valeriano> abraço
+2014-02-13 14:08:22 <Ing-Ren Tsang> Leonardo
+2014-02-13 14:21:52 <Leonardo Valeriano> Oi Tsang
+2014-02-13 14:35:26 <Ing-Ren Tsang> ola
+2014-02-13 14:35:35 <Leonardo Valeriano> oi
+2014-02-13 14:35:36 <Ing-Ren Tsang> Vc finalizou a apresentacao?
+2014-02-13 14:35:59 <Leonardo Valeriano> finalizo esse nesse final de semana
+2014-02-13 14:36:05 <Ing-Ren Tsang> ok
+2014-02-13 14:36:10 <Leonardo Valeriano> George pediu que eu fizesse em latex
+2014-02-13 14:36:20 <Leonardo Valeriano> mas estou enfrentando dificuldades
+2014-02-13 14:36:46 <Leonardo Valeriano> dá um trabalho ajeitar tudo e n fica muito bonito
+2014-02-13 14:36:58 <Ing-Ren Tsang> pegue um template
+2014-02-13 14:37:19 <Leonardo Valeriano> estou usando o beamer
+2014-02-13 14:38:05 <Ing-Ren Tsang> sim este parece bom
+2014-02-13 14:38:27 <Leonardo Valeriano> tem muitos temas, mas sempre fica algumas páginas em branco, como se fosse falha na compilação.
+2014-02-13 14:38:58 <Ing-Ren Tsang> peça ajuda na lista no viisar
+2014-02-13 14:39:06 <Ing-Ren Tsang> que tem o pessoal que ja usou esse template
+2014-02-13 14:39:23 <Leonardo Valeriano> ok
+2014-02-13 14:39:37 <Leonardo Valeriano> meus amigos tbm estão usando
+2014-02-13 14:39:44 <Leonardo Valeriano> vou perguntar para eles
+2014-02-13 14:43:11 <Ing-Ren Tsang> ok
+2014-02-13 14:43:22 <Ing-Ren Tsang> nos envie assim que finalizar.
+2014-02-13 14:43:42 <Leonardo Valeriano> ok
+2014-02-13 14:43:48 <Ing-Ren Tsang> Em relacao ao sophia falei com George infelizmente no dia a internet estava muito ruim
+2014-02-13 14:44:00 <Leonardo Valeriano> é verdade
+2014-02-13 14:44:03 <Leonardo Valeriano> muito ruim
+2014-02-13 14:44:27 <Leonardo Valeriano> mas os resultados de detecção estão bons
+2014-02-13 14:44:45 <Leonardo Valeriano> precisamos melhorar o tracking
+2014-02-13 15:00:29 <Ing-Ren Tsang> vc fala do tracking das linhas?
+2014-02-13 15:05:28 <Ing-Ren Tsang> Leonardo veja se isso ajuda
+2014-02-13 15:05:28 <Ing-Ren Tsang> https://en.wikipedia.org/wiki/Beamer_%28LaTeX%29
+2014-02-13 15:23:24 <Leonardo Valeriano> é o tracking de linhas
+2014-02-13 15:25:39 <Ing-Ren Tsang> ok, veja vcs ja tem uma estrategia de como melhorar?
+2014-02-13 15:26:59 <Ing-Ren Tsang> Leonardo se vc precisar de algo a mais me avise estou saindo agora
+2014-02-13 15:29:07 <Leonardo Valeriano> tem um cara que entrou agora que está tratando disso
+2014-02-13 15:29:22 <Leonardo Valeriano> mas temos que pensar mais
+2014-02-13 15:34:16 <Leonardo Valeriano> olha
+2014-02-13 15:34:22 <Leonardo Valeriano> achei esse site
+2014-02-13 15:34:30 <Leonardo Valeriano> https://www.sharelatex.com
+2014-02-13 15:34:59 <Leonardo Valeriano> vc consegue adicionar colaboradores e visualizar em pdf
+2014-02-13 16:40:01 <Ing-Ren Tsang> opa funcionou para vc?
+2014-02-13 16:59:37 <Leonardo Valeriano> funcionou sim
+2014-02-13 16:59:50 <Leonardo Valeriano> n preciso instalar nada..
+2014-02-13 17:00:04 <Leonardo Valeriano> e compila mais rápido
+2014-02-13 17:15:01 <Ing-Ren Tsang> otimo :-)
+2014-02-13 17:15:43 <Ing-Ren Tsang> Leonardo depois da defesa gostaria de ver com vc o trabalho para o doutorado. Pois acho que na verdade vc ja tem algum material que podemos pensar em publicar.
+2014-02-13 17:27:26 <Leonardo Valeriano> ok Tsang
+2014-02-13 17:27:46 <Leonardo Valeriano> tenho algumas ideias na área de Speaker Diarization
+2014-02-13 17:27:54 <Leonardo Valeriano> em clustering
+2014-02-13 17:28:09 <Leonardo Valeriano> que se der certo, tbm rendem publicações
+2014-02-13 17:28:11 <Ing-Ren Tsang> O que temos de fazer e um documento com os planos e cronograma.
+2014-02-13 17:28:24 <Leonardo Valeriano> eu queria ficar mais focado em periódicos
+2014-02-13 17:28:27 <Ing-Ren Tsang> E também pensar bem qual o "core" da sua tese.
+2014-02-13 17:28:32 <Leonardo Valeriano> certo
+2014-02-13 17:28:50 <Ing-Ren Tsang> sim vamos foca nisso mas primeiro quero senta junto com vc e discutimos todos os objetivos.
+2014-02-13 17:29:17 <Ing-Ren Tsang> Temos que ter um foco central no que gostariamos de "resolver" na sua tese.
+2014-02-13 17:29:54 <Ing-Ren Tsang> Mas faremos isso quando vc defender e também vai ter um trabalho depois de correçao e tramitar a papelada no mestrado.
+2014-02-13 17:30:09 <Ing-Ren Tsang> Conversamos mais depois então. Abraços
+2014-02-13 17:30:32 <Leonardo Valeriano> é verdade
+2014-02-13 17:30:46 <Leonardo Valeriano> dei uma olhada no regulamento pós-defesa
+2014-02-13 17:30:49 <Leonardo Valeriano> tem muita coisa
+2014-02-13 17:31:14 <Ing-Ren Tsang> sim e muita gente deixa para la
+2014-02-13 17:31:20 <Ing-Ren Tsang> no final nao tem o diploma de mestrado
+2014-02-13 17:31:27 <Ing-Ren Tsang> a defesa nao é o final das coisas.
+2014-02-13 17:31:32 <Ing-Ren Tsang> Tem que ter o diploma.
+2014-02-13 17:32:03 <Leonardo Valeriano> hehehe
+é verdade. tem que ter o diploma.
+Até mais tarde então. Abraços.
+2014-02-13 17:32:10 <Ing-Ren Tsang> abraços
+2014-04-07 12:25:09 <Leonardo Valeriano> Oi Tsang
+2014-04-07 12:25:15 <Leonardo Valeriano> o senhor checou meu email
+2014-04-07 12:25:21 <Leonardo Valeriano> ?
+2014-04-07 12:25:47 <Leonardo Valeriano> Eu fico no aguardo da sua resposta para enviar para Carlos
+2014-05-15 12:33:32 <Ing-Ren Tsang> Leonardo foi decretada o fechamento da universidade agora a tarde. Vamos marca para outro dia nossa reunião.
+2014-05-15 12:33:33 <Ing-Ren Tsang> Abraços
+2014-07-09 10:30:07 <Leonardo Valeriano> Olá Tsang
+2014-07-25 14:24:09 <Leonardo Valeriano> oi Tsang
+2014-07-25 14:24:17 <Leonardo Valeriano> o senhor já viajou?
+2014-07-25 14:24:47 <Leonardo Valeriano> eu completei o documento com as propostas
+2014-07-25 14:25:11 <Leonardo Valeriano> e fiz o cronograma em ciclos
+2014-07-25 14:46:47 <Ing-Ren Tsang> opa viajei sim
+2014-07-25 14:47:07 <Ing-Ren Tsang> me envie a proposta com o cronograma.
+2014-07-25 14:48:13 <Leonardo Valeriano> ok
+2014-07-25 14:48:34 <Leonardo Valeriano> eu fiz o cronograma em ciclos de 6 meses
+2014-07-25 14:48:41 <Leonardo Valeriano> achei mais viável
+2014-07-25 14:48:56 <Leonardo Valeriano> depois é só repetir os ciclos
+2014-07-25 14:50:14 <Ing-Ren Tsang> certo
+2014-07-25 14:50:37 <Ing-Ren Tsang> quando tivermos algo mais especifico podemos fazer um cronograma mais detalhando.
+2014-12-29 17:41:23 <Leonardo Valeriano> Olá Tsang
+2014-12-29 17:41:34 <Leonardo Valeriano> comecei a implementar a proposta
+2014-12-29 17:41:37 <Ing-Ren Tsang> Opa Leonardo
+2014-12-29 17:41:50 <Ing-Ren Tsang> vc fala da tese ou do artigo?
+2014-12-29 17:41:55 <Ing-Ren Tsang> para o ijcnn
+2014-12-29 17:42:01 <Leonardo Valeriano> do artigo
+2014-12-29 17:42:06 <Ing-Ren Tsang> ok otimo
+2014-12-29 17:42:28 <Leonardo Valeriano> é, mas acredito que vai ficar apertado. Mas mesmo assim vamos tentar
+2014-12-29 17:44:03 <Ing-Ren Tsang> sim eu acho que devemos tentar. Uma coisa que podemos ja começar e escrever o artigo
+2014-12-29 17:44:10 <Ing-Ren Tsang> pois a introdução já pode ser feita
+2014-12-29 17:45:43 <Leonardo Valeriano> correto
+2014-12-29 17:45:59 <Leonardo Valeriano> vou ficar sempre atualizando o artigo
+2014-12-29 17:46:34 <Ing-Ren Tsang> ok vc pode compartilhar um folder no dropbox
+2014-12-29 17:46:52 <Leonardo Valeriano> farei isso
+2014-12-29 17:47:17 <Ing-Ren Tsang> ok que tiver uma copia eu vou dando o feedback
+2014-12-29 17:47:39 <Leonardo Valeriano> Tudo bem, o senhor volta ainda em Janeiro?
+2014-12-29 17:47:51 <Ing-Ren Tsang> sim no dia 17 estou de volta
+2014-12-29 17:48:00 <Leonardo Valeriano> Tudo bem
+2014-12-29 17:48:14 <Ing-Ren Tsang> acho que deve ter um adiamento no prazo do ijcnn todo ano tem no mimino 1-2 semanas
+2014-12-29 17:48:50 <Ing-Ren Tsang> mas podemos manter sempre uma discussão via gtalk sobre o artigo.
+2014-12-29 17:49:28 <Leonardo Valeriano> ok, começarei a escrever e finalizarei a implementação da proposta
+2014-12-29 17:50:02 <Ing-Ren Tsang> ok obrigado. E se não conversamos até então. Feliz ano novo :-) Abraços
+2014-12-29 17:51:34 <Leonardo Valeriano> Feliz Ano Novo. Que venham muitas publicações  :) Abraço!
+2014-12-29 17:51:59 <Ing-Ren Tsang> Sim muitas publicações vamos preparar abraços
+2015-01-15 12:53:15 <Leonardo Valeriano> Olá Tsang
+2015-01-15 12:53:37 <Leonardo Valeriano> o deadline do IJCNN foi adiado para fevereiro
+2015-01-15 12:55:40 <Leonardo Valeriano> eu estou terminando um projeto da cadeira de George
+2015-01-15 12:55:57 <Leonardo Valeriano> de múltiplos classificadores
+2015-01-15 12:57:06 <Leonardo Valeriano> tenho que replicar um artigo da Pattern Recognition, o autor fez uns experimentos estranhos, aí estou demorando para replicar.
+2015-01-15 12:59:01 <Leonardo Valeriano> Assim que terminar esse projeto eu vou iniciar o do IJCNN / Interspeech
+2015-01-15 13:27:31 <Ing-Ren Tsang> ok
+2015-02-24 11:16:25 <Leonardo Valeriano> Olá Tsang
+2015-02-24 11:16:36 <Leonardo Valeriano> desculpe a ausência
+2015-02-24 11:16:48 <Leonardo Valeriano> eu terminei a implementação da proposta
+2015-02-24 11:16:53 <Leonardo Valeriano> ficou bem enxuta
+2015-02-24 11:17:20 <Leonardo Valeriano> ainda preciso criar o script de treinamento do classificador, mas essa parte é mais simples
+2015-02-24 11:18:02 <Leonardo Valeriano> vou adaptar as outras etapas (pré-processamento e clustering) para colocar no sistema
+2015-02-24 11:19:19 <Leonardo Valeriano> depois vou implementar um ou dois métodos de segmentação da literatura além do BIC para comparação.
+2015-03-03 08:59:25 <Leonardo Valeriano>    Olá Tsang
+Eu tô com uns resultados interessantes do classificador
+com a base sintética ainda
+o senhor tem tempo hj pra eu apresentá-los?
+2015-08-04 16:22:01 <Leonardo Valeriano> 
+Olá Tsang, o senhor acha que eu devo pagar a Cadeira de Visão esse semestre ou devo fazer matrícula vínculo para me dedicar só na pesquisa
+?
+2015-08-19 11:12:57 <Leonardo Valeriano> Reuni mais artigos (a partir de 2004 até 2012) que propõe métodos que usam classificadores para segmentação
+2015-08-19 11:15:16 <Leonardo Valeriano> Coloquei no dropbox
+2015-08-19 11:16:43 <Leonardo Valeriano> posso preparar um mapa com todas as estratégias deles?
+2015-08-19 11:17:14 <Leonardo Valeriano> assim podemos copiar o que dá certo e mudar só o padrão usado para treinar o classificador
+2015-08-19 11:17:36 <Ing-Ren Tsang> ok vou verificar no dropbox obrigado
+2015-08-19 11:21:09 <Ing-Ren Tsang> em que pasta esta?
+2015-08-19 11:21:24 <Ing-Ren Tsang> referencias?
+2015-08-20 11:03:21 <Leonardo Valeriano> exato em referências
+2015-08-20 11:03:56 <Leonardo Valeriano> dentro tem outra pasta só com artigos que propõem padrões para mudança de locutor
+2015-08-25 17:38:55 <Ing-Ren Tsang> leonardo
+2015-08-25 17:39:17 <Leonardo Valeriano> oi
+2015-08-25 17:39:31 <Leonardo Valeriano> o senhor pode falar agora?
+2015-08-25 17:39:34 <Ing-Ren Tsang> sim
+2015-08-25 17:39:39 <Leonardo Valeriano> ok
+2015-08-25 17:41:05 <Ing-Ren Tsang> Opa leonardo
+2016-04-26 09:10:38 <Ing-Ren Tsang> Leonardo vc vai entrar no skype?
+2016-04-26 09:10:47 <Ing-Ren Tsang> pois senao podemos fazer aqui no hangout
+2016-04-26 09:10:54 <Leonardo Valeriano> pode ser 
+2016-04-26 09:11:03 <Leonardo Valeriano> o senhor pode no Hangout
+2016-04-26 09:11:06 <Ing-Ren Tsang> vou  chamar
+2016-04-26 09:11:20 <Leonardo Valeriano> ok
+2016-04-26 09:12:04 *** Ing-Ren Tsang started a video chat
+2016-04-26 09:32:47 <Ing-Ren Tsang> Improved Image Fusion in PET/CT Using Hybrid Image
+
+Reconstruction and Super-Resolution
+2016-04-26 10:17:16 <Leonardo Valeriano> http://www.ncbi.nlm.nih.gov/pubmed/20449667
+2016-04-26 11:17:29 <Ing-Ren Tsang> oi 
+2016-04-26 11:17:59 *** Leonardo Valeriano ended a video chat
+2016-04-26 11:17:59 *** Ing-Ren Tsang started a video chat
+2016-04-26 11:25:59 <Leonardo Valeriano> Oi Tsang
+2016-04-26 11:26:12 <Leonardo Valeriano> Conseguimos escutar
+2016-04-26 11:31:39 <Leonardo Valeriano> Vamos encerrar
+2016-04-26 11:31:51 <Leonardo Valeriano> Abraço Tsang
+2016-04-26 11:31:53 *** Leonardo Valeriano ended a video chat
+2016-04-26 11:32:13 <Ing-Ren Tsang> ok Leonardo nao da para ouvir nada
+2016-04-26 11:32:24 <Ing-Ren Tsang> converso com o Gabor outra hora.
+2016-04-26 11:32:33 <Leonardo Valeriano> Ok
+2016-04-26 11:32:40 <Ing-Ren Tsang> Sim vc vai da a aula de estatistica hj correto 
+2016-04-26 11:33:10 <Leonardo Valeriano> Vamos analisar o artigo do Kennedy e colocar no relatório pra discutir com Ming chi
+2016-04-26 11:33:22 <Ing-Ren Tsang> otimo
+2016-04-26 11:33:28 <Leonardo Valeriano> Exato. Já estou com os slides prontos
+2016-04-26 11:33:55 <Leonardo Valeriano> É na sala D005 correto?
+2016-04-26 11:34:06 <Ing-Ren Tsang> sim
+2016-04-26 11:34:17 <Ing-Ren Tsang> vc pode me enviar os slides para eu disponibilizar no site
+2016-04-26 11:34:19 <Ing-Ren Tsang> agradeço
+2016-04-26 11:34:32 <Leonardo Valeriano> Esse domingo consigo encerrar a revisão de literatura da proposta do Doutorado
+2016-04-26 11:34:41 <Leonardo Valeriano> Certo
+2016-04-26 11:34:57 <Leonardo Valeriano> Assim que voltar a internet. :)
+2016-04-26 11:35:12 <Ing-Ren Tsang> ok marcamos uma reuniao assim que retornar
+2016-04-26 11:36:13 <Ing-Ren Tsang> abs
+2016-04-26 11:36:59 <Leonardo Valeriano> Abraço
+2016-04-29 15:53:03 <Leonardo Valeriano> Tô perto do Cin
+2016-04-29 15:53:05 <Leonardo Valeriano> Tá tendo um engarrafamento
+2016-05-02 15:52:13 <Leonardo Valeriano> https://www5.cs.fau.de/research/data/multi-sensor-super-resolution-datasets/
+2016-05-06 16:11:01 <Leonardo Valeriano> Olá Tsang, Gábor enviou o Relatório hoje
+2016-05-06 16:11:13 <Ing-Ren Tsang> sim eu vi
+2016-05-06 16:11:27 <Ing-Ren Tsang> vou ler o documento
+2016-05-06 16:11:43 <Leonardo Valeriano> Ok
+2016-05-06 16:11:51 <Leonardo Valeriano> Dá um olhada nas atividades
+2016-05-06 16:11:59 <Leonardo Valeriano> pois tem uns prazos meio chutados
+2016-05-06 16:12:12 <Ing-Ren Tsang> vc esta no cin?
+2016-05-06 16:12:19 <Leonardo Valeriano> estou
+2016-05-06 16:12:28 <Ing-Ren Tsang> pode passar aqui
+2016-05-06 16:12:38 <Leonardo Valeriano> posso sim.
+2016-05-06 16:12:42 <Leonardo Valeriano> estou chegando
+2016-05-06 16:12:45 <Ing-Ren Tsang> ok
+2016-05-06 17:08:16 <Leonardo Valeriano> https://confluence.jetbrains.com/display/PYH/Using+IPython+Notebook+with+PyCharm
+2016-05-06 17:17:05 <Ing-Ren Tsang> https://www.ufpe.br/dmat/index.php?option=com_content&view=article&id=523&Itemid=342
+2016-05-06 17:29:31 <Ing-Ren Tsang> http://www.gizmag.com/super-resolution-weizmann-institute/23486/
+2016-05-06 17:31:13 <Ing-Ren Tsang> http://lcav.epfl.ch/software/superresolution
+2016-05-06 17:41:07 <Ing-Ren Tsang> http://decsai.ugr.es/pi/superresolution/software.html
+2016-05-12 15:42:34 <Leonardo Valeriano> Olá Tsang
+2016-05-12 15:43:48 <Leonardo Valeriano> Eu fiz a descrição do problema matemático para o projeto da GE
+2016-05-12 15:45:48 <Leonardo Valeriano> e queria que se possível o senhor me ajudasse a achar trabalhos recentes sobre as matrizes para cálculo de movimentação de objetos em imagens (transformações não rígidas, b-spline). A literatura utiliza técnicas não muito recentes, acredito que podemos inovar nesse ponto
+2016-05-12 15:47:13 <Leonardo Valeriano> Um outro ponto é um relatório que Gabor me pediiu para o MCT (Ministério) para comprovação de uso de renda para a lei de informática
+2016-05-12 15:47:38 <Leonardo Valeriano> que cita vantagens e novidades em pesquisa, coisa burocrática
+2016-05-12 15:47:51 <Leonardo Valeriano> pela noite o senhor acha que pode me ajudar?
+2016-05-12 15:47:58 <Leonardo Valeriano> Obrigado.
+2016-06-01 09:57:10 <Leonardo Valeriano> Olá Tsang,
+2016-06-01 09:57:24 <Leonardo Valeriano> vou adicionar as imagens da apresentação do Rio
+2016-06-01 09:57:32 <Leonardo Valeriano> nos úti
+2016-06-01 09:57:39 <Leonardo Valeriano> últimos slides
+2016-06-03 15:36:00 <Leonardo Valeriano> Olá Tsang
+2016-06-03 15:36:25 <Leonardo Valeriano> Será que hoje de tarde podemos conversar com o pessoal da FITec
+2016-06-03 15:36:31 <Leonardo Valeriano> ?
+2016-07-12 09:21:28 <Ing-Ren Tsang> Leonardo? a reunião?
+2016-07-13 08:40:05 <Leonardo Valeriano> Olá Tsang
+2016-07-13 08:41:12 <Leonardo Valeriano> Acredito que a definição de tensor é inapropriada. Vamos utilizar campo vetorial mesmo
+2016-07-13 08:41:52 <Leonardo Valeriano> é uma matriz que armazena vetores
+2016-07-13 08:42:08 <Leonardo Valeriano> cada vetor de dimensão n
+2016-07-13 08:44:04 <Leonardo Valeriano> digo isso, pois as distâncias não são um espaço
+2016-07-13 08:46:47 <Leonardo Valeriano> pesquisei mais afundo e muita gente anda reclamando que o pessoal tem abusado dessa definição,
+2016-07-13 08:48:05 <Leonardo Valeriano> pois o correto seria o tensor ser um produto vetorial de espaços, respeitando propriedades de linearidade e álgebra
+2016-07-13 08:48:38 <Leonardo Valeriano> o nosso caso seria um simples array multidimensional mesmo
+2016-07-19 08:49:07 <Ing-Ren Tsang> oi Leonardo
+2016-07-19 08:49:39 <Leonardo Valeriano> Olá Tsang
+2016-07-19 08:49:41 <Leonardo Valeriano> tudo bem
+2016-07-19 08:49:44 <Leonardo Valeriano> ?
+2016-07-19 08:49:49 <Leonardo Valeriano> Bruno está por aqui
+2016-07-19 08:49:58 <Ing-Ren Tsang> sim vi o hangout dele
+2016-07-19 08:50:24 <Ing-Ren Tsang> mas nao to vendo o Gabor no skype
+2016-07-19 08:50:33 <Ing-Ren Tsang> posso me conectar via hangout
+2016-07-19 08:50:35 <Leonardo Valeriano> Bruno vai abrir um hangout
+2016-07-26 08:08:52 <Ing-Ren Tsang> Leonardo estou disponivel
+2016-07-26 08:08:57 <Ing-Ren Tsang> me avise se puder conversar
+2016-07-26 08:37:54 <Leonardo Valeriano> Olá
+2016-07-26 08:38:03 <Leonardo Valeriano> Posso conversar agora Tsagn
+2016-07-26 08:38:06 <Leonardo Valeriano> Tsang
+2016-07-26 08:38:16 <Ing-Ren Tsang> oi Leonardo, me da 5 minutos
+2016-07-26 08:38:24 <Leonardo Valeriano> Ok
+2016-07-26 08:49:11 <Leonardo Valeriano> Olá Tsang
+2016-07-26 08:49:31 <Ing-Ren Tsang> opa
+2016-07-26 08:49:36 <Ing-Ren Tsang> pode falar por voz?
+2016-07-26 08:49:52 <Leonardo Valeriano> acho que n
+2016-07-26 08:50:06 <Leonardo Valeriano> vai começar a reunião da gente agora
+2016-07-26 08:50:23 <Leonardo Valeriano> o senhor vai participar dela?
+2016-07-26 08:50:46 <Ing-Ren Tsang> sim vou sim
+2016-07-26 08:50:50 <Ing-Ren Tsang> no skype?
+2016-07-26 08:51:03 <Leonardo Valeriano> vamos conversar um pouco por texto enquanto acontece a reuniao
+2016-07-26 08:51:07 <Leonardo Valeriano> pode ser?
+2016-07-26 08:51:12 <Ing-Ren Tsang> sim
+2016-07-26 08:51:26 <Ing-Ren Tsang> entao vc nao pode falar por voz?
+2016-07-26 08:51:31 <Ing-Ren Tsang> que fica mais rapido
+2016-07-26 08:51:40 <Leonardo Valeriano> após a reunião sim
+2016-07-26 08:51:52 <Ing-Ren Tsang> ok mas so posso fica ate as 10
+2016-07-26 08:52:02 <Leonardo Valeriano> hum
+2016-07-26 08:52:14 <Leonardo Valeriano> 10h n sei se termina
+2016-07-26 08:52:43 <Ing-Ren Tsang> senao conversamo mas tarde
+2016-07-26 08:52:51 <Ing-Ren Tsang> e que tenho um compromisso na georgia tech
+2016-07-26 08:53:04 <Ing-Ren Tsang> veja quando o pessoal comeca no skype?
+2016-07-26 08:54:07 <Ing-Ren Tsang> o texto vc finalizou todo os experimentos?
+2016-07-26 08:54:42 <Leonardo Valeriano> finalizei
+2016-07-26 08:55:02 <Leonardo Valeriano> falta completar a escrita os resultados
+2016-07-26 08:55:09 <Leonardo Valeriano> testes estatíticos
+2016-07-26 08:55:16 <Leonardo Valeriano> se necessário
+2016-07-26 08:55:16 <Ing-Ren Tsang> eu concluir a revisão do caio finalmente. Então so estou lendo a sua agora
+2016-07-26 08:55:23 <Ing-Ren Tsang> vou mandando os comentarios por capitulos
+2016-07-26 08:55:36 <Ing-Ren Tsang> vamos ver se concluimos até o final de semana.
+2016-07-26 08:55:44 <Leonardo Valeriano> ok, veja se o capítulo 3 precisa de mais assunto, ou ideias
+2016-07-26 08:55:55 <Leonardo Valeriano> certo.
+2016-07-26 08:56:14 <Leonardo Valeriano> ainda n mandei o email pro pessoal da banca, devo mandar?
+2016-07-26 08:56:20 <Ing-Ren Tsang> ainda nao
+2016-07-26 08:56:27 <Ing-Ren Tsang> temos ainda algum tempo...
+2016-07-26 08:56:55 <Ing-Ren Tsang> o dia e 25
+2016-07-26 08:57:06 <Ing-Ren Tsang> tudo bem se conseguimos terminar ate o final de semana
+2016-07-26 09:02:51 <Ing-Ren Tsang> quando vc acha que termina toda parte escrita
+2016-07-26 09:05:15 <Leonardo Valeriano> acho que amanhã de meia noite
+2016-07-26 09:05:41 <Leonardo Valeriano> vou finalizar o capítulo de experimentos com toda a discussão
+2016-07-26 09:06:06 <Leonardo Valeriano> amanhã fica faltando a conclusão com o  plano de trabalho
+2016-07-26 09:06:49 <Leonardo Valeriano> assim que terminar envio novamente uma versão e volto para o estado da arte para melhorar o texto.
+2016-07-26 09:15:40 <Ing-Ren Tsang> ok, eu vou lendo e comentando e vamos finalizar um ciclo
+2016-07-26 09:27:31 <Leonardo Valeriano> ok
+2016-07-26 09:27:54 <Ing-Ren Tsang> vc esta atualizando no dropbox, certo?
+2016-07-26 09:47:08 <Ing-Ren Tsang> Leonardo se pudemos falar 5 minutos agora
+2016-07-26 09:47:45 <Leonardo Valeriano> o
+2016-07-26 09:47:47 <Leonardo Valeriano> ok
+2016-07-26 09:47:53 <Leonardo Valeriano> vamos sim
+2016-07-26 09:47:59 <Ing-Ren Tsang> posso chamar via hangout?
+2016-07-26 09:48:16 <Leonardo Valeriano> só um instannte
+2016-07-26 09:48:24 <Leonardo Valeriano> vou entrar pelo celular
+2016-07-26 09:48:34 <Ing-Ren Tsang> ah fica mais facil?
+2016-07-26 09:48:40 <Leonardo Valeriano> fica
+2016-07-26 09:48:40 <Ing-Ren Tsang> pode ser skype entao
+2016-07-26 09:48:45 <Leonardo Valeriano> é rápido
+2016-07-26 09:48:46 <Ing-Ren Tsang> nao tem problema para mim tanto faz
+2016-07-26 09:48:51 <Ing-Ren Tsang> ok
+2016-07-26 09:49:53 *** Leonardo Valeriano started a video chat
+2016-07-26 09:49:59 *** Leonardo Valeriano ended a video chat
+2016-07-26 09:50:10 *** Leonardo Valeriano started a video chat
+2016-07-26 09:58:08 *** Leonardo Valeriano ended a video chat
+2016-07-28 14:25:09 *** Leonardo Valeriano started a video chat
+2016-07-28 14:43:18 *** Ing-Ren Tsang ended a video chat
+2016-08-02 12:21:11 <Leonardo Valeriano> olá Tsang
+2016-08-02 12:21:18 <Ing-Ren Tsang> opa
+2016-08-02 12:21:29 <Leonardo Valeriano> Eu coloquei mais correções no Dropbox
+2016-08-02 12:21:48 <Ing-Ren Tsang> ok eu vi mas vou enviar o que tenho agora e depois verifico a mais nova
+2016-08-02 12:21:55 <Ing-Ren Tsang> senao fica uma confusao de versao
+2016-08-02 12:21:58 <Leonardo Valeriano> certo
+2016-08-02 12:22:30 <Leonardo Valeriano> O senhor percebeu algo muito estranho ou mal explicado?
+2016-08-02 12:22:50 <Ing-Ren Tsang> tem algums pontos que pode ser melhorado na escrita
+2016-08-02 12:22:55 <Ing-Ren Tsang> estou apontanto
+2016-08-02 12:23:18 <Ing-Ren Tsang> mas nada que requer muita mudança agora.
+2016-08-02 12:23:24 <Ing-Ren Tsang> O que muitas vezes acontece
+2016-08-02 12:24:06 <Ing-Ren Tsang> é que vc esta bem "dentro" do que esta fazendo e as vez parece "obvio" o que ta falando mas para quem esta lendo
+2016-08-02 12:24:25 <Ing-Ren Tsang> nao fica tanto. Então é muito mais uma revisao para tudo fica mais claro e explicito
+2016-08-02 12:24:32 <Ing-Ren Tsang> envio assim que terminar essa versao
+2016-08-02 12:26:39 <Leonardo Valeriano> ok tsang
+2016-08-02 12:26:46 <Leonardo Valeriano> fico no aguardo
+2016-08-03 09:00:43 <Ing-Ren Tsang> Leonardo teremos a reuniao?
+2016-08-03 09:01:38 <Leonardo Valeriano> Olá
+2016-08-03 09:01:40 <Leonardo Valeriano> Sim
+2016-08-03 09:01:58 <Ing-Ren Tsang> opa
+2016-08-03 09:02:05 <Ing-Ren Tsang> o Gabor esta no skype agora
+2016-08-03 09:02:09 <Leonardo Valeriano> Estamos nos organizando
+2016-08-03 09:02:14 <Ing-Ren Tsang> ok
+2016-08-03 09:13:14 <Leonardo Valeriano> o ming chi ainda n apareceu
+2016-08-03 09:14:26 <Ing-Ren Tsang> e o Gabor ta me falando.
+2016-08-03 09:14:31 <Ing-Ren Tsang> Leonardo envio hj a noite a revisao
+2016-08-03 09:14:52 <Ing-Ren Tsang> estou finalizando, as correcoes são mais na forma de escrever...
+2016-08-03 09:18:11 <Leonardo Valeriano> ok Tsang
+2016-08-03 11:57:17 <Leonardo Valeriano> olá Tsang
+2016-08-03 11:57:55 <Leonardo Valeriano> Acabei de fazer uns experimentos com o versor da curva de distância
+2016-08-03 11:58:31 <Leonardo Valeriano> a gente transforma a curva em um vetor e depois normaliza
+2016-08-03 11:58:52 <Leonardo Valeriano> os resultados forma bem melhores.
+2016-08-03 11:59:18 <Leonardo Valeriano> A amplitude do vetor tem se mostrado uma informaçao
+2016-08-03 12:00:11 <Leonardo Valeriano> muito ruidosa, dependendo do tamanho do trecho, ao normalizar, perdemos essa informação, ficando apenas com as informações de sentido e orientaçao
+2016-08-03 12:03:17 <Ing-Ren Tsang> vc acha que ainda da para colocar na dissertacao?
+2016-08-03 12:03:52 <Leonardo Valeriano> a definição dá
+2016-08-03 12:04:07 <Ing-Ren Tsang> acho que vc pode colocar como trabalhos futuros
+2016-08-03 12:04:09 <Leonardo Valeriano> mas os resultados dos experimentos vai demorar mais
+2016-08-03 12:04:27 <Ing-Ren Tsang> e já sabendo que tem um bom resultado
+2016-08-03 12:04:54 <Leonardo Valeriano> e adicionar na tabela do calendário
+2016-08-03 12:05:01 <Leonardo Valeriano> sim, podemos citar isso
+2016-08-03 12:05:21 <Leonardo Valeriano> podemos apresentar mais resultados na apresentação da proposta
+2016-08-03 12:05:24 <Leonardo Valeriano> ?
+2016-08-03 12:05:39 <Leonardo Valeriano> fora os que estão no documento?
+2016-08-03 12:06:26 <Ing-Ren Tsang> hum... acho que como resultado preliminar dos trabalho futuros sim. Mas nao mostraria muito mais. Isso seria mais para convencer que esta indo para um caminho certo
+2016-08-03 12:07:19 <Leonardo Valeriano> entendi
+2016-08-03 12:07:42 <Leonardo Valeriano> vou colocar no capítulo 3 então
+2016-08-03 12:07:56 <Ing-Ren Tsang> eu acho que é melhor prometer menos do que prometer muito pois uma vez prometendo a banca cobrar....srrss
+2016-08-03 12:08:28 <Leonardo Valeriano> já tá pronto
+2016-08-03 12:08:30 <Leonardo Valeriano> hehehe
+2016-08-03 12:08:38 <Leonardo Valeriano> é só escrever mesmo
+2016-08-03 12:08:49 <Ing-Ren Tsang> ok
+2016-08-03 12:09:06 <Ing-Ren Tsang> sim vc vai preparar o email para o Mingchi certo?
+2016-08-03 12:09:08 <Leonardo Valeriano> acho interessante tentar publicar uma das definiçoes
+2016-08-03 12:09:14 <Leonardo Valeriano> no ICAASP
+2016-08-03 12:09:20 <Ing-Ren Tsang> vamos tentar
+2016-08-03 12:09:23 <Leonardo Valeriano> eles respondem rápido
+2016-08-03 12:09:27 <Leonardo Valeriano> e já 
+2016-08-03 12:09:34 <Leonardo Valeriano> é um feedback
+2016-08-03 12:09:44 <Ing-Ren Tsang> eu estou de volta na segunda entao marcamos uma reunião logo para discutirmos
+2016-08-03 12:09:51 <Ing-Ren Tsang> vc pode na segunda a tarde?
+2016-08-03 12:10:08 <Leonardo Valeriano> posso sim
+2016-08-03 12:10:29 <Ing-Ren Tsang> pode ser as 15:00?
+2016-08-03 12:10:34 <Leonardo Valeriano> sim
+2016-08-03 12:10:43 <Leonardo Valeriano> marcado
+2016-08-03 12:10:43 <Ing-Ren Tsang> marcado
+2016-08-03 12:10:47 <Ing-Ren Tsang> na minha sala ok?
+2016-08-03 12:11:26 <Leonardo Valeriano> ok, a apresentação tá certa pra ser no auditório (perto da motorola) de 8:00
+2016-08-03 12:11:43 <Leonardo Valeriano> o professor Gustavo Adami confirmou?
+2016-08-03 12:11:47 <Leonardo Valeriano> ele consegue vir
+2016-08-03 12:11:57 <Ing-Ren Tsang> Sim ele vai vim esta confirmado
+2016-08-03 12:12:07 <Ing-Ren Tsang> em relacao ao auditorio tem que ver com a secretaria da pos
+2016-08-03 12:12:10 <Ing-Ren Tsang> isso e com eles
+2016-08-03 12:12:15 <Leonardo Valeriano> ótimo! vai ser um feedback muito bom
+2016-08-03 12:12:24 <Ing-Ren Tsang> O nome dele é Andre nao?
+2016-08-03 12:12:49 <Leonardo Valeriano> sim, Gustavo é o segundo nome
+2016-08-03 12:12:51 <Leonardo Valeriano> acredito
+2016-08-03 12:13:42 <Ing-Ren Tsang> me relacao ao mingch vc prepara o email?
+2016-08-03 12:14:31 <Leonardo Valeriano> sim
+2016-08-03 12:14:37 <Leonardo Valeriano> vou enviar agora
+2016-08-03 12:14:46 <Leonardo Valeriano> tava testando o blur no patch
+2016-08-03 12:17:39 <Ing-Ren Tsang> ok
+2016-09-06 09:11:55 <Ing-Ren Tsang> http://www.inf.ufrgs.br/~eslgastal/NonUniformFiltering/Supplementary/Supplementary.html
+2016-09-08 15:32:24 <Leonardo Valeriano> Olá Tsang, o senhor está muito ocupado agora
+2016-09-08 15:32:30 <Leonardo Valeriano> ?
+2016-09-08 15:44:30 <Ing-Ren Tsang> soi
+2016-09-08 15:44:32 <Ing-Ren Tsang> oi
+2016-09-08 15:44:41 <Ing-Ren Tsang> nao posso falar
+2016-09-08 15:44:42 <Leonardo Valeriano> olá
+2016-09-08 15:45:06 <Leonardo Valeriano> ok, tento enviar um resumo com minhas dúvidas mais tarde
+2016-09-08 15:45:12 <Leonardo Valeriano> ok?
+2016-09-08 15:45:24 <Ing-Ren Tsang> claro
+2016-09-08 15:45:44 <Ing-Ren Tsang> vc acha que podemos envolver a esse ponto o Andre? ele pode também da algum feedback
+2016-09-08 15:46:57 <Leonardo Valeriano> eu queria terminar logo a escrita, se não fica incompleto e ele pode se desinteressar
+2016-09-08 15:47:14 <Ing-Ren Tsang> ok de acordo
+2016-09-08 15:47:30 <Ing-Ren Tsang> o problema e que ode ficar muito emcia
+2016-09-08 15:47:47 <Leonardo Valeriano> deixa eu correr com isso que ganhamos mais tempo, certo? tenho revisado cada artigo em diarization com i-vectors, por isso demorei mais
+2016-09-08 15:47:53 <Ing-Ren Tsang> em cima\
+2016-09-12 10:38:11 <Ing-Ren Tsang> vc esta no Cin?
+2016-09-12 10:38:23 <Leonardo Valeriano> sim estou
+2016-09-12 10:38:29 <Leonardo Valeriano> aqui no lab da Pós
+2016-09-12 10:38:39 <Leonardo Valeriano> vou enviar a versão corrigida pra vcs
+2016-09-12 10:38:42 <Ing-Ren Tsang> eu estou aplicando prova
+2016-09-12 10:38:45 <Ing-Ren Tsang> passo ai depois
+2016-09-12 10:38:48 <Leonardo Valeriano> ok
+2016-09-12 10:38:49 <Ing-Ren Tsang> ok
+2016-09-12 10:38:58 <Leonardo Valeriano> qual a sala da prova?
+2016-09-12 10:39:05 <Ing-Ren Tsang> vamos colocar o andre também ele deu um bom feedback no artigo de Hector
+2016-09-12 10:39:11 <Ing-Ren Tsang> e121
+2016-09-12 10:39:15 <Leonardo Valeriano> o senhor vai almoçar por aqui
+2016-09-12 10:39:16 <Ing-Ren Tsang> no predio novo
+2016-09-12 10:39:29 <Ing-Ren Tsang> nao sei se vou ter muito tempo pois tenho uma banca as 13
+2016-09-12 10:39:31 <Leonardo Valeriano> ok, vamos sim. Eita n tenho acesso
+2016-09-12 10:39:33 <Leonardo Valeriano> :P
+2016-09-12 10:39:42 <Ing-Ren Tsang> e a prova o pessoal nao sei se vao terminar as 12
+2016-09-12 10:39:46 <Leonardo Valeriano> fico por aqui então
+2016-09-12 10:39:46 <Ing-Ren Tsang> Hector  esta com luis
+2016-09-12 10:39:51 <Ing-Ren Tsang> eles devem ir almocar
+2016-09-12 10:39:54 <Ing-Ren Tsang> fale com eles
+2016-09-12 10:40:01 <Leonardo Valeriano> certo
+2016-09-12 10:40:02 <Ing-Ren Tsang> eu fiquei de ver se consigo sair
+2016-09-12 10:40:05 <Ing-Ren Tsang> mas acho que nao
+2016-09-12 10:40:17 <Ing-Ren Tsang> a prova e um pouco longa e devo da uns 15 minutos a mais
+2016-09-12 10:40:24 <Ing-Ren Tsang> porem tenho a banca as 13 entao nao da tempo
+2016-09-12 10:44:55 <Leonardo Valeriano> tudo bem Tsang
+2017-05-12 11:48:31 <Ing-Ren Tsang> leonardo 

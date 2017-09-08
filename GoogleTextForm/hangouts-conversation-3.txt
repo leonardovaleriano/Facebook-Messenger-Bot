@@ -1,0 +1,266 @@
+﻿2013-06-21 09:59:53 <Henrique Menezes>   http://msdn.microsoft.com/en-us/library/ff601928.aspx  
+2013-07-25 17:29:10 <Henrique Menezes> ae leo
+2013-07-25 17:29:14 <Henrique Menezes> tais na sophia?
+2014-02-24 14:33:40 <Henrique Menezes> ae Léo
+2014-02-24 14:34:59 <Leonardo Valeriano> oi
+2014-02-24 14:35:28 <Henrique Menezes> eu to pensando em sair da empresa
+2014-02-24 14:35:57 <Henrique Menezes> recebi uma proposta..
+2014-02-24 14:36:02 <Leonardo Valeriano> hum..
+2014-02-24 14:36:07 <Leonardo Valeriano> interessante
+2014-02-24 14:36:15 <Henrique Menezes> tu acha melhor falar logo com bruno?
+2014-02-24 14:36:35 <Henrique Menezes> pedro tá sabendo já..
+2014-02-24 14:36:36 <Leonardo Valeriano> depende da proposta
+2014-02-24 14:36:41 <Leonardo Valeriano> sei
+2014-02-24 14:36:42 <Henrique Menezes> tá quase certo
+2014-02-24 14:36:48 <Leonardo Valeriano> hum...
+2014-02-24 14:36:56 <Leonardo Valeriano> pode falar com ele
+2014-02-24 14:37:18 <Leonardo Valeriano> ele provavelmente vai falar com João pra ter uma contra proposta
+2014-02-24 14:37:23 <Henrique Menezes> blz..
+2014-02-24 14:37:27 <Leonardo Valeriano> tem que ver se tá certo mesmo
+2014-02-24 14:37:29 <Henrique Menezes> eu vo falar com ele
+2014-02-24 14:37:33 <Leonardo Valeriano> pra n arriscar né?
+2014-02-24 14:37:40 <Leonardo Valeriano> blz
+2014-02-24 14:37:44 <Henrique Menezes> mas por enquanto não fale a ninguem
+2014-02-24 14:37:50 <Henrique Menezes> só tu e pedro tão sabendo
+2014-02-24 14:39:26 <Leonardo Valeriano> tá tranquilo
+2014-06-06 11:01:53 <Henrique Menezes> ae leo
+2014-06-06 11:02:01 <Leonardo Valeriano> grande
+2014-06-06 11:02:05 <Leonardo Valeriano> tudo bom?
+2014-06-06 11:02:09 <Henrique Menezes> e essa inauguração hj?
+2014-06-06 11:02:12 <Henrique Menezes> td tranquilo
+2014-06-06 11:02:19 <Leonardo Valeriano> ahuahauahu
+2014-06-06 11:02:24 <Leonardo Valeriano> tá n
+2014-06-06 11:02:27 <Leonardo Valeriano> correria
+2014-06-06 11:02:38 <Henrique Menezes> hj é ao vivo?
+2014-06-06 11:02:43 <Leonardo Valeriano> a gente n tinha testado capturando jogo ao vivo
+2014-06-06 11:02:45 <Leonardo Valeriano> é sim
+2014-06-06 11:02:52 <Leonardo Valeriano> mas é teste interno
+2014-06-06 11:02:58 <Henrique Menezes> to lig..
+2014-06-06 11:03:01 <Leonardo Valeriano> vê
+2014-06-06 11:03:02 <Henrique Menezes> mas vai rolar?
+2014-06-06 11:03:09 <Leonardo Valeriano> depende..
+2014-06-06 11:03:36 <Leonardo Valeriano> eu tava precisando aprender como usa aquela biblioteca do libjpeg turbo
+2014-06-06 11:03:48 <Leonardo Valeriano> tu tinha um projeto na tua máquina né?
+2014-06-06 11:03:54 <Leonardo Valeriano> tu lembra onde tava?
+2014-06-06 11:04:16 <Henrique Menezes> rapz.. eu tinha
+2014-06-06 11:04:24 <Henrique Menezes> mas não lembro exatamente onde ta
+2014-06-06 11:06:59 <Leonardo Valeriano> hum...
+2014-06-06 11:07:01 <Leonardo Valeriano> blz
+2014-06-06 11:07:11 <Leonardo Valeriano> mas tu lembra se era simples de usar
+2014-06-06 11:07:20 <Leonardo Valeriano> ou tinha muita frescura?
+2014-06-06 11:08:17 <Henrique Menezes> só sei q precisava compilar o opencv com o libjpegturbo
+2014-06-06 11:08:33 <Henrique Menezes> e pra usar era simples
+2014-06-06 11:11:14 <Leonardo Valeriano> é... compilar o opencv acho que n vai dar n :P
+2014-06-06 11:11:31 <Leonardo Valeriano> vou tentar usar na tora!
+2014-06-06 11:11:50 <Henrique Menezes> da pra usar tbm
+2014-06-06 11:17:05 <Leonardo Valeriano> tá legalzinho o resultado no celular
+2014-06-06 11:17:22 <Leonardo Valeriano> mas ao vivo é o desafio do momento
+2014-06-06 17:55:01 <Henrique Menezes> aee
+2014-06-06 17:55:05 <Henrique Menezes> ta rodando?
+2014-06-06 21:21:26 <Leonardo Valeriano> Rapaz, n deu n.. Vamos ter que comprar o PenTv que seja compatível com o servidor.
+2014-06-06 21:22:19 <Leonardo Valeriano> Eu tô conseguindo comprimir mas n testei ainda ao vivo.
+2014-06-06 21:22:41 <Henrique Menezes> to lig
+2014-06-06 21:22:51 <Henrique Menezes> mas vcs vão precisar comprimir pq?
+2014-06-06 21:23:00 <Henrique Menezes> o pentv não tá no servidor não?
+2014-06-06 21:23:13 <Henrique Menezes> ahh
+2014-06-06 21:23:14 <Henrique Menezes> tah não
+2014-06-10 09:36:36 <Henrique Menezes> bora leo
+2014-06-10 10:28:39 <Leonardo Valeriano> Diga aew brother
+2014-06-10 10:29:23 <Henrique Menezes> e essa inauguração
+2014-06-10 10:29:30 <Henrique Menezes> vai ser quinta?
+2014-06-10 10:30:12 <Leonardo Valeriano> Falta avaliar a comunicação.
+2014-06-10 10:30:25 <Leonardo Valeriano> Tá em testes agora.
+2014-06-10 10:30:43 <Leonardo Valeriano> Acho que sai sim.
+2014-06-12 18:28:10 <Leonardo Valeriano> Funciona caraaaaiiiii
+2014-06-12 18:28:19 <Leonardo Valeriano> 🙌
+2014-07-14 16:27:22 <Henrique Menezes> ae Léo
+2014-07-14 16:27:28 <Leonardo Valeriano> oi
+2014-07-14 16:27:40 <Henrique Menezes> como foi q tu fez o pedido de defesa?
+2014-07-14 16:27:48 <Henrique Menezes> teve que ir na secretaria?
+2014-07-14 16:27:50 <Henrique Menezes> siga?
+2014-07-14 16:27:52 <Henrique Menezes> ou email?
+2014-07-14 16:27:59 <Leonardo Valeriano> tem um link do Cin
+2014-07-14 16:28:25 <Leonardo Valeriano> http://www2.cin.ufpe.br/site/secao.php?s=3&c=122
+2014-07-14 16:28:47 <Leonardo Valeriano> loga com o email do Cin
+2014-07-14 16:29:44 <Leonardo Valeriano> confere todos os dados da galera da banca, vê no sistema de reservas a sala que tu quer e a data com horário
+2014-07-14 16:29:45 <Henrique Menezes> massa
+2014-07-14 16:30:29 <Leonardo Valeriano> pede pra George os dados e confirma com ele uma data antes de fazer o pedido
+2014-07-14 16:31:08 <Leonardo Valeriano> e n precisa pagar nada
+2014-07-14 16:31:09 <Leonardo Valeriano> :)
+2014-07-14 17:40:11 <Henrique Menezes> No item 2) diz que: Solicitações feitas com menos de 45 dias para a defesa da Dissertação ou com informações incorretas não serão processadas 
+Falta só 30 dias pra defesa
+será que vai dar errado
+?
+2014-07-14 17:51:57 <Leonardo Valeriano> vai n
+2014-07-14 17:52:16 <Leonardo Valeriano> 45 dias é um prazo "legal"
+2014-07-14 17:52:28 <Leonardo Valeriano> mas quase ninguém segue isso
+2014-07-14 17:53:19 <Leonardo Valeriano> eu marquei com 30 dias
+2014-07-14 17:53:53 <Leonardo Valeriano> agora depois disso manda um email pra secretaria para confirmar tudo
+2014-07-14 18:09:26 <Henrique Menezes> tu sabe o que é esse campo "Título do Projeto de Pesquisa Associado"?
+2014-07-14 18:15:23 <Leonardo Valeriano> É o título n?
+2014-07-14 18:22:04 <Henrique Menezes> é pq tem dois campos: Título da Dissertação e Título do Projeto de Pesquisa Associado
+2014-07-15 12:56:25 <Leonardo Valeriano> n lembro
+2014-07-15 12:56:31 <Leonardo Valeriano> desenrolasse?
+2014-07-15 13:48:15 <Henrique Menezes> desenrolei
+2014-07-25 14:38:15 <Henrique Menezes> ae leo
+2014-07-25 14:38:22 <Leonardo Valeriano> oi
+2014-07-25 14:38:41 <Henrique Menezes> tais na sophia?
+2014-07-25 14:40:21 <Leonardo Valeriano> tô sim
+2014-07-25 14:40:26 <Leonardo Valeriano> mas pode falar
+2014-08-06 18:15:16 <Henrique Menezes> ae leo
+2014-08-06 18:15:45 <Leonardo Valeriano> Fala
+2014-08-06 18:16:02 <Henrique Menezes> ae como tá o SFC?
+2014-08-06 18:16:14 <Henrique Menezes> eu ouvi dizer q Laplace tava pra sair
+2014-08-06 18:17:43 <Leonardo Valeriano> rapaz, tá indo bem véi
+2014-08-06 18:18:06 <Leonardo Valeriano> A gente tá numa seleção de startup agora em setembro
+2014-08-06 18:18:18 <Leonardo Valeriano> o foda é que tipo
+2014-08-06 18:18:44 <Leonardo Valeriano> agora ninguém pode aumentar salário
+2014-08-06 18:18:54 <Henrique Menezes> eu vi Raoni esses dias..
+2014-08-06 18:18:58 <Leonardo Valeriano> até entrar outra grana de investimento
+2014-08-06 18:19:01 <Henrique Menezes> ai ele falou esse negocio de Laplace
+2014-08-06 18:19:14 <Leonardo Valeriano> Laplace tá puto
+2014-08-06 18:19:19 <Henrique Menezes> ai pensei q o projeto tava acabando..
+2014-08-06 18:19:28 <Leonardo Valeriano> pq queria ganhar mais e sem poder
+2014-08-06 18:19:51 <Leonardo Valeriano> aí vai trabalhar na empresa do pai, pra implantar TI lá
+2014-08-06 18:20:13 <Leonardo Valeriano> e além disso a convivência aqui é muito ruim, pessoal meio escroto
+2014-08-06 18:20:25 <Leonardo Valeriano> sabe como é né?
+2014-08-06 18:20:30 <Henrique Menezes> to lig.
+2014-08-06 18:20:45 <Henrique Menezes> ele Raoni falou
+2014-08-06 18:20:54 <Henrique Menezes> *Raoni
+2014-08-06 18:21:06 <Henrique Menezes> ele ta saindo pra uma startup dele
+2014-08-06 18:21:07 <Leonardo Valeriano> muita bagunça
+2014-08-06 18:21:24 <Leonardo Valeriano> é pow. Até Felizardo tá pensando em vazar
+2014-08-06 18:21:32 <Leonardo Valeriano> tbm pela Startup
+2014-08-06 18:21:52 <Leonardo Valeriano> ele conseguiu um contrato com dez jogos pra fazer
+2014-08-06 18:21:54 <Henrique Menezes> mas aquele lance de criar uma startup pra o projeto
+2014-08-06 18:22:00 <Leonardo Valeriano> lá na Campus Party
+2014-08-06 18:22:14 <Henrique Menezes> humm
+2014-08-06 18:22:15 <Henrique Menezes> massa
+2014-08-06 18:22:17 <Leonardo Valeriano> legalmente n saiu ainda
+2014-08-06 18:22:30 <Leonardo Valeriano> mas nessa competição, a gente tá como startup
+2014-08-06 18:22:41 <Henrique Menezes> to lig
+2014-08-06 18:22:57 <Leonardo Valeriano> tá mais como spin-off
+2014-08-06 18:23:18 <Leonardo Valeriano> e como tá aew na Tempest
+2014-08-06 18:23:24 <Henrique Menezes> tá massa
+2014-08-06 18:23:33 <Leonardo Valeriano> muita mineração
+2014-08-06 18:23:34 <Leonardo Valeriano> ?
+2014-08-06 18:23:39 <Henrique Menezes> ja fiz uns 3 projetos
+2014-08-06 18:23:46 <Leonardo Valeriano> porra
+2014-08-06 18:23:47 <Leonardo Valeriano> massa
+2014-08-06 18:24:04 <Henrique Menezes> ehh bom pq muda de contexto
+2014-08-06 18:24:12 <Henrique Menezes> projetos bem diferentes
+2014-08-06 18:24:35 <Leonardo Valeriano> hum
+2014-08-06 18:24:54 <Leonardo Valeriano> tu tá usando aquelas ferramentas de mineração
+2014-08-06 18:24:58 <Leonardo Valeriano> ?
+2014-08-06 18:25:02 <Henrique Menezes> ainda não..
+2014-08-06 18:25:14 <Henrique Menezes> não começou o projeto q vai ter mineração
+2014-08-06 18:25:20 <Leonardo Valeriano> hum
+2014-08-06 18:25:22 <Leonardo Valeriano> blz
+2014-08-06 18:25:43 <Leonardo Valeriano> mas dados tbm n vão faltar, essa empresa deve ter muitos clientes
+2014-08-06 21:17:05 <Henrique Menezes> ae leo
+2014-08-25 21:36:21 <Henrique Menezes> ae Leo
+2014-08-25 21:38:11 <Leonardo Valeriano> aew
+2014-08-25 21:38:17 <Leonardo Valeriano> tudo bom?
+2014-08-25 21:38:29 <Henrique Menezes> tudo tranquilo
+2014-08-25 21:38:42 <Henrique Menezes> hei tu pode enviar tua dissertacao final
+2014-08-25 21:39:17 <Henrique Menezes> tu fizesse um estado da arte em processamento de voz num foi?
+2014-08-25 21:39:44 <Leonardo Valeriano> foi sim
+2014-08-25 21:39:46 <Leonardo Valeriano> eu te envio
+2014-08-25 21:39:57 <Henrique Menezes> blz vlw
+2014-08-25 21:40:03 <Leonardo Valeriano> fiz em Rise
+2014-08-25 21:40:13 <Leonardo Valeriano> troquei na revisão
+2014-08-25 21:48:55 <Henrique Menezes> to lig
+2014-08-25 21:49:19 <Leonardo Valeriano> enviei
+2014-08-25 21:49:30 <Leonardo Valeriano> dá pra abrir no eclipse
+2014-08-25 21:49:38 <Leonardo Valeriano> se tiver o plugin
+2015-08-10 11:48:10 <Henrique Menezes> Bora léo
+2015-08-10 12:45:02 <Leonardo Valeriano> opa Floresta
+2015-08-10 12:45:05 <Leonardo Valeriano> tudo blz?
+2015-08-10 12:46:51 <Henrique Menezes> Ae blz?
+2015-08-10 12:47:00 <Leonardo Valeriano> Tranquilo cara
+2015-08-10 12:47:02 <Henrique Menezes> Como tá na Sophia?
+2015-08-10 12:47:21 <Henrique Menezes> To indo trabalhar com Tiago
+2015-08-10 12:47:25 <Leonardo Valeriano> man, a gente tá perto (mais ou menos) de lançar
+2015-08-10 12:47:34 <Henrique Menezes> Tais interessado em trabalhar com mobile?
+2015-08-10 12:47:34 <Leonardo Valeriano> o App tá bem melhor
+2015-08-10 13:34:05 <Leonardo Valeriano> Rapaz, eu tenho sim
+2015-08-10 13:34:23 <Leonardo Valeriano> já tô pensando em criar meus apps  ☺
+2015-08-10 13:34:39 <Leonardo Valeriano> Ruby and Rails tbm me interessa
+2015-08-10 13:34:50 <Leonardo Valeriano> já tô com alguma experiência
+2015-08-10 13:35:22 <Henrique Menezes> saquei
+2015-08-10 13:37:03 <Henrique Menezes> mas não tem interesse de sair dai?
+2015-08-10 13:37:09 <Henrique Menezes> Tiago tá com 2 vagas lá
+2015-08-10 13:37:17 <Henrique Menezes> mobile
+2015-08-10 13:37:31 <Henrique Menezes> 1 ios e outra android
+2015-08-10 13:57:50 <Leonardo Valeriano> rapaz, tô sempre procurando algo
+2015-08-10 13:57:53 <Leonardo Valeriano> kkkkkk
+2015-08-10 13:57:55 <Leonardo Valeriano> ☺
+2015-08-10 13:58:54 <Henrique Menezes> eu começo semana que vem lá na empresa de Tiago
+2015-08-10 13:59:00 <Henrique Menezes> pq tu não faz uma visita pra conhecer
+2015-08-10 13:59:04 <Henrique Menezes> vcs conversam lá
+2015-08-10 14:11:05 <Leonardo Valeriano> eu marquei com ele amanhã de manhã
+2015-08-10 14:11:16 <Leonardo Valeriano> só preciso localizar onde é
+2015-08-10 14:11:26 <Leonardo Valeriano> ele me deu endereço
+2015-08-10 14:18:09 <Henrique Menezes> saquei
+2015-08-11 15:32:51 <Henrique Menezes> Ae
+2015-08-11 15:49:57 <Leonardo Valeriano> Opa, tô na reunião agora.. eu passei lá na Mesa. Achei massa. No final da tarde eu falo com Tiago.
+2015-09-03 10:48:25 <Leonardo Valeriano> Grande
+2015-09-03 10:48:29 <Leonardo Valeriano> tudo bem?
+2015-09-03 10:48:48 <Henrique Menezes> Ae Léo
+2015-09-03 10:48:54 <Henrique Menezes> tudo tranquilo
+2015-09-03 10:49:07 <Leonardo Valeriano> falei com Tiago ontem
+2015-09-03 10:49:17 <Leonardo Valeriano> ele disse que abriu outra vaga
+2015-09-03 10:49:29 <Leonardo Valeriano> como tá aí na empresa, muito corrido?
+2015-09-03 10:54:40 <Henrique Menezes> Rapaz, é tranquilo aqui. Sempre tem trabalho, mas é bem organizado, dividido em sprints.
+2015-09-03 10:54:48 <Henrique Menezes> Acho que tu ia gostar daqui.
+2015-09-03 10:55:18 <Henrique Menezes> eu to na parte de backend aqui, mas em mobile deve ser legal tbm.
+2015-09-03 11:01:25 <Leonardo Valeriano> Tu tá em um projeto só, ou de vez em quando muda
+2015-09-03 11:01:26 <Leonardo Valeriano> ?
+2015-09-03 11:03:57 <Henrique Menezes> por enquanto to em um só..
+2015-09-03 11:04:14 <Henrique Menezes> mas em geral os projetos são curtos
+2015-09-03 11:04:16 <Henrique Menezes> 3 meses
+2015-09-03 11:10:13 <Leonardo Valeriano> hum... A questão do horário de trabalho, tu tem mais liberdade? Como é em relação às equipes, todos disciplinados?
+2015-09-03 11:11:50 <Henrique Menezes> é de 7:00 da manhã as 16:00 com tolerância de 30 min
+2015-09-03 11:12:06 <Henrique Menezes> é brincandeira.. é tranquilo, flexível..
+2015-09-03 11:12:13 <Henrique Menezes> pode chegar no horário que quiser
+2015-09-03 11:12:33 <Henrique Menezes> não tem ponto, banco de horas..
+2015-09-03 11:12:40 <Henrique Menezes> tem gente q chega depois do almoço
+2015-09-03 11:12:53 <Henrique Menezes> eu chego por volta de 10:30
+2015-09-03 11:12:59 <Henrique Menezes> é flexível aqui
+2015-09-03 11:16:57 <Leonardo Valeriano> acho do massa isso, mas a questão da equipe, reuniões, planejamento...
+2015-09-03 11:17:25 <Leonardo Valeriano> é tudo transparente? Ou vcs só pegam mesmo a demanda e mão na massa?
+2015-09-03 11:21:07 <Henrique Menezes> é sim, tem o planejamento da sprint e tudo mais, estimativas, etc.
+2015-09-03 11:22:26 <Leonardo Valeriano> tipo, eu acho massa a cultura da Mesa
+2015-09-03 11:22:46 <Leonardo Valeriano> a oferta de trabalho tbm é excelente
+2015-09-03 11:24:00 <Leonardo Valeriano> Aqui no projeto, caso se torne uma empresa, pode ser que a cultura seja essa, pois vai começar só com o time que tá aqui.
+2015-09-03 11:24:55 <Leonardo Valeriano> O meu receio é o momento que o projeto tá, o status tá positivo e tem uma perspectiva de lançamento pra esse ano.
+2015-09-03 11:26:01 <Leonardo Valeriano> Aí eu não tava querendo arriscar em mudar de trabalho e deixar o pessoal só, pois agora que o time tá enxuto, minha saída vai comprometer o trabalho de todo mundo
+2015-09-03 11:26:30 <Henrique Menezes> to lig.
+2015-09-03 11:26:45 <Henrique Menezes> mas se o projeto der errado?
+2015-09-03 11:26:51 <Henrique Menezes> todo projeto tem começo e fim
+2015-09-03 11:27:01 <Henrique Menezes> aqui o bom é que são vários projetos
+2015-09-03 11:27:06 <Henrique Menezes> acaba um e começa outro
+2015-09-03 11:27:09 <Leonardo Valeriano> esse é meu outro receio  ☺
+2015-09-03 11:28:19 <Leonardo Valeriano> caso o projeto der errado, fudeu mesmo. eu vou ficar com o doutorado e projetos pessoais e de olho em propostas futuras semelhantes a essa agora.
+2015-09-03 11:29:06 <Leonardo Valeriano> até o início do ano que vem, vou arriscar a pagar pra ver mesmo.
+2015-09-03 11:30:12 <Henrique Menezes> mas já tais decidido?
+2015-09-03 11:30:16 <Leonardo Valeriano> parece uma decisão meio louca né?
+2015-09-03 11:30:23 <Leonardo Valeriano> tô cara.
+2015-09-03 11:30:45 <Henrique Menezes> vem pra Mesa mesmo?
+2015-09-03 11:30:56 <Henrique Menezes> posso falar com Tiago pra fazer o contrato?
+2015-09-03 11:30:56 <Leonardo Valeriano> ahahahaha
+2015-09-03 11:31:12 <Leonardo Valeriano> não carai, entendesse não foi?
+2015-09-03 11:31:30 <Leonardo Valeriano> vou arriscar no IRENA até o começo do ano vem
+2015-09-03 11:31:38 <Leonardo Valeriano> ;)
+2015-09-03 11:33:27 <Leonardo Valeriano> eu vou falar com Tiago hoje, ou amanhã de manhã. Sempre agradeço a proposta.
+2015-09-03 11:35:02 <Henrique Menezes> pense direito, aqui vc vai poder fazer uma IRENA que funcione e é publicada de verdade.. 
+2015-09-03 11:36:03 <Leonardo Valeriano> ahhahahaha  ☺
+2015-09-03 11:36:21 <Leonardo Valeriano> produção garoto! Tá sem Robson aqui
+2015-09-03 11:36:29 <Leonardo Valeriano> mudou muito véi
+2015-09-03 11:36:34 <Leonardo Valeriano> a paz reina
+2015-09-03 11:36:56 <Leonardo Valeriano> a gente até junho tava programando o IRENA
+2015-09-03 11:36:59 <Henrique Menezes> aqui tbm tem a vantagem de não ter Robson.. kkk
+2015-09-03 11:37:07 <Leonardo Valeriano> kkkkkk
+2015-09-03 11:37:58 <Leonardo Valeriano> massa, vou pensar mais a respeito e depois falo com Tiago. Vou deixar tu trabalhar.  ☺
+2015-09-03 11:38:23 <Leonardo Valeriano> Pedro acabou de chegar! Vê como mudaram as coisas!
+2015-09-03 11:38:44 <Henrique Menezes> kkkk.. chame pedro tbm

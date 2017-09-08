@@ -1,0 +1,17 @@
+﻿2017-08-22 13:08:35 <Tsang Ing Ren> Hector, Leonardo, sei que ficamos ocupados com defesa de proposta e artigo. Mas gostaria de marca com vcs depois disso para voltamos ao projeto do "chico"
+2017-08-22 13:09:00 <Tsang Ing Ren> Silvio mesmo enviou para um grupo do CIn o link dessa dissertação http://www02.smt.ufrj.br/~sergioln/theses/msc23igorquintanilha.pdf
+2017-08-22 13:09:07 <Tsang Ing Ren> perguntando se tem gente trabalhando nisso
+2017-08-22 13:09:12 <Tsang Ing Ren> Falei que estamos fazenod isso 
+2017-08-22 13:09:33 <Tsang Ing Ren> que o projeto do word cloud ainda esta de pe. E devido a defesa de artigo que não andamos mais. 
+2017-08-22 13:09:52 <Tsang Ing Ren> Então ele tem interesse especifico em voz. Acho que é uma oportunidade. 
+2017-08-22 13:13:59 <Hector Pinheiro> Sim
+2017-08-22 13:14:07 <Hector Pinheiro> Vamos seguir !
+2017-08-22 13:14:36 <Tsang Ing Ren> 👍
+2017-08-22 13:14:44 <Tsang Ing Ren> O que vc achou dessa dissertacao? 
+2017-08-22 13:15:05 <Tsang Ing Ren> tem uma bases em portugues que eles usam que pdoe ser interessante acho que 4 são free mas uma é paga. 
+2017-08-23 09:39:30 <Leonardo Valeriano> Vamos continuar Tsang!
+2017-08-23 09:39:39 <Leonardo Valeriano> Vou checar a dissertação
+2017-08-23 09:53:41 <Leonardo Valeriano> A dissertação usa a CSLU, se n me engano essa base está no HD de André
+2017-08-23 09:58:58 <Leonardo Valeriano> tá bem interessante pro reconhecimento de fala, usa MFCCs para extração de características e BLSTM para reconhecer caracteres
+2017-08-23 14:28:00 <Hector Pinheiro> caracteres?
+2017-08-24 01:13:20 <Leonardo Valeriano> *fonemas
