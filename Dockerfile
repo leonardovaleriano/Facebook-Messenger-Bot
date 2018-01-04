@@ -1,5 +1,5 @@
-FROM tensorflow/tensorflow:latest-gpu-py3
-MAINTAINER Leonardo Valeriano Neri <lvnufpe@gmail.com>
+FROM tensorflow/tensorflow:latest-py3
+MAINTAINER Leonardo Valeriano Neri <leonardovalerianoneri@gmail.com>
 
 # Set the working directory to /app
 WORKDIR /app
