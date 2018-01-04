@@ -1,0 +1,1501 @@
+﻿2013-07-17 23:52:58 <Dayvid Victor> Lheo, tas aí?
+2013-07-18 19:09:44 <Dayvid Victor> lheo?
+2013-07-18 19:40:24 <Leonardo Valeriano> Oi
+2013-07-18 20:22:28 <Dayvid Victor> opa, diz cara ... oa
+2013-07-18 20:22:32 <Dayvid Victor> tu já estas escrevendo a tese eh?
+2013-07-18 20:22:37 <Dayvid Victor> tu conseguisse alguma publicação?
+2013-07-18 20:22:50 <Dayvid Victor> algum periódico? como é que tsang tá fazendo contigo, já tas com os results?
+2013-07-18 22:04:42 <Leonardo Valeriano> eu vou começar
+2013-07-18 22:04:57 <Leonardo Valeriano> eu publiquei na SMC só
+2013-07-18 22:05:43 <Leonardo Valeriano> mas já tenho ideia pro periódico já, é só expandir o conceito do paper de agora
+2013-07-18 22:36:07 <Dayvid Victor> to ligado
+2013-07-18 22:36:20 <Dayvid Victor> mas tas escrevendo o paper (periódico) ou a tese já?
+2013-07-18 22:37:00 <Leonardo Valeriano> tô no começo
+2013-07-18 23:07:16 <Dayvid Victor> lol
+2013-07-18 23:07:23 <Dayvid Victor> não cara, o periódico ou a tese?
+2013-07-19 08:41:46 <Leonardo Valeriano> O periódico
+2013-07-19 08:42:02 <Leonardo Valeriano> A tese eu vou começar
+2013-07-19 09:23:08 <Dayvid Victor> Cara, se tu escrever o periódico em ingles
+2013-07-19 09:23:38 <Dayvid Victor> tu pode usar o periódico como base
+2013-07-19 09:23:47 <Dayvid Victor> tipo, quase que grampear, anexar
+2013-07-19 09:25:04 <Leonardo Valeriano> Anexar em que?
+2013-07-19 09:26:28 <Leonardo Valeriano> Tsang tá me orientando nisso mesmo. Usar a dissertação como um resumo ou anexo dos trabalhos já publicados. Como é feito fora do país.
+2013-07-19 09:44:18 <Dayvid Victor> eu vou fazer isso, quero é nem saber
+2013-07-19 09:46:09 <Leonardo Valeriano> Hehehe
+2013-07-19 09:46:24 <Leonardo Valeriano> Mais é assim mesmo.
+2013-08-07 22:32:03 <Leonardo Valeriano> ei Dayvid
+2013-08-07 22:32:07 <Leonardo Valeriano> tudo bom?
+2013-08-07 22:32:28 <Leonardo Valeriano> olha tu tem algum tutorial de LaTeX?
+2013-08-07 22:35:08 <Dayvid Victor> rapaz, tutorial eu nao tenho
+2013-08-07 22:35:15 <Dayvid Victor> mas vai em github.com/dvro
+2013-08-07 22:35:18 <Dayvid Victor> tem meu tg lá
+2013-08-07 22:35:23 <Dayvid Victor> daí vai seguindo o template
+2013-08-07 22:35:27 <Dayvid Victor> tem um Makefile
+2013-08-07 22:35:31 <Dayvid Victor> de lá tu desenrola
+2013-08-07 22:35:36 <Dayvid Victor> terminasse os experimentos já foi?
+2013-08-07 22:35:42 <Dayvid Victor> (tas só na escrita?)
+2013-08-07 22:37:16 <Leonardo Valeriano> nops
+2013-08-07 22:38:03 <Dayvid Victor> oaaa
+2013-08-07 22:38:08 <Leonardo Valeriano> eu tenho que fazer uns experimentos da aplicação original
+2013-08-07 22:38:21 <Leonardo Valeriano> mas a técnica tá validada já
+2013-08-07 22:38:43 <Dayvid Victor> oaa, tu queres latex pra escrever paper ou tese?
+2013-08-07 22:38:47 <Leonardo Valeriano> são experimentos de outra área, em resumo
+2013-08-07 22:38:52 <Leonardo Valeriano> os dois
+2013-08-07 22:39:23 <Dayvid Victor> ok, pra a tese: ve aqiu
+2013-08-07 22:39:24 <Dayvid Victor> https://github.com/dvro/TG
+2013-08-07 22:39:26 <Dayvid Victor> foi do meu tg
+2013-08-07 22:39:31 <Dayvid Victor> tem um parametro que é bsc
+2013-08-07 22:39:35 <Dayvid Victor> é só tu mudar pra msc
+2013-08-07 22:39:41 <Dayvid Victor> (mas isso é besteira, se nao achar relaxa)
+2013-08-07 22:39:50 <Dayvid Victor> daí tu vai seguindo o meu template
+2013-08-07 22:39:56 <Dayvid Victor> foi assim que eu aprendi a usar
+2013-08-07 22:40:01 <Dayvid Victor> na dúvida, vai no google e bota
+2013-08-07 22:40:10 <Leonardo Valeriano> massa
+2013-08-07 22:40:11 <Dayvid Victor> como fazer X em LaTeX
+2013-08-07 22:40:13 <Dayvid Victor> tem muita coisa
+2013-08-07 22:40:21 <Dayvid Victor> e quanto ao paper, eu tenho template da IEEE
+2013-08-07 22:40:25 <Dayvid Victor> e da Springer
+2013-08-07 22:40:30 <Dayvid Victor> manda pra mim um eamil amanhã
+2013-08-07 22:40:40 <Dayvid Victor> que eu te mando os templates do artigo que eu publiquei
+2013-08-07 22:40:42 <Leonardo Valeriano> dá Springer é massa
+2013-08-07 22:40:43 <Dayvid Victor> no ano passado (IEEE)
+2013-08-07 22:40:55 <Leonardo Valeriano> IEEE é mais fácil arrumar
+2013-08-07 22:40:57 <Dayvid Victor> ou da springer (eu to usando o template deles agora)
+2013-08-07 22:41:12 <Dayvid Victor> mas é a mesma coisa, se tu seguir o modelo de modularização
+2013-08-07 22:41:16 <Dayvid Victor> mudar de template é 10 minutos!
+2013-08-07 22:41:18 <Dayvid Victor> enfim
+2013-08-07 22:41:27 <Dayvid Victor> to indo nessa, mas não esquece de me mandar um email
+2013-08-07 22:41:28 <Dayvid Victor> qualquer coisa
+2013-08-07 22:41:29 <Dayvid Victor> flwz
+2013-08-07 22:41:35 <Leonardo Valeriano> flw grande
+2013-11-05 18:22:42 <Dayvid Victor> LEO
+2013-11-05 18:22:46 <Dayvid Victor> tas online ae?
+2013-11-05 18:24:46 <Leonardo Valeriano> oi
+2013-11-05 18:25:10 <Dayvid Victor> oaaa, pegasse a declaração de conclusão e histórico do MSc?
+2013-11-05 18:25:29 <Leonardo Valeriano> a declaração eu peguei
+2013-11-05 18:25:39 <Leonardo Valeriano> o histórico tão aprontando ainda
+2013-11-05 18:25:48 <Leonardo Valeriano> fiquei de ligar amanhã
+2013-11-05 18:25:59 <Dayvid Victor> to ligado, mas tu recebesse algum email? Eu não recebi nenhum email
+2013-11-05 18:26:01 <Dayvid Victor> to indo lá amanhã
+2013-11-05 18:26:04 <Dayvid Victor> to preocupado com isso!
+2013-11-05 18:28:46 <Leonardo Valeriano> hum
+2013-11-05 18:29:06 <Leonardo Valeriano> acho que vi teu histórico e o de Paulo quando procurei o meu
+2013-11-05 18:29:31 <Leonardo Valeriano> eles deixam numa pasta pro povo ver
+2013-11-05 18:29:42 <Dayvid Victor> hum...massa então!
+2013-11-05 18:29:51 <Dayvid Victor> oaa, e ainscrição online, ja fizesse?
+2013-11-05 18:31:03 <Leonardo Valeriano> mermaum
+2013-11-05 18:31:11 <Leonardo Valeriano> essa inscrição é foda!
+2013-11-05 18:31:16 <Dayvid Victor> porque?
+2013-11-05 18:31:29 <Leonardo Valeriano> a gente basicamente tem que fazer o trabalho deles!
+2013-11-05 18:31:44 <Leonardo Valeriano> tem que descrever tudo que a gente tem no documento
+2013-11-05 18:31:57 <Leonardo Valeriano> como se fosse eles trabalhando
+2013-11-05 18:32:15 <Leonardo Valeriano> tem que dizer o Qualis de tudo que publicou, etc..
+2013-11-05 18:34:33 <Dayvid Victor> :/ to ligado
+2013-11-05 18:34:35 <Dayvid Victor> mas tu já fizesse isso?
+2013-11-05 18:34:50 <Leonardo Valeriano> eu deixei incompleto
+2013-11-05 18:34:54 <Dayvid Victor> e quanto é a inscrição, já pagasse?
+2013-11-05 18:35:01 <Leonardo Valeriano> já
+2013-11-05 18:35:04 <Leonardo Valeriano> é 50
+2013-11-05 18:35:09 <Leonardo Valeriano> :-/
+2013-11-05 18:35:13 <Dayvid Victor> e pode pagar a inscrição e alterar depois? Oo
+2013-11-05 18:35:23 <Leonardo Valeriano> pode pow
+2013-11-05 18:35:27 <Dayvid Victor> ah, então ótimo!
+2013-11-05 18:35:31 <Leonardo Valeriano> é até o último dia
+2013-11-05 18:35:51 <Dayvid Victor> então até dia 7 eu posso fazer a inscrição online, alterar e pagar, neh?
+2013-11-05 18:36:30 <Leonardo Valeriano> aham
+2013-11-05 18:36:36 <Leonardo Valeriano> mas faz isso logo
+2013-11-05 18:36:55 <Leonardo Valeriano> tem que dar upload no pré-projeto
+2013-11-05 18:37:09 <Dayvid Victor> to ligado, eu vou fazer tudo amanhã de manhã!
+2013-11-05 18:37:22 <Dayvid Victor> vou tirar a manhã pra concluir isso!
+2013-11-05 18:38:32 <Leonardo Valeriano> é bom
+2013-11-05 18:38:45 <Dayvid Victor> mermão, QUE SACO fazer essas coisas!
+2013-11-05 18:38:54 <Leonardo Valeriano> é muito ruim
+2013-11-05 18:39:08 <Leonardo Valeriano> passei a noite toda scaneando os documentos
+2013-11-05 18:39:13 <Leonardo Valeriano> saco
+2013-11-05 18:39:33 <Dayvid Victor> ouxi, tem que fazer upload de todos os documentos também é?
+2013-11-05 18:41:10 <Leonardo Valeriano> n
+2013-11-05 18:41:18 <Leonardo Valeriano> é pq n quis tirar xerox
+2013-11-05 18:41:39 <Dayvid Victor> ahhh, to ligado! Eu já tirei xerox de todos os documentos, só falta tirar dos comprovantes de monitoria!
+2013-11-05 18:41:40 <Leonardo Valeriano> eu tirei print pra nunca mais ter que tirar xerox
+2013-11-05 18:41:46 <Dayvid Victor> Oaa, histórico da graduação eu vou usar o da secretaria mesmo
+2013-11-05 18:42:02 <Dayvid Victor> eu perguntei eles disseram que poderia ser!
+2013-11-05 18:42:05 <Leonardo Valeriano> eu peguei lá no corpo discente
+2013-11-05 18:42:08 <Leonardo Valeriano> hum
+2013-11-05 18:42:10 <Leonardo Valeriano> massa
+2013-11-05 18:42:17 <Dayvid Victor> vou aproveitar pra ir lá amanhã, se sair tá ótimo!
+2013-11-05 18:42:24 <Leonardo Valeriano> massa
+2013-11-05 18:42:35 <Leonardo Valeriano> vou terminar o pré-projeto hoje
+2013-11-05 18:42:42 <Leonardo Valeriano> e finalizar isso logo
+2013-11-05 18:42:54 <Dayvid Victor> o meu eu "terminei", só queria diminuir algumas frases pra ficar 9 páginas (contando com a capa)
+2013-11-05 18:43:08 <Dayvid Victor> pq tu não faz no latex, po?
+2013-11-05 18:43:11 <Dayvid Victor> é limpeza!
+2013-11-05 18:43:22 <Leonardo Valeriano> ainda n
+2013-11-05 18:43:26 <Leonardo Valeriano> tow com pressa
+2013-11-05 18:43:34 <Leonardo Valeriano> e já estou "acabando"
+2013-11-05 18:43:37 <Leonardo Valeriano> vou indo nessa
+2013-11-05 18:43:42 <Leonardo Valeriano> a viagem é longa
+2013-11-05 18:43:44 <Leonardo Valeriano> :P
+2013-11-05 18:43:48 <Dayvid Victor> vai lá, boa viagem hehe
+2013-11-05 18:43:58 <Dayvid Victor> amanhã no CIn eu te atualizo das informações!
+2013-11-05 18:43:59 <Dayvid Victor> flwz!
+2013-11-05 18:44:56 <Leonardo Valeriano> flwz!
+2013-11-05 23:27:28 <Dayvid Victor> ae lheo, como tá esse pré-projeto!
+2013-11-05 23:27:47 <Leonardo Valeriano> tow trabalhando nele
+2013-11-05 23:27:48 <Leonardo Valeriano> :P
+2013-11-05 23:28:43 <Dayvid Victor> =]
+2013-11-05 23:28:49 <Dayvid Victor> depois manda pra mim, pra eu dar uma sacada!
+2013-11-05 23:29:07 <Leonardo Valeriano> o meu é um Frankstein
+2013-11-05 23:29:14 <Leonardo Valeriano> de dois outros
+2013-11-05 23:29:32 <Dayvid Victor> hrsauhruas o  meu foi assim tbm!
+2013-11-05 23:30:41 <Leonardo Valeriano> hauhauahuahauha
+2013-11-11 23:45:34 <Dayvid Victor> ae lheo
+2013-11-11 23:45:35 <Dayvid Victor> qual a boa?
+2013-11-11 23:45:38 <Dayvid Victor> acordado uma hora dessas?
+2013-11-11 23:45:55 <Leonardo Valeriano> terminando a avaliação dos experimentos
+2013-11-11 23:46:18 <Leonardo Valeriano> começando a escrever
+2013-11-11 23:46:22 <Dayvid Victor> hum...massa!
+2013-11-11 23:46:34 <Dayvid Victor> infelizmente hoje eu não produzi NADA, mas vou compensar amanhã!
+2013-11-11 23:46:40 <Dayvid Victor> é bom que tu me inspira! rs
+2013-11-11 23:46:41 <Leonardo Valeriano> hauahauha
+2013-11-11 23:46:59 <Leonardo Valeriano> tô aprendendo latex
+2013-11-11 23:46:59 <Dayvid Victor> mas tu estas escrevendo a tese ou o paper?
+2013-11-11 23:47:07 <Leonardo Valeriano> a tese
+2013-11-11 23:47:15 <Leonardo Valeriano> mas eu tô no começo
+2013-11-11 23:47:32 <Dayvid Victor> eu ainda não comecei a tese ... esse mês eu termino o paper
+2013-11-11 23:47:36 <Leonardo Valeriano> tenho que avaliar os resultados pra começar valendo
+2013-11-11 23:47:37 <Dayvid Victor> daí no mês que vem eu começo a tese!
+2013-11-11 23:47:46 <Leonardo Valeriano> hum
+2013-11-11 23:47:52 <Leonardo Valeriano> até fevereiro
+2013-11-11 23:48:00 <Leonardo Valeriano> tô pensando nisso
+2013-11-11 23:48:16 <Dayvid Victor> tsang não tá te cobrando o paper antes da tese não?
+2013-11-11 23:48:17 <Leonardo Valeriano> mas queria terminar tudo ainda em 2013
+2013-11-11 23:48:29 <Leonardo Valeriano> rapaz ele cobrou
+2013-11-11 23:48:44 <Leonardo Valeriano> mas como eu já submeti pro doutorado
+2013-11-11 23:48:54 <Leonardo Valeriano> ele ficou de boa
+2013-11-11 23:49:05 <Leonardo Valeriano> pq se eu passar ou n
+2013-11-11 23:49:14 <Leonardo Valeriano> terei mais tempo para o paper
+2013-11-11 23:49:28 <Dayvid Victor> to ligado
+2013-11-11 23:49:29 <Leonardo Valeriano> eu publiquei já
+2013-11-11 23:49:40 <Leonardo Valeriano> mas foi em conferência
+2013-11-11 23:49:44 <Leonardo Valeriano> mermaum
+2013-11-11 23:50:01 <Leonardo Valeriano> só tem 7 vagas para pds e reconhecimento
+2013-11-11 23:50:08 <Leonardo Valeriano> =S
+2013-11-11 23:50:29 <Leonardo Valeriano> e eu acho que a galera que fez a inscrição é tampa!
+2013-11-11 23:50:55 <Leonardo Valeriano> Dayvid
+2013-11-11 23:51:00 <Leonardo Valeriano> eu vou indo!
+2013-11-11 23:51:10 <Leonardo Valeriano> tô morrendo de sono
+2013-11-11 23:51:20 <Dayvid Victor> blz, como eu to mazelando to sem sono
+2013-11-11 23:51:29 <Dayvid Victor> mas amanhã quando eu tiver produzindo, tu vai ver que sono da peste rhasuhrsau
+2013-11-11 23:51:34 <Dayvid Victor> enfim, blz cara,
+2013-11-11 23:51:35 <Dayvid Victor> abraços
+2013-11-11 23:51:35 <Leonardo Valeriano> amanhã eu to por aqui de novo
+2013-11-11 23:51:43 <Leonardo Valeriano> abraços
+2013-11-11 23:51:47 <Leonardo Valeriano> flw
+2013-11-11 23:52:23 <Dayvid Victor> é nois!
+2013-11-11 23:52:23 <Dayvid Victor> flwz
+2013-11-11 23:52:24 <Dayvid Victor> []'s
+2013-11-12 10:27:56 <Dayvid Victor> Ei lheo
+2013-11-12 10:28:00 <Dayvid Victor> manda teu matereial pra mim
+2013-11-12 10:28:02 <Dayvid Victor> pra eu dar uma sacada
+2013-11-12 10:28:10 <Dayvid Victor> em como tu estas estruturando tua tese!
+2013-11-12 10:28:42 <Leonardo Valeriano> eu n comecei no latex n
+2013-11-12 10:28:54 <Leonardo Valeriano> tava no Word
+2013-11-12 10:29:04 <Leonardo Valeriano> ia começar a passar
+2013-11-12 10:29:06 <Leonardo Valeriano> :P
+2013-11-12 10:29:21 <Leonardo Valeriano> eu tava me baseando no TG
+2013-11-12 11:18:24 <Dayvid Victor> ah, to ligado!
+2013-11-18 21:24:10 <Dayvid Victor> Lheo,t as por aí?
+2013-11-18 22:11:48 <Dayvid Victor> lheo
+2013-11-18 22:13:01 <Leonardo Valeriano> oi
+2013-11-18 22:13:52 <Dayvid Victor> oaaa, tas escrevendo tua tese agora, neh?
+2013-11-18 22:15:04 <Dayvid Victor> tu poderia mandar ela pra mim, pra eu me basear?
+2013-11-18 22:15:09 <Dayvid Victor> (a organização, não o template)
+2013-11-18 22:15:55 <Leonardo Valeriano> cara
+2013-11-18 22:16:05 <Leonardo Valeriano> eu n fiz muita coisa
+2013-11-18 22:16:16 <Leonardo Valeriano> tô na introdução ainda
+2013-11-18 22:16:29 <Leonardo Valeriano> tu queria saber do esqueleto é?
+2013-11-18 22:16:42 <Leonardo Valeriano> ia ser:
+2013-11-18 22:16:45 <Leonardo Valeriano> Intro;
+2013-11-18 22:16:50 <Dayvid Victor> É, o esqueleto mesmo
+2013-11-18 22:17:03 <Leonardo Valeriano> Estado da Arte
+2013-11-18 22:17:14 <Dayvid Victor> queres colocar isso no email não?
+2013-11-18 22:17:19 <Dayvid Victor> Pra paulo ver se achar interessante!
+2013-11-18 22:17:27 <Leonardo Valeriano> ahuahuahauah
+2013-11-18 22:17:33 <Leonardo Valeriano> pera
+2013-11-18 22:17:39 <Leonardo Valeriano> eu vou botar
+2013-11-18 22:18:54 <Dayvid Victor> =]
+2013-11-18 22:18:59 <Dayvid Victor> oaa, do MSc
+2013-11-18 22:19:05 <Dayvid Victor> tujá publicasse periódico foi?
+2013-11-18 22:19:44 <Leonardo Valeriano> n n
+2013-11-18 22:19:56 <Leonardo Valeriano> tava fazendo isso
+2013-11-18 22:20:00 <Leonardo Valeriano> mas parei
+2013-11-18 22:20:06 <Dayvid Victor> ah, to lembrado o que tu dissesse
+2013-11-18 22:20:10 <Dayvid Victor> que tsang falou pra dar uma pausa!
+2013-11-18 22:22:10 <Dayvid Victor> mermao
+2013-11-18 22:22:23 <Dayvid Victor> eu tenho até o final de novembro pra entregar essa parada
+2013-11-18 22:22:28 <Dayvid Victor> mas eu to meio ancioso pra concluir
+2013-11-18 22:22:37 <Dayvid Victor> a tese, pq eu ainda nem comecei, é f*
+2013-11-18 22:52:50 <Leonardo Valeriano> ahuahuaha
+2013-11-18 22:52:53 <Leonardo Valeriano> é tenso
+2013-11-18 22:53:07 <Leonardo Valeriano> bixo segue o mesmo esquema do periódico
+2013-11-18 22:53:26 <Leonardo Valeriano> traduz tudo e depois tu acrescenta mais informação
+2013-11-18 22:53:34 <Leonardo Valeriano> eu vou fazer assim
+2013-11-18 23:00:36 <Dayvid Victor> mas a tese tem que ter mais coisas, po
+2013-11-18 23:00:42 <Dayvid Victor> só o periódico não é o suficiente não!
+2013-11-18 23:00:46 <Dayvid Victor> tem que enrolar mais!
+2013-11-18 23:00:53 <Dayvid Victor> E tipo, se eu nao terminei o periódico
+2013-11-18 23:00:56 <Dayvid Victor> como vou concluir a tese?
+2013-11-18 23:01:03 <Dayvid Victor> (inclusive, como tu tá fazendo isso? hruahrusau)
+2013-11-18 23:01:40 <Leonardo Valeriano> kkkk
+2013-11-18 23:01:48 <Leonardo Valeriano> eu tô ligado
+2013-11-18 23:02:00 <Leonardo Valeriano> mas tu cresce a partir do periódico
+2013-11-18 23:05:35 <Dayvid Victor> 'boaaa
+2013-11-18 23:05:37 <Dayvid Victor> =]
+2013-11-18 23:06:07 <Dayvid Victor> mas como estava o estado do teu periódico
+2013-11-18 23:06:09 <Dayvid Victor> tava faltando oq?
+2013-11-18 23:06:11 <Dayvid Victor> pra tu concluir?
+2013-11-18 23:06:19 <Dayvid Victor> tu já tinha feito testes estatísticos e talz?
+2013-11-18 23:06:24 <Leonardo Valeriano> eu n fiz para um periódico
+2013-11-18 23:06:40 <Leonardo Valeriano> mas tava fazendo
+2013-11-18 23:06:48 <Dayvid Victor> to ligado
+2013-11-18 23:06:52 <Leonardo Valeriano> eu ia aumentar as referências em tudo
+2013-11-18 23:07:03 <Leonardo Valeriano> introdução, estado da arte
+2013-11-18 23:07:32 <Dayvid Victor> to ligado ... mas tu já tinha os testes estatísticos?
+2013-11-18 23:07:39 <Leonardo Valeriano> colocar as análises do início da pesquisa que me ajudou a chegar ao resultado atual
+2013-11-18 23:07:50 <Leonardo Valeriano> eu tenho sim
+2013-11-18 23:07:56 <Leonardo Valeriano> acabei de concluir
+2013-11-18 23:08:07 <Dayvid Victor> ahh...então tá limpeza. Eu ainda não concluí, tipo, eu vou ter que fazer a filtragem neh
+2013-11-18 23:08:13 <Dayvid Victor> os outliers eu vou ter que descartar
+2013-11-18 23:08:14 <Leonardo Valeriano> hum
+2013-11-18 23:08:19 <Dayvid Victor> e isso que é fogo
+2013-11-18 23:08:20 <Dayvid Victor> !
+2013-11-18 23:08:24 <Leonardo Valeriano> tow ligado
+2013-11-18 23:08:27 <Leonardo Valeriano> é foda
+2013-11-18 23:08:33 <Leonardo Valeriano> pode até piorar
+2013-11-18 23:08:35 <Leonardo Valeriano> :(
+2013-11-18 23:08:35 <Dayvid Victor> tipo, ver de uma forma que seja justa mas que a minha seja razoavelmente melhor.
+2013-11-18 23:08:44 <Leonardo Valeriano> aconteceu comigo
+2013-11-18 23:08:45 <Dayvid Victor> pois é!
+2013-11-18 23:08:56 <Dayvid Victor> não po, ams aí tu tira as bases de dados que o teu foi pior, po!
+2013-11-18 23:08:58 <Leonardo Valeriano> eu fiz outra base
+2013-11-18 23:09:01 <Dayvid Victor> tipo, se tu testasse em 30 bases de dados
+2013-11-18 23:09:05 <Dayvid Victor> tu nao vai publicar com as 30
+2013-11-18 23:09:05 <Leonardo Valeriano> sem outliers
+2013-11-18 23:09:12 <Leonardo Valeriano> n n
+2013-11-18 23:09:13 <Dayvid Victor> seleciona das 30 umas 10 ou 12
+2013-11-18 23:09:21 <Dayvid Victor> que a tua esteja razoavelmente melhor!
+2013-11-18 23:09:21 <Leonardo Valeriano> é por aew
+2013-11-18 23:09:32 <Leonardo Valeriano> eu fiz 2 bases
+2013-11-18 23:09:40 <Leonardo Valeriano> 1 deu melhor
+2013-11-18 23:09:41 <Dayvid Victor> o problema é que na minha, se usar todas as bases, deu "igual" as outras ... daí a filtragem!
+2013-11-18 23:09:46 <Leonardo Valeriano> a outra igualou
+2013-11-18 23:09:59 <Dayvid Victor> ouxi, então usa a que deu melhor e pronto movei!
+2013-11-18 23:10:13 <Leonardo Valeriano> foi isso que pensei
+2013-11-18 23:10:24 <Leonardo Valeriano> eu tive outra ideia de abordagem
+2013-11-18 23:10:34 <Leonardo Valeriano> mas fica pro próximo paper
+2013-11-18 23:10:35 <Dayvid Victor> qualw
+2013-11-18 23:10:37 <Dayvid Victor> ?
+2013-11-18 23:10:39 <Leonardo Valeriano> se der certo
+2013-11-18 23:10:55 <Leonardo Valeriano> ao invés de combinar características
+2013-11-18 23:11:02 <Leonardo Valeriano> combinar abordagens
+2013-11-18 23:11:07 <Dayvid Victor> ahhh...outra técnica, entendi!
+2013-11-18 23:11:21 <Leonardo Valeriano> e comparar com a do passado
+2013-11-18 23:11:35 <Dayvid Victor> oaaa, queres ser co-autor do meu paper? Tu dá uma revisada, aquela sacada básica e pronto! Daí eu te ajudo no teu paper também!
+2013-11-18 23:11:54 <Dayvid Victor> e a gente fica com 2 papers no início do anoq ue vem!
+2013-11-18 23:12:10 <Leonardo Valeriano> hauhauahauah
+2013-11-18 23:12:21 <Leonardo Valeriano> tem que falar com o povo
+2013-11-18 23:12:31 <Leonardo Valeriano> os cacifes
+2013-11-18 23:12:42 <Leonardo Valeriano> pra ver se aprovam
+2013-11-18 23:12:56 <Dayvid Victor> claro! eu vou ter uma reunião com george na quinta-feira pra entregar a versão 1.0 do periódico, daí eu vou falar com ele pra ver se é zero bronca!
+2013-11-18 23:13:06 <Leonardo Valeriano> blz
+2013-11-18 23:13:34 <Leonardo Valeriano> eu vou correr pra jogar uma introdução pra Tsang ficar em paz
+2013-11-18 23:14:00 <Dayvid Victor> rhsuarhsau, blz!
+2013-11-18 23:14:27 <Dayvid Victor> (introdução do paper ou da tese?)
+2013-11-18 23:15:36 <Leonardo Valeriano> da tese
+2013-11-18 23:15:47 <Dayvid Victor> ah, então vai-te!
+2013-11-18 23:15:58 <Dayvid Victor> eu só vou pegar nessas paradas na semana que vem!
+2013-11-18 23:15:59 <Dayvid Victor> flwz
+2013-11-18 23:16:12 <Leonardo Valeriano> flw grande
+2013-11-18 23:16:18 <Leonardo Valeriano> boa sorte aew
+2013-11-23 20:21:59 <Dayvid Victor> Ae lheo. E esse msc?
+2013-11-28 00:09:08 <Dayvid Victor> vai dormir lheo
+2013-11-28 00:17:48 <Leonardo Valeriano> já vou indo
+2013-11-28 00:17:51 <Leonardo Valeriano> :P
+2013-11-30 22:06:52 <Dayvid Victor> Leo
+2013-11-30 22:07:21 <Dayvid Victor> Tu sabes quantas bolsas de doutorado tem disponíveis?
+2013-11-30 22:08:22 <Dayvid Victor> Eu tava vendo aqui, acho que é mais dificil bolsa no PhD que no MSc!
+2013-12-01 10:46:56 <Leonardo Valeriano> N sei direito.. Acho que é a metade da quantidade do mestrado.
+2013-12-01 10:56:40 <Dayvid Victor> E quantos tem no MSC?
+2013-12-01 10:57:19 <Leonardo Valeriano> São 121 vagas pra Doutorado e 238 pra mestrado
+2013-12-01 10:57:38 <Dayvid Victor> Nao po ... To falando de bolaa
+2013-12-01 10:57:42 <Dayvid Victor> Bolsa
+2013-12-01 10:57:46 <Leonardo Valeriano> Amanhã sai o resultado do pré projeto 
+2013-12-01 10:58:27 <Leonardo Valeriano> Ah.. Acho que uns 50 ou 40% disso.
+2013-12-01 10:58:41 <Leonardo Valeriano> Contando CAPES e Cnpq
+2013-12-01 11:03:24 <Dayvid Victor> To ligado
+2013-12-01 11:03:25 <Dayvid Victor> Eu queria saber
+2013-12-01 11:03:33 <Dayvid Victor> Pq se nao ganhar bolsa
+2013-12-01 11:03:39 <Dayvid Victor> Eu nao vou entrar no PhD
+2013-12-01 11:03:55 <Dayvid Victor> Vou trabalhar fulltime
+2013-12-01 11:04:15 <Dayvid Victor> Ou la na empresa, ou volto na area de CC
+2013-12-02 16:04:07 <Dayvid Victor> leo
+2013-12-02 16:04:25 <Dayvid Victor> hoje sai a nota do pré-projeto!
+2013-12-02 16:10:17 <Leonardo Valeriano> é msm
+2013-12-02 16:10:30 <Leonardo Valeriano> a partir das 17h
+2013-12-02 16:10:43 <Leonardo Valeriano> ou seja: de meia noite :)
+2013-12-05 14:12:31 <Dayvid Victor> Leo
+2013-12-05 14:12:34 <Dayvid Victor> Tas ai?
+2013-12-09 15:57:47 <Dayvid Victor> ae lheo, como vai essa tese?
+2013-12-09 15:57:55 <Dayvid Victor> Mermão, eu fui começar hoje, achando que, por conta do artigo
+2013-12-09 15:58:07 <Leonardo Valeriano> rapaz, eu tow esgotado
+2013-12-09 15:58:16 <Leonardo Valeriano> n estou conseguindo me concentrar
+2013-12-09 15:58:20 <Dayvid Victor> iria ser fácil, mas tá fogo, vou traçar uma meta de 1h por dia e 4h no fds, pra conseguir terminar a tempo! tá fogo!
+2013-12-09 15:58:35 <Leonardo Valeriano> mas vou ver se dou o gás nessa semana
+2013-12-09 15:58:37 <Leonardo Valeriano> all in
+2013-12-09 15:59:01 <Leonardo Valeriano> minhas férias começam dia 16 agora
+2013-12-09 15:59:18 <Leonardo Valeriano> e n queria perder elas escrevendo
+2013-12-09 15:59:29 <Dayvid Victor> to ligado, ah ... então tas na mesma coisa que eu ... eu vou entrar de férias dia 18
+2013-12-09 15:59:30 <Dayvid Victor> daí vai ser no-stop!
+2013-12-09 15:59:34 <Dayvid Victor> 4h/dia!
+2013-12-09 15:59:45 <Leonardo Valeriano> é véi
+2013-12-09 15:59:58 <Leonardo Valeriano> quero descansar e pensar na vida nas férias
+2013-12-09 16:00:02 <Leonardo Valeriano> viajar
+2013-12-09 16:00:04 <Dayvid Victor> hsrauhrsua, to ligado!
+2013-12-09 16:00:05 <Dayvid Victor> é bom!
+2013-12-09 16:00:08 <Leonardo Valeriano> renovar o gás
+2013-12-09 16:00:16 <Dayvid Victor> olha, mas deixa eu te perguntar uma parada
+2013-12-09 16:00:29 <Dayvid Victor> tu vai entrar no PhD independentemente de ganhar bolsa?
+2013-12-09 16:01:14 <Leonardo Valeriano> rapaz
+2013-12-09 16:01:25 <Leonardo Valeriano> eu vou, mas com algumas condições
+2013-12-09 16:01:45 <Leonardo Valeriano> eu penso na vida acadêmica como um plano B de carreira
+2013-12-09 16:02:40 <Leonardo Valeriano> mas sem bolsa, fico pensando em pagar as cadeiras logo e depois trabalhar full time na empresa
+2013-12-09 16:08:34 <Dayvid Victor> to ligado
+2013-12-09 16:08:40 <Dayvid Victor> hoje tu trabalhas 30h/semana é?
+2013-12-09 16:15:58 <Leonardo Valeriano> é
+2013-12-09 16:16:49 <Dayvid Victor> olha, deixa eu perguntar uma coisa
+2013-12-09 16:16:52 <Dayvid Victor> tu acha que aí na tua empresa
+2013-12-09 16:17:16 <Dayvid Victor> O cara consegue tirar mais que 3K+benefícios, 40h/semana.
+2013-12-09 16:17:52 <Leonardo Valeriano> consegue
+2013-12-09 16:17:56 <Leonardo Valeriano> já é assim
+2013-12-09 16:18:56 <Leonardo Valeriano> se eu for de 30h pra 40h eu ganho o proporcional de 10h que é 1/3 do salário
+2013-12-09 16:19:27 <Leonardo Valeriano> aí chega em 3,5k por aew
+2013-12-09 16:19:46 <Leonardo Valeriano> vou tentar negociar 4k
+2013-12-09 16:21:24 <Dayvid Victor> to ligado
+2013-12-09 16:21:27 <Dayvid Victor> se eu não conseguir bolsa
+2013-12-09 16:21:34 <Dayvid Victor> eu pretendo voltar pra a área de computação, sabe?
+2013-12-09 16:21:52 <Dayvid Victor> daí eu pensei em tentar vaga aí na tua empresa, tu acha que eles tão contratando no ano que vem?
+2013-12-09 16:22:09 <Leonardo Valeriano> vão cara
+2013-12-09 16:22:14 <Leonardo Valeriano> estamos procurando
+2013-12-09 16:22:30 <Leonardo Valeriano> qqr coisa a gente conversa
+2013-12-09 16:22:36 <Dayvid Victor> massa, agora tipo
+2013-12-09 16:22:46 <Dayvid Victor> eu tenho um padrão de vida e responsabilidade agora, tas ligado?! isso que é fogo
+2013-12-09 16:22:57 <Leonardo Valeriano> ah meu amigo
+2013-12-09 16:22:59 <Leonardo Valeriano> é tenso
+2013-12-09 16:23:01 <Leonardo Valeriano> :)
+2013-12-09 16:23:01 <Dayvid Victor> e aqui na empresa, eu ganho relativamente bem (se considerar com abolsa, aí que melhora mesmo)
+2013-12-09 16:23:21 <Leonardo Valeriano> eu tava pensando nisso
+2013-12-09 16:23:38 <Dayvid Victor> hrauhursa, não po! o que eu quero dizer é que, pra mim, hoje, no mínimo daria pra eu me virar com 3K + benefícios. Iria apertar um pouco, mas daria pra levar!
+2013-12-09 16:24:09 <Leonardo Valeriano> entendo
+2013-12-09 16:24:29 <Leonardo Valeriano> eu já tô contando o $ pro apt
+2013-12-09 16:24:39 <Leonardo Valeriano> e tenho que ter fonte de receita
+2013-12-09 16:24:46 <Dayvid Victor> Aí tipo, não é toda empresa que tá pagando isso, porque a maioria daqui de recife tão cagando pra se o cara tem mestrado ou não, eles querem é java e pronto ... ai é fogo!
+2013-12-09 16:24:50 <Dayvid Victor> hum...verdade ...
+2013-12-09 16:26:45 <Leonardo Valeriano> mas o trabalho aqui é especializado
+2013-12-09 16:27:35 <Leonardo Valeriano> aí tipo, a gente tem uma vantagem com os outros funcionários daqui por que eles n conseguem fazer o que a gente sabe
+2013-12-09 16:27:54 <Leonardo Valeriano> e se o projeto der certo mesmo
+2013-12-09 16:28:25 <Leonardo Valeriano> a gente vai ter bem mais recompensa
+2013-12-09 16:28:36 <Dayvid Victor> to ligado, massa!
+2013-12-09 16:36:30 <Dayvid Victor> Tu achas que vai ter reajuste por aí pra o ano que vem?
+2013-12-09 16:38:00 <Dayvid Victor> Mesmo se eu conseguisse bolsa, se o projeto daí tiver massa mesmo, eu poderia até aplicar, independentemente daqui da empresa
+2013-12-09 16:38:11 <Dayvid Victor> (já que a bolsa do doutorado já é mais alta naturalmente)
+2013-12-09 16:39:00 <Leonardo Valeriano> entendo
+2013-12-21 10:51:45 <Dayvid Victor> E aí leo
+2013-12-21 10:51:50 <Dayvid Victor> Bom?
+2013-12-21 10:51:56 <Leonardo Valeriano> bora grande
+2013-12-21 10:52:00 <Leonardo Valeriano> tudo blz
+2013-12-21 10:52:21 <Dayvid Victor> Como vão as coisas
+2013-12-21 10:52:25 <Dayvid Victor> ?
+2013-12-21 10:52:29 <Leonardo Valeriano> tão andando
+2013-12-21 10:52:33 <Dayvid Victor> E a tese?
+2013-12-21 10:52:44 <Leonardo Valeriano> eu vou começar a escrever o Cap. 3
+2013-12-21 10:52:55 <Leonardo Valeriano> que é a minha proposta
+2013-12-21 10:53:15 <Dayvid Victor> Já escrevesse o 1 e o 2 foi?
+2013-12-21 10:53:21 <Leonardo Valeriano> já
+2013-12-21 10:53:27 <Leonardo Valeriano> terminei ontem
+2013-12-21 10:53:40 <Leonardo Valeriano> a revisão eu deixo pro final
+2013-12-21 10:53:51 <Dayvid Victor> Eu comecei pelo capítulo 4, só escrevi ele.  Essa semana não deu pra produzir muito não.
+2013-12-21 10:54:30 <Dayvid Victor> Daí segunda eu escrevo o 1, teca e quarta o 2. Quinta e sexta o 3
+2013-12-21 10:54:54 <Dayvid Victor> E na última semana,  experimentos e conclusão.
+2013-12-21 10:55:10 <Leonardo Valeriano> hum
+2013-12-21 10:55:19 <Dayvid Victor> To de férias do trabalho a partir de segunda
+2013-12-21 10:55:27 <Leonardo Valeriano> vão ser 6 capítulos
+2013-12-21 10:55:39 <Leonardo Valeriano> eu já entrei de férias
+2013-12-21 10:55:53 <Dayvid Victor> Ah... Daí fica mais fácil pra tu
+2013-12-21 10:56:01 <Dayvid Victor> =)
+2013-12-21 10:56:17 <Leonardo Valeriano> eu vou fazer 5 capítulos
+2013-12-21 10:56:33 <Leonardo Valeriano> 3 é a proposta e 4 experimentos
+2013-12-21 10:56:38 <Leonardo Valeriano> e discussão
+2013-12-21 10:56:50 <Dayvid Victor> Tsang deu algum prazo
+2013-12-21 10:56:56 <Dayvid Victor> Pra concluir?
+2013-12-21 10:57:08 <Leonardo Valeriano> Tudo em fevereiro
+2013-12-21 10:57:29 <Dayvid Victor> To ligado, mas a tese tem que terminar até quando?
+2013-12-21 10:57:35 <Leonardo Valeriano> agora, n sei se conta a entrega
+2013-12-21 10:58:10 <Leonardo Valeriano> acho que em janeiro tem que terminar e defender em fevereiro
+2013-12-21 10:58:22 <Leonardo Valeriano> vou terminar agora pq quero viajar
+2013-12-21 10:58:34 <Dayvid Victor> To ligado
+2013-12-21 10:58:43 <Dayvid Victor> Meu prazo é  a primeira semana de janeiro
+2013-12-21 10:58:54 <Dayvid Victor> Olha,  quando tu terminar,  manda pra mim
+2013-12-21 10:59:01 <Dayvid Victor> Que eu dou uma revisada
+2013-12-21 10:59:07 <Dayvid Victor> E eu faço a mesma coiaa
+2013-12-21 10:59:12 <Dayvid Victor> Bom?
+2013-12-21 10:59:28 <Dayvid Victor> Beleza?
+2013-12-21 11:00:01 <Leonardo Valeriano> blz
+2013-12-21 11:00:05 <Leonardo Valeriano> eu faço isso
+2013-12-21 11:00:35 <Dayvid Victor> E o fds?
+2013-12-21 11:00:46 <Dayvid Victor> Vai produzir?
+2013-12-21 11:01:33 <Leonardo Valeriano> com certeza
+2013-12-21 11:01:47 <Leonardo Valeriano> :)
+2013-12-21 11:02:08 <Leonardo Valeriano> tô vendo só uma parada dos recibos de passagens aéreas
+2013-12-21 11:02:15 <Leonardo Valeriano> muita frescura
+2013-12-21 11:02:32 <Dayvid Victor> Rapaz
+2013-12-21 11:02:36 <Leonardo Valeriano> nunca viajei de avião, tem que fazer um monte de coisa
+2013-12-21 11:02:49 <Dayvid Victor> Eu acho que não vou produzir no fds
+2013-12-21 11:03:01 <Leonardo Valeriano> tô ligado
+2013-12-21 11:03:04 <Dayvid Victor> Vou descansar pra compensar na semana,  já que vou estar de ferias
+2013-12-21 11:03:15 <Leonardo Valeriano> no fds antes das férias tbm n produzi
+2013-12-21 11:03:15 <Dayvid Victor> Eu,  tu vais pra onde?
+2013-12-21 11:03:30 <Leonardo Valeriano> Gramado
+2013-12-21 11:03:40 <Dayvid Victor> Que massa,  vei
+2013-12-21 11:04:24 <Dayvid Victor> Aproveita pra comprar uns chocolates
+2013-12-21 11:04:38 <Dayvid Victor> Lá tem uns bem diferentes
+2013-12-21 11:04:52 <Leonardo Valeriano> hauashuhu
+2013-12-21 11:04:54 <Leonardo Valeriano> eu vou
+2013-12-21 11:05:04 <Dayvid Victor> (nunca fui,  mas trouxeram pra mim do trabalho).
+2013-12-21 11:05:15 <Leonardo Valeriano> tu sabe se precisa mostrar comprovante de pgto no embarque?
+2013-12-21 11:05:49 <Dayvid Victor> Não cara,  tipo,  quando tu for fazer checkin
+2013-12-21 11:06:46 <Dayvid Victor> Eles já tem salvo lá teu nome e as paradas todas. E bom tu apenas imprimir o ticket online
+2013-12-21 11:07:05 <Leonardo Valeriano> massa
+2013-12-21 11:07:17 <Leonardo Valeriano> aew só tem que mostrar os documentos
+2013-12-21 11:07:25 <Dayvid Victor> Daí tu vai lá,  deixa tua bagagem,  escolhe o assento (caso já não tenha escolhido online)
+2013-12-21 11:07:42 <Dayvid Victor> Daí eles te dão um novo ticket
+2013-12-21 11:08:15 <Dayvid Victor> Daí pronto
+2013-12-21 11:08:23 <Leonardo Valeriano> hum.. já escolhi online
+2013-12-21 11:08:40 <Dayvid Victor> Pronto,  então tu já fizesse o checkin
+2013-12-21 11:09:12 <Dayvid Victor> Agora imprime essas passagens e vai no balcão deixar as malas e pegar o novo ticket.
+2013-12-21 11:09:22 <Leonardo Valeriano> massa
+2013-12-21 11:09:28 <Dayvid Victor> Daí é só ir embora.
+2013-12-21 11:09:54 <Leonardo Valeriano> eu fico cismado com a bagagem
+2013-12-21 11:10:11 <Leonardo Valeriano> vou ter que comprar etiqueta e cadeado
+2013-12-21 11:10:28 <Leonardo Valeriano> pensei que ela vinha comigo
+2013-12-21 11:11:04 <Dayvid Victor> Tu pode levar uma bagagem de mao
+2013-12-21 11:11:09 <Dayvid Victor> Uma mochila
+2013-12-21 11:11:19 <Dayvid Victor> Se levar mala grande
+2013-12-21 11:11:27 <Dayvid Victor> Tem que ser despachada mesmo
+2013-12-21 11:13:05 <Leonardo Valeriano> hum
+2013-12-21 11:13:29 <Leonardo Valeriano> acho que tenho uma de mão e tenho a mochila
+2013-12-21 11:13:47 <Leonardo Valeriano> isso tudo eu levo comigo?
+2013-12-21 11:16:27 <Dayvid Victor> Cara,  dependendo do peso
+2013-12-21 11:16:32 <Dayvid Victor> Pode levarbsim
+2013-12-21 11:16:41 <Dayvid Victor> Verifica qual o limite de peso
+2013-12-21 11:16:44 <Dayvid Victor> E estima ai
+2013-12-21 11:16:52 <Leonardo Valeriano> 23kg
+2013-12-21 11:17:05 <Dayvid Victor> Outra coisa
+2013-12-21 11:17:14 <Dayvid Victor> Não precisa comprar eyiqueta
+2013-12-21 11:17:17 <Dayvid Victor> Eles dão la
+2013-12-21 11:17:22 <Dayvid Victor> Apenas cadeado
+2013-12-21 11:17:30 <Dayvid Victor> Se tu quiser
+2013-12-21 11:17:35 <Dayvid Victor> Eu nunca coloco
+2013-12-21 11:18:31 <Leonardo Valeriano> tô ligado
+2013-12-21 11:18:40 <Leonardo Valeriano> tu fosse pro México n foi?
+2013-12-21 11:18:50 <Leonardo Valeriano> precisa de passaporte?
+2013-12-21 11:24:40 <Dayvid Victor> Opa
+2013-12-21 11:24:40 <Dayvid Victor> Sim,  cara
+2013-12-21 11:24:49 <Dayvid Victor> Pra o México precisa de passaporte
+2013-12-21 11:24:57 <Dayvid Victor> Mas não precisa de visto
+2013-12-21 11:25:14 <Dayvid Victor> Vc tira um visto online,  sai na hora
+2013-12-21 11:25:36 <Dayvid Victor> Mas é uma marca,  muita burocracia,  pouca informação.
+2013-12-21 11:27:57 <Leonardo Valeriano> entendo
+2013-12-21 11:29:11 <Dayvid Victor> Olá tu viaja quando
+2013-12-21 11:29:22 <Dayvid Victor> Tu vai estar aqui na terça feira?
+2013-12-21 11:32:07 <Leonardo Valeriano> essa terça?
+2013-12-21 11:32:11 <Leonardo Valeriano> vou sim
+2013-12-21 11:32:20 <Leonardo Valeriano> eu viajo em 04/jan
+2013-12-21 11:35:10 <Dayvid Victor> Massa
+2013-12-21 11:35:21 <Dayvid Victor> Vai ter encontro da galera po
+2013-12-21 11:39:28 <Leonardo Valeriano> hum
+2013-12-21 11:39:43 <Leonardo Valeriano> já marcaram? É nessa terça é?
+2013-12-21 11:40:01 <Dayvid Victor> Tu não acompanha o whatsapp não é?
+2013-12-21 11:41:21 <Leonardo Valeriano> Faz tempo que nem toco no cel
+2013-12-21 11:41:26 <Leonardo Valeriano> vou ver agora
+2013-12-22 14:39:42 <Dayvid Victor> Ae leo
+2013-12-22 14:39:55 <Dayvid Victor> Como tão as paradas?
+2014-01-01 19:16:36 <Dayvid Victor> Bora lhe o,  feliz ano novo
+2014-01-01 19:17:38 <Leonardo Valeriano> Feliz ano novo cara
+2014-01-01 19:17:50 <Leonardo Valeriano> E parabéns papai
+2014-01-01 19:17:57 <Dayvid Victor> Ah,  vlw
+2014-01-01 19:17:59 <Leonardo Valeriano> :-)
+2014-01-01 19:18:28 <Dayvid Victor> Olá já confirmasse o interesse no PhD no site?
+2014-01-01 19:18:47 <Leonardo Valeriano> Confirmei
+2014-01-01 19:19:00 <Dayvid Victor> Eu tbm
+2014-01-01 19:19:16 <Dayvid Victor> Oaaa, e a tese,  como está?
+2014-01-01 19:19:34 <Dayvid Victor> A minha ainda falta o capítulo de estado da arte
+2014-01-01 19:19:50 <Leonardo Valeriano> Eu tô no Capítulo de experimentos
+2014-01-01 19:20:00 <Dayvid Victor> Experimento e conclusão
+2014-01-01 19:20:14 <Leonardo Valeriano> Falta ele e a conclusão
+2014-01-01 19:20:59 <Leonardo Valeriano> Mas acredito que vai ter mais trabalho, pois ainda não revisei
+2014-01-01 19:21:26 <Dayvid Victor> Merman,  hoje conclui um capítulo,  graças a Deus,  acho que da pra terminar ainda essa semana sem stress
+2014-01-01 19:22:28 <Leonardo Valeriano> Eu dei uma parada por causa desse feriado
+2014-01-01 19:22:56 <Leonardo Valeriano> Mas vou tentar adiantar o máximo antes de viajar.
+2014-01-01 19:23:58 <Dayvid Victor> Viajas quando?
+2014-01-01 19:24:38 <Leonardo Valeriano> Essa sexta
+2014-01-01 19:24:52 <Dayvid Victor> É, tens que esticar amanha
+2014-01-01 19:25:06 <Dayvid Victor> So não leva pra fazer na viagem,  pelo amor de Deus da
+2014-01-01 19:25:09 <Dayvid Victor> Rs
+2014-01-01 19:25:23 <Leonardo Valeriano> E amanhã eu ia pro shopping
+2014-01-01 19:25:56 <Leonardo Valeriano> Pra comprar coisa pra viagem.
+2014-01-01 19:26:02 <Dayvid Victor> Eu queria marcar alguma parada,  logo no começo do ano,  a gente podia marcar um zen amanhã
+2014-01-01 19:26:13 <Leonardo Valeriano> Eu n vou levar n.
+2014-01-01 19:26:27 <Leonardo Valeriano> Peso extra na mala..
+2014-01-01 19:28:26 <Dayvid Victor> To ligado
+2014-01-01 19:35:33 <Dayvid Victor> Oa, tu voltas direto pra empresa
+2014-01-01 19:35:44 <Dayvid Victor> Ou quando tu voltar ainda tem um pouco de férias?
+2014-01-02 14:03:55 <Leonardo Valeriano> Tenho um pouco de férias.
+2014-01-14 17:43:13 <Dayvid Victor> Lheo
+2014-01-14 17:43:16 <Dayvid Victor> marcasse tua defesa?
+2014-01-14 17:43:21 <Leonardo Valeriano> marquei
+2014-01-14 17:46:18 <Leonardo Valeriano> marcasse a tua?
+2014-01-14 17:46:25 <Leonardo Valeriano> eu tenho que terminar
+2014-01-14 17:46:42 <Leonardo Valeriano> tô mazelando muito depois que cheguei
+2014-01-14 17:46:42 <Dayvid Victor> ainda não
+2014-01-14 17:46:45 <Dayvid Victor> marcasse pra quando?
+2014-01-14 17:46:54 <Dayvid Victor> Vou ver com George, se ele marca essa semana!
+2014-01-14 17:46:55 <Leonardo Valeriano> 21 de fevereiro
+2014-01-14 17:47:10 <Dayvid Victor> No caso, foi tsang que marcou ou foi tu?
+2014-01-14 17:47:11 <Leonardo Valeriano> e entregar a dissertação completa me 21 de janeiro
+2014-01-14 17:47:17 <Leonardo Valeriano> fui eu
+2014-01-14 17:47:30 <Leonardo Valeriano> mas eles tem que convidar a banca
+2014-01-14 17:47:41 <Dayvid Victor> Ah, mas é a gente que marca a defesa é?
+2014-01-14 17:47:52 <Leonardo Valeriano> é
+2014-01-14 17:48:06 <Dayvid Victor> Mas tu já tas com a banca e tudo mais?
+2014-01-14 17:48:16 <Leonardo Valeriano> já
+2014-01-14 17:48:25 <Leonardo Valeriano> eles pedem tudo no requerimento
+2014-01-14 17:48:33 <Leonardo Valeriano> tem que tá tudo acertado
+2014-01-14 17:48:36 <Dayvid Victor> Ah, então o professor convidou pra banca, e depois tu marcasse, neh?
+2014-01-14 17:48:49 <Leonardo Valeriano> foi
+2014-01-14 17:49:00 <Dayvid Victor> hum...no caso vou ter que ficar no aguardo mesmo
+2014-01-14 17:49:02 <Dayvid Victor> quem é tua bancaw
+2014-01-14 17:49:03 <Dayvid Victor> ?
+2014-01-14 17:52:20 <Leonardo Valeriano> Carlos, George e um cara da UPE
+2014-01-14 17:52:29 <Dayvid Victor> foi bom!
+2014-01-14 17:52:33 <Dayvid Victor> Tsang vai estar aqui?
+2014-01-14 17:52:43 <Dayvid Victor> (Manda o convite pra galera, po)!
+2014-01-14 17:52:44 <Leonardo Valeriano> n n
+2014-01-14 17:53:03 <Leonardo Valeriano> vou encaminhar o email da secretaria
+2014-01-14 17:53:07 <Dayvid Victor> Se tu quiser, manda tua dissertação pra mim, que eu dou uma revisada!
+2014-01-14 17:53:21 <Leonardo Valeriano> vou mandar assim que concluir
+2014-01-14 17:53:50 <Leonardo Valeriano> tá foda tenho que terminar o capítulo de experimentos e conclusão
+2014-01-20 23:57:21 <Dayvid Victor> E ae lheo
+2014-01-20 23:57:23 <Dayvid Victor> como vai essa tese
+2014-01-20 23:57:32 <Dayvid Victor> a minha tá em andamento, eu concluí mas george botou pra lascar
+2014-01-20 23:57:36 <Dayvid Victor> tenho MUITA coisa pra mudar
+2014-01-20 23:57:40 <Dayvid Victor> é fogo  :/
+2014-01-20 23:59:00 <Leonardo Valeriano> auahauahauh
+2014-01-20 23:59:05 <Leonardo Valeriano> n muito diferente
+2014-01-20 23:59:27 <Leonardo Valeriano> Tsang pediu pra escrever mais
+2014-01-20 23:59:32 <Leonardo Valeriano> ficou muito pouco
+2014-01-20 23:59:55 <Leonardo Valeriano> vou ter que detalhar cada técnica que eu usei
+2014-01-21 00:00:27 <Dayvid Victor> to ligado ... george nem chegou a ler essa parte ainda, ele leu a introdução, botou pra lascar e mandou eu ajeitar!
+2014-01-21 00:00:47 <Dayvid Victor> Merecidamente, mas na moral, fiz muita coisa! Oo
+2014-01-21 00:00:56 <Dayvid Victor> Queres mandar pra mim?
+2014-01-21 00:01:04 <Dayvid Victor> [pra eu dar uma revisada]
+2014-01-21 00:01:05 <Dayvid Victor> ?
+2014-01-21 00:08:29 <Leonardo Valeriano> rapaz
+2014-01-21 00:08:30 <Leonardo Valeriano> ainda n
+2014-01-21 00:08:46 <Leonardo Valeriano> eu tô fazendo a primeira via da revisão
+2014-01-21 00:09:02 <Dayvid Victor> Blz,  eu vou fechar uma Nova versão amanhã
+2014-01-21 00:09:09 <Dayvid Victor> Dai eu te mando,  blz?
+2014-01-21 00:09:27 <Leonardo Valeriano> blz
+2014-01-21 00:09:38 <Leonardo Valeriano> manda aew que eu leio
+2014-01-21 00:09:53 <Leonardo Valeriano> a minha tá meio sebosa
+2014-01-21 00:10:02 <Dayvid Victor> Gagau,  telaxe
+2014-01-21 00:10:19 <Dayvid Victor> Rapaz,  relaxe*
+2014-01-21 00:15:45 <Leonardo Valeriano> ahuahauah
+2014-01-21 00:53:35 <Leonardo Valeriano> acabei de dar espaçamento nas linhas
+2014-01-21 00:53:38 <Leonardo Valeriano> 1.5
+2014-01-21 00:54:00 <Leonardo Valeriano> "ganhei" 10 páginas de dissertação
+2014-01-21 00:54:05 <Leonardo Valeriano> hehhee
+2014-01-21 00:54:07 <Dayvid Victor> Haujauhu boaaa
+2014-01-21 00:54:29 <Dayvid Victor> Outra dica.  Coloca umanpagina em branco antes de cada capitulo
+2014-01-21 00:54:38 <Leonardo Valeriano> já tem isso
+2014-01-21 00:54:40 <Leonardo Valeriano> ;P
+2014-01-21 00:54:54 <Dayvid Victor> Tas com quantas páginas?
+2014-01-21 00:54:55 <Leonardo Valeriano> mas ainda n inseri as referências
+2014-01-21 00:55:00 <Leonardo Valeriano> 64
+2014-01-21 00:55:10 <Leonardo Valeriano> muito pouco
+2014-01-21 00:55:31 <Dayvid Victor> Ouço,  ta bom.  A minha tem 75, já com referências capa,  contra capa,  citqcao...
+2014-01-21 00:55:46 <Leonardo Valeriano> a minha tbm
+2014-01-21 00:55:49 <Leonardo Valeriano> é tudo
+2014-01-21 00:55:58 <Leonardo Valeriano> vou ilustrar mais
+2014-01-21 00:56:12 <Leonardo Valeriano> e botar mais texto explicando as técnicas
+2014-01-21 00:56:23 <Dayvid Victor> Tu aumenta fácil po
+2014-01-21 00:56:34 <Dayvid Victor> Agora o negócio é qualidade
+2014-01-21 00:56:41 <Leonardo Valeriano> eu nem expliquei o que é mfcc e RNA
+2014-01-21 00:56:53 <Leonardo Valeriano> o resultado ficou do carai
+2014-01-21 00:57:01 <Leonardo Valeriano> já avisei a Tsang
+2014-01-21 00:57:07 <Dayvid Victor> Talvez tu pudesse criar um apendix
+2014-01-21 00:57:16 <Leonardo Valeriano> hum...
+2014-01-21 00:57:39 <Dayvid Victor> Ossa,  eu to indo nessa,  amanhã a gente se fala
+2014-01-21 00:57:39 <Leonardo Valeriano> mas aí é pra resultado meio que visual
+2014-01-21 00:57:43 <Dayvid Victor> Flwz
+2014-01-21 00:57:49 <Leonardo Valeriano> é complicado pra áudio
+2014-01-21 00:57:52 <Leonardo Valeriano> blz
+2014-01-21 00:57:54 <Leonardo Valeriano> eu tbm
+2014-01-21 00:58:02 <Leonardo Valeriano> flw grande
+2014-01-21 00:58:16 <Dayvid Victor> Depôs eu quero ler
+2014-01-21 00:58:22 <Leonardo Valeriano> tá certo
+2014-01-21 00:58:22 <Dayvid Victor> Flwz
+2014-01-21 00:58:26 <Leonardo Valeriano> flw
+2014-01-27 10:01:03 <Dayvid Victor> ei lheo
+2014-01-27 10:01:07 <Dayvid Victor> e essa tese aí, terminasse?
+2014-01-27 10:06:39 <Leonardo Valeriano> opa Dayvid
+2014-01-27 10:06:48 <Leonardo Valeriano> eu tô revisando o capítulo 3
+2014-01-27 10:07:06 <Leonardo Valeriano> mas pretendo entregar na quarta
+2014-01-27 10:07:21 <Leonardo Valeriano> conseguisse marcar a Defesa?
+2014-01-27 10:38:51 <Dayvid Victor> Ainda não,  George disse só depois que eu terminar tudo mesmo
+2014-01-27 10:39:10 <Leonardo Valeriano> hum
+2014-01-27 10:39:21 <Leonardo Valeriano> e tu tá em que parte?
+2014-01-27 10:39:50 <Dayvid Victor> Eu tonrevisabdo tudo,  reescrevendo,  fazendo gráficos...
+2014-01-27 10:40:13 <Leonardo Valeriano> hum..
+2014-01-27 10:40:27 <Leonardo Valeriano> eu tô na mesma mas já marquei
+2014-01-27 10:40:29 <Leonardo Valeriano> :P
+2014-01-27 10:40:43 <Leonardo Valeriano> tô sentindo que vou levar um fumo da porra
+2014-01-27 10:40:52 <Leonardo Valeriano> fazendo nas pressas
+2014-01-27 10:41:02 <Leonardo Valeriano> até Tsang tá reclamando
+2014-01-27 10:41:14 <Leonardo Valeriano> imagine George quando ele ler o meu
+2014-01-27 10:41:16 <Leonardo Valeriano> :(
+2014-01-27 10:47:29 <Dayvid Victor> Ouxe,  prepare o KY
+2014-01-27 10:48:13 <Leonardo Valeriano> ahuahauahauh
+2014-01-27 10:48:16 <Leonardo Valeriano> é foda
+2014-01-27 10:48:30 <Leonardo Valeriano> meus pais vão assistir
+2014-01-27 10:48:37 <Leonardo Valeriano> e vão tirar onda depois
+2014-01-27 11:07:09 <Dayvid Victor> huhrasuhursa
+2014-01-27 11:07:12 <Dayvid Victor> eu vou assistir tbm!
+2014-01-27 11:17:19 <Leonardo Valeriano> quem vai avaliar é Carlos tbm
+2014-01-27 11:17:31 <Leonardo Valeriano> o pessoal diz que ele é chato que só
+2014-01-27 11:17:55 <Leonardo Valeriano> ele pede até o código em um CD
+2014-01-27 11:33:58 <Dayvid Victor> Isso é bom.  O código ele não vai rodar,  mas é bom pra,  no futuro,  desenvolver a ideia.
+2014-01-27 12:08:50 <Leonardo Valeriano> hum
+2014-01-27 12:09:02 <Leonardo Valeriano> como é do Visaar
+2014-01-27 12:09:07 <Leonardo Valeriano> tá blz
+2014-01-31 17:01:38 <Dayvid Victor> e essa tese aí lheo?
+2014-01-31 17:02:32 <Leonardo Valeriano> eu já enviei pra Tsang
+2014-01-31 17:02:42 <Leonardo Valeriano> pra ele revisar
+2014-01-31 17:02:59 <Leonardo Valeriano> ele tá lendo e disse pra n me preocupar que ia dar tempo
+2014-01-31 17:03:09 <Leonardo Valeriano> acho que só entrego semana que vem
+2014-01-31 17:03:17 <Leonardo Valeriano> na segunda ou terça
+2014-01-31 17:03:36 <Dayvid Victor> to ligado, ainda bem! =]
+2014-01-31 17:03:54 <Dayvid Victor> eu to aqui na correria, porque vou ter que defender até fevereiro, Edna disse que pra entrar no doutorado essa era a deadline!
+2014-01-31 17:03:56 <Leonardo Valeriano> mas tipo,
+2014-01-31 17:04:05 <Leonardo Valeriano> ele é que tá dizendo isso
+2014-01-31 17:04:13 <Leonardo Valeriano> George falou outra história
+2014-01-31 17:04:29 <Leonardo Valeriano> disse que quando o cara atrasava ele botava pra lascar
+2014-01-31 17:08:12 <Leonardo Valeriano> é foda
+2014-01-31 17:08:23 <Leonardo Valeriano> fevereiro é o último mês
+2014-01-31 17:08:45 <Dayvid Victor> ouxi, e eu que nem terminei de escrever e nem marquei
+2014-01-31 17:08:54 <Dayvid Victor> Vou ter que conversar lá na secretaria, pra poder marcar sem os 30 dias
+2014-01-31 17:08:59 <Dayvid Victor> porque disseram que era até dia 10
+2014-01-31 17:09:00 <Leonardo Valeriano> hum
+2014-01-31 17:09:04 <Dayvid Victor> depois ficou até dia 28
+2014-01-31 17:09:07 <Dayvid Victor> aí é fogo!
+2014-01-31 17:09:23 <Leonardo Valeriano> tô ligado
+2014-01-31 17:09:38 <Leonardo Valeriano> dia 28 é o último dia
+2014-01-31 17:10:26 <Dayvid Victor> oaaa, tu já falasse com tsang
+2014-01-31 17:10:34 <Dayvid Victor> sobre como vai ser pra trabalhar e fazer doutorado ao mesmo tempo?
+2014-01-31 17:16:48 <Leonardo Valeriano> n
+2014-01-31 17:16:51 <Leonardo Valeriano> n falei nada
+2014-01-31 17:16:59 <Leonardo Valeriano> acho que n tem bronca
+2014-02-04 13:47:07 <Dayvid Victor> leo
+2014-02-04 13:47:13 <Dayvid Victor> depois de enviar o formulário
+2014-02-04 13:47:19 <Dayvid Victor> precisa fazer mais oq?
+2014-02-04 13:47:24 <Dayvid Victor> (não precisa pagar a GRU, neh?)
+2014-02-04 14:09:59 <Leonardo Valeriano> n precisa pagar nada
+2014-02-04 14:10:12 <Leonardo Valeriano> é só o formulário mesmo
+2014-02-04 23:59:04 <Dayvid Victor> ei cara, marquei
+2014-02-04 23:59:06 <Dayvid Victor> dia 25!
+2014-02-05 00:02:42 <Leonardo Valeriano> parabéns!
+2014-02-05 00:02:52 <Leonardo Valeriano> o/
+2014-02-05 00:02:57 <Dayvid Victor> =]
+2014-02-05 00:23:08 <Dayvid Victor> ei lheo
+2014-02-05 00:23:13 <Dayvid Victor> a tua defesa é dia 21 de que horas?
+2014-02-05 00:23:29 <Leonardo Valeriano> de 8 e meia
+2014-02-05 00:23:37 <Dayvid Victor> a minha é de 8hrs
+2014-02-05 00:23:39 <Dayvid Victor> muito cedo, vei!
+2014-02-05 00:24:28 <Leonardo Valeriano> é foda
+2014-02-05 00:24:41 <Leonardo Valeriano> mas acho que vai começar mesmo de 8 e meia
+2014-02-05 00:31:42 <Leonardo Valeriano> olha
+2014-02-05 00:31:58 <Leonardo Valeriano> como tu conseguiu compartilhar o lookback no face?
+2014-02-05 00:34:54 <Dayvid Victor> Só apertei 'share'
+2014-02-05 00:35:53 <Leonardo Valeriano> hum
+2014-02-05 00:36:03 <Leonardo Valeriano> que coisa simples e n intuitiva
+2014-02-05 00:36:05 <Leonardo Valeriano> :)
+2014-02-05 00:37:34 <Leonardo Valeriano> n funciona aqui no meu
+2014-02-05 00:37:37 <Leonardo Valeriano> :(
+2014-02-05 00:38:44 <Dayvid Victor> Oo, estranho
+2014-02-05 00:39:31 <Leonardo Valeriano> tá dizendo "status vazio"
+2014-02-05 00:44:16 <Leonardo Valeriano> gambiarra mode ON
+2014-02-05 00:44:17 <Leonardo Valeriano> https://m.facebook.com/lookback/share
+2014-02-05 00:45:23 <Dayvid Victor> rhuarsa, clica aí em share, vai funcionar!
+2014-02-05 00:46:20 <Leonardo Valeriano> funcionou!
+2014-02-05 00:46:22 <Leonardo Valeriano> :D
+2014-02-05 14:07:43 <Dayvid Victor> Leo, tas online?
+2014-02-05 14:10:22 <Leonardo Valeriano> oi
+2014-02-05 14:10:55 <Dayvid Victor> olha, no MSc tu ganhasse bolsa logo de início no mestrado?
+2014-02-05 14:11:32 <Leonardo Valeriano> acho que foi
+2014-02-05 14:11:46 <Leonardo Valeriano> eu comecei a ganhar em abril ou maio
+2014-02-05 14:12:00 <Dayvid Victor> tipo, a mensal que vai entrar essa semana agora
+2014-02-05 14:12:05 <Dayvid Victor> é a última parcela é?
+2014-02-05 14:12:12 <Dayvid Victor> Ou ainda tem uma última no início de março?
+2014-02-05 14:13:09 <Leonardo Valeriano> essa deve ser a última
+2014-02-05 14:15:25 <Dayvid Victor> eita, achei um documento aqui
+2014-02-05 14:15:27 <Dayvid Victor> vou mandar por email!
+2014-02-05 14:21:12 <Dayvid Victor> vê o email que eu mandei
+2014-02-05 14:21:15 <Dayvid Victor> acho que não é não!
+2014-02-05 14:22:50 <Leonardo Valeriano> hum...
+2014-02-05 14:36:58 <Dayvid Victor> visse lá?
+2014-02-05 15:16:28 <Leonardo Valeriano> Vi
+2014-02-05 15:16:44 <Leonardo Valeriano> É que nem o pagamento da empresa.
+2014-02-10 13:44:06 <Dayvid Victor> leo
+2014-02-10 13:44:16 <Dayvid Victor> tua dissertação imprimisse frente e verso ou só frente?
+2014-02-10 13:44:43 <Dayvid Victor> outra coisa, tu colocasse uma página em branco entre o agredecimento, índice (...)
+2014-02-10 13:47:34 <Leonardo Valeriano> oi
+2014-02-10 13:47:47 <Leonardo Valeriano> imprimi frente e verso
+2014-02-10 13:47:53 <Leonardo Valeriano> acredito que coloquei
+2014-02-10 13:48:00 <Dayvid Victor> hum...ok
+2014-02-12 14:16:21 <Dayvid Victor> Lheo
+2014-02-12 14:16:26 <Dayvid Victor> já fizesse tua apresentação?
+2014-02-12 14:17:54 <Leonardo Valeriano> tô fazendo
+2014-02-12 14:17:56 <Leonardo Valeriano> :)
+2014-02-12 14:18:08 <Leonardo Valeriano> tenho que correr com isso
+2014-02-12 14:18:21 <Dayvid Victor> tu pegasse algum modelo com tsang?
+2014-02-12 14:18:25 <Dayvid Victor> tu vais fazer em latex?
+2014-02-12 14:21:04 <Dayvid Victor> to pensando em fazer com esse template: http://www.latextemplates.com/template/beamer-presentation
+2014-02-12 14:24:20 <Leonardo Valeriano> George pediu em Latex
+2014-02-12 14:24:26 <Leonardo Valeriano> Tsang n falou nada
+2014-02-12 14:24:33 <Dayvid Victor> pois é
+2014-02-12 14:24:35 <Dayvid Victor> pra mim também!
+2014-02-12 14:24:57 <Leonardo Valeriano> mas eu tô com bronca na instalação desse beamer
+2014-02-12 14:25:18 <Dayvid Victor> Eu vou pro CIn qualquer dia desses
+2014-02-12 14:25:21 <Dayvid Victor> pra fazer ele!
+2014-02-12 14:31:28 <Dayvid Victor> a apresentação*
+2014-02-12 14:31:47 <Dayvid Victor> george me mandou um modelo, só que está bugado! (não funciona)
+2014-02-12 14:32:06 <Leonardo Valeriano> desenrolei a instalação
+2014-02-12 14:32:19 <Leonardo Valeriano> tinha um exe escondido que fazia tudo
+2014-02-12 14:32:25 <Leonardo Valeriano> hum...
+2014-02-12 14:32:32 <Leonardo Valeriano> ele indicou esse beamer
+2014-02-12 16:44:54 <Dayvid Victor> Leo, recebesse o meu CV?
+2014-02-12 18:08:26 <Leonardo Valeriano> n
+2014-02-12 18:08:30 <Leonardo Valeriano> n tá aqui n
+2014-02-12 18:09:29 <Dayvid Victor> Mandei por email
+2014-02-12 18:09:59 <Leonardo Valeriano> rapaz
+2014-02-12 18:10:05 <Leonardo Valeriano> chegou n
+2014-02-12 18:10:17 <Leonardo Valeriano> manda aew de novo
+2014-02-12 18:11:17 <Dayvid Victor> mandei
+2014-02-12 18:13:41 <Leonardo Valeriano> aqui ainda n chegou
+2014-02-12 18:13:46 <Leonardo Valeriano> mas relaxe
+2014-02-12 18:14:08 <Leonardo Valeriano> assim que chegar eu repasso e falo com o coordenador daqui
+2014-02-12 18:14:24 <Leonardo Valeriano> pra ele ir no teu Linkedin
+2014-02-12 18:14:37 <Dayvid Victor> blz!
+2014-02-12 18:14:37 <Dayvid Victor> vlwz
+2014-02-12 18:14:42 <Leonardo Valeriano> intao
+2014-02-12 18:14:45 <Leonardo Valeriano> eu vou indo
+2014-02-12 18:14:53 <Leonardo Valeriano> abraço cara
+2014-02-12 18:14:58 <Leonardo Valeriano> flw
+2014-02-12 18:15:04 <Dayvid Victor> flwz
+2014-02-13 17:07:54 <Dayvid Victor> Léo, e ai,  recebesse meu e-mail?
+2014-02-13 17:26:25 <Leonardo Valeriano> recebi pow
+2014-02-13 17:26:34 <Leonardo Valeriano> o gmail sumiu com ele
+2014-02-13 17:26:39 <Leonardo Valeriano> mas eu recuperei
+2014-02-13 17:27:08 <Leonardo Valeriano> encaminhei pra Bruno (coordenador) e mandei o Linkedin
+2014-02-13 17:27:18 <Leonardo Valeriano> ele demonstrou interesse
+2014-02-13 17:54:52 <Dayvid Victor> Vlw lheo
+2014-02-14 16:20:25 <Dayvid Victor> Ae  Lheo, Bruno me mandou um email
+2014-02-14 16:20:41 <Dayvid Victor> Pedi pra ir conhecer a empresa na semana que vem! =]
+2014-02-14 16:20:47 <Dayvid Victor> Aí eu aproveito e falo com George!
+2014-02-14 16:20:48 <Dayvid Victor> flwz
+2014-02-14 16:30:04 <Leonardo Valeriano> massa cara
+2014-02-14 16:30:14 <Leonardo Valeriano> parabéns!
+2014-02-14 16:30:20 <Dayvid Victor> =]
+2014-02-14 16:30:22 <Leonardo Valeriano> venha simbora
+2014-02-14 16:30:23 <Leonardo Valeriano> :)
+2014-02-14 16:30:40 <Dayvid Victor> vlwz, eu vou marcar de ir aí na terça pra conversar com os caras, porque na segunda eu falo com george, tas ligado?
+2014-02-14 16:32:50 <Leonardo Valeriano> tow ligado
+2014-02-14 16:33:13 <Leonardo Valeriano> aham
+2014-02-14 16:33:14 <Dayvid Victor> marquei na segunda
+2014-02-14 16:33:20 <Dayvid Victor> eu vou logo aí, aí converso com os caras
+2014-02-14 16:33:29 <Leonardo Valeriano> hum..
+2014-02-14 16:33:31 <Dayvid Victor> daí eu digo: blz, eu tenho só que falar com meu orientador e dou uma resposta!
+2014-02-14 16:33:32 <Dayvid Victor> =]
+2014-02-14 16:33:39 <Leonardo Valeriano> a conversa é rápida
+2014-02-14 16:33:56 <Leonardo Valeriano> tenta falar agora
+2014-02-14 16:34:01 <Leonardo Valeriano> por email
+2014-02-14 16:34:07 <Dayvid Victor> Com george?
+2014-02-14 16:34:29 <Dayvid Victor> Ou com Bruno?
+2014-02-14 16:35:09 <Dayvid Victor> Porque conversar sobre $$ por email, eu prefiro pessoalmente, tas ligado?  ;P
+2014-02-14 16:35:53 <Leonardo Valeriano> com George
+2014-02-14 16:36:05 <Leonardo Valeriano> era George mesmo
+2014-02-14 16:36:30 <Dayvid Victor> hum ... eu vou tentar ir lá na segunda de manhã, e vou aí na sophia na segunda de tarde!
+2014-02-14 16:36:39 <Dayvid Victor> vou marcar com ele a reunião por email! tas ligado?
+2014-02-14 16:39:18 <Leonardo Valeriano> tô ligado
+2014-02-14 16:39:23 <Leonardo Valeriano> boa sorte cara!
+2014-02-14 16:39:26 <Leonardo Valeriano> sucesso
+2014-02-14 16:40:01 <Dayvid Victor> Vlw lheo, se Deus quiser vai dar tudo certo
+2014-02-14 16:40:10 <Dayvid Victor> Vlw Ae lheo, tu é o cara
+2014-02-14 16:40:25 <Leonardo Valeriano> ahuahau
+2014-02-14 16:40:28 <Leonardo Valeriano> q nada
+2014-02-14 16:40:37 <Leonardo Valeriano> vc merece
+2014-02-17 20:38:42 <Dayvid Victor> Ei lheo
+2014-02-17 20:38:48 <Dayvid Victor> Fui lá hoje,  foi massa
+2014-02-17 20:39:04 <Dayvid Victor> George ta embaçando eu trabalhar no primeiro semestre
+2014-02-17 20:39:06 <Leonardo Valeriano> opa
+2014-02-17 20:39:13 <Leonardo Valeriano> ahauahuah
+2014-02-17 20:39:20 <Leonardo Valeriano> George é pau
+2014-02-17 20:39:25 <Dayvid Victor> Não sei como vai ser,  mas vou ter uma reunião com ele essa semana
+2014-02-17 20:39:31 <Leonardo Valeriano> que besteira
+2014-02-17 20:39:37 <Leonardo Valeriano> só pq tem cadeira
+2014-02-17 20:39:45 <Leonardo Valeriano> massa
+2014-02-17 20:39:52 <Leonardo Valeriano> gostasse de lá?
+2014-02-17 20:40:07 <Dayvid Victor> Na verdade é porque eu to sem objetivo definido
+2014-02-17 20:40:19 <Dayvid Victor> Gostei,  só não gostei pra estacionar
+2014-02-17 20:40:23 <Dayvid Victor> Impossível
+2014-02-17 20:40:37 <Dayvid Victor> O negócio é busao e bike
+2014-02-17 20:40:50 <Dayvid Victor> Se não o cara vai gastar metade do salário de zona azul
+2014-02-17 20:41:25 <Leonardo Valeriano> é foda
+2014-02-17 20:41:34 <Leonardo Valeriano> tem que chegar muito cedo
+2014-02-17 20:41:40 <Leonardo Valeriano> ou pegar busão
+2014-02-17 20:41:58 <Dayvid Victor> Mesmo assim,  é 2 conto a hora
+2014-02-17 20:42:12 <Leonardo Valeriano> n pow
+2014-02-17 20:42:21 <Leonardo Valeriano> são 2 pra 5h
+2014-02-17 20:42:40 <Leonardo Valeriano> isso deve ser no Passo Alfândega
+2014-02-17 20:47:03 <Dayvid Victor> A zona azul lá vale quanto tempo?
+2014-02-17 20:48:42 <Leonardo Valeriano> 5h
+2014-02-17 20:49:12 <Dayvid Victor> Ah móvei, menos mal
+2014-02-26 07:46:07 <Dayvid Victor> Ei Léo, bora comemorar as defesas,  pô!  Tu tas livre hoje de noite?
+2014-03-09 22:22:28 <Dayvid Victor> Leo
+2014-03-09 22:22:29 <Dayvid Victor> Edna te mandou algum email
+2014-03-09 22:22:31 <Dayvid Victor> Falando pra entregar comprovante de defesa de mestrado no CIn até dia 13?
+2014-03-09 22:22:46 <Dayvid Victor> Como a gente pega esse comprovante?
+2014-03-10 09:33:23 <Leonardo Valeriano> Mandou sim
+2014-03-10 09:35:16 <Leonardo Valeriano> Falei com o presidente da banca e ele disse que entregou tudo pra secretaria. Provavelmente a secretaria se enrolou e não viu que ele tinha entregado. Sabe como é, funcionários públicos querendo que a gente faça o trabalho deles.
+2014-03-10 09:35:48 <Leonardo Valeriano> Vou ligar pra secretaria hj.
+2014-03-10 11:00:26 <Dayvid Victor> Leo
+2014-03-10 11:00:29 <Dayvid Victor> mandei um emial hoje
+2014-03-10 11:00:32 <Dayvid Victor> para o professor Ricardo
+2014-03-10 11:00:35 <Dayvid Victor> vou ver se ele entregou já!
+2014-03-12 16:01:42 <Dayvid Victor> Leo, já decidisse quais tu vai se matricular?
+2014-03-12 16:03:21 <Leonardo Valeriano> rapaz ainda n
+2014-03-12 16:03:22 <Leonardo Valeriano> :(
+2014-03-12 16:03:48 <Leonardo Valeriano> não sei se pago Redes Neurais ou a de experimentos
+2014-03-12 16:08:21 <Dayvid Victor> qual é essa de experimentos?
+2014-03-12 16:15:50 <Leonardo Valeriano> de Fábio Queda
+2014-03-12 16:15:59 <Leonardo Valeriano> Administração de Sistemas
+2014-03-12 16:16:03 <Leonardo Valeriano> IN1002
+2014-03-12 16:32:34 <Dayvid Victor> Ouxi, pra que essa Léo?
+2014-03-12 16:39:38 <Leonardo Valeriano> é pq essa é um dia só
+2014-03-12 16:39:42 <Leonardo Valeriano> e n tem provas
+2014-03-12 16:45:59 <Dayvid Victor> Hum...
+2014-03-12 16:56:17 <Leonardo Valeriano> Aquela que tu falou tem um horário péssimo!
+2014-03-12 16:56:35 <Dayvid Victor> pois é
+2014-03-12 16:56:40 <Dayvid Victor> vou falar com george pra ver se ele me libera dela!
+2014-03-12 16:56:50 <Dayvid Victor> ou então, ver com o professor se precisa ir pra todas as aulas mesmo
+2014-03-12 16:56:51 <Dayvid Victor> sei lá
+2014-03-12 17:00:56 <Leonardo Valeriano> acho que tem que ir
+2014-03-12 17:01:09 <Leonardo Valeriano> Redes Neurais eu sei que precisa
+2014-03-12 17:01:16 <Leonardo Valeriano> logo com Aluízio
+2014-03-12 17:01:31 <Leonardo Valeriano> tô pensando em pagar só 1.
+2014-03-12 17:09:26 <Dayvid Victor> eu tbm,
+2014-03-12 17:09:30 <Dayvid Victor> mas vou botar logo seminários
+2014-03-12 17:09:31 <Dayvid Victor> pra ficar livre
+2014-03-12 17:13:31 <Leonardo Valeriano> seminários? aquela que são só 3 ou 4 vezes?
+2014-03-12 17:14:01 <Dayvid Victor> Eh
+2014-03-12 17:19:00 <Leonardo Valeriano> hum
+2014-03-12 17:19:09 <Leonardo Valeriano> vou botar tbm então
+2014-03-12 17:19:16 <Dayvid Victor> eu vou fazer amanhã
+2014-03-12 17:19:22 <Dayvid Victor> vou tentar falar com george
+2014-03-12 17:19:28 <Dayvid Victor> pra colocar outra, no lugar dessa de otimização!
+2014-03-17 16:00:20 <Dayvid Victor> Leo
+2014-03-17 16:00:29 <Dayvid Victor> Colocasse quais disciplinas?
+2014-03-17 16:36:12 <Leonardo Valeriano> oi
+2014-03-17 16:36:20 <Leonardo Valeriano> eu botei seminários
+2014-03-17 16:37:07 <Leonardo Valeriano> tu botasse qual?
+2014-03-17 16:38:03 <Dayvid Victor> Seminários
+2014-03-17 16:38:09 <Dayvid Victor> Trabalho individual
+2014-03-17 16:38:17 <Dayvid Victor> E otimização mesmo
+2014-03-17 16:38:23 <Leonardo Valeriano> hum
+2014-03-17 16:38:33 <Dayvid Victor> Eu não queria otimização, mas manda quem pode
+2014-03-17 16:38:35 <Leonardo Valeriano> tu vai pagar tudo logo
+2014-03-17 16:38:40 <Dayvid Victor> Obedece quem tem juízo
+2014-03-17 16:38:41 <Leonardo Valeriano> ahuahauhauah
+2014-03-17 16:38:45 <Dayvid Victor> Hauahu
+2014-03-17 16:38:49 <Leonardo Valeriano> Tsang recomendou
+2014-03-17 16:38:58 <Dayvid Victor> Não,  vou deixar uma para I próximo período
+2014-03-17 16:38:59 <Leonardo Valeriano> eu vou acabar pagando essa mesmo
+2014-03-17 16:39:09 <Leonardo Valeriano> tu vai pagar outra ainda?
+2014-03-17 16:39:40 <Dayvid Victor> Olha,  e Ricardo Martins só coloca disciplinas a tarde,  visse? Tem jeito não.
+2014-03-17 16:39:59 <Dayvid Victor> Não, a outra que eu vou pagar eh a de George
+2014-03-17 16:40:04 <Dayvid Victor> No próximo período
+2014-03-17 16:41:37 <Leonardo Valeriano> hum
+2014-03-17 16:41:40 <Leonardo Valeriano> eita
+2014-03-17 16:41:45 <Leonardo Valeriano> é a tarde né?
+2014-03-17 16:41:49 <Leonardo Valeriano> poxa...
+2014-03-17 16:42:46 <Dayvid Victor> Cara, o negócio é a gente falar com ele sobre presença nanaula
+2014-03-17 16:42:57 <Dayvid Victor> Dizem que não tem aula o período todo
+2014-03-17 16:43:05 <Leonardo Valeriano> hum
+2014-03-17 16:43:16 <Dayvid Victor> Outra coisa, a gentenpoderia fazer emndupla,  o projeto, tas ligado?
+2014-03-17 16:43:23 <Leonardo Valeriano> aquele horário é péssimo
+2014-03-17 16:43:36 <Leonardo Valeriano> tô ligado, tava pensando nisso
+2014-03-17 16:43:41 <Dayvid Victor> Eu já sei o que a gente faria
+2014-03-17 16:43:54 <Dayvid Victor> A gente implementação o F-Race
+2014-03-17 16:44:14 <Dayvid Victor> Esse algoritmo seria o poder pra a gente usar na pesquisa
+2014-03-17 16:44:37 <Dayvid Victor> (ele encontra o melhor conjunto de parâmetros para se executar uma dada funcao)
+2014-03-17 16:47:04 <Leonardo Valeriano> hum...
+2014-03-17 16:47:17 <Leonardo Valeriano> eu vou conversar com Tsang
+2014-03-17 16:47:33 <Leonardo Valeriano> tem essa de Trabalho Individual
+2014-03-17 16:47:44 <Dayvid Victor> Olha, recebesse alguma noticiosa da bolsa?
+2014-03-17 16:47:45 <Leonardo Valeriano> e falta 1 para encerrar
+2014-03-17 16:47:50 <Leonardo Valeriano> n cara
+2014-03-17 16:47:56 <Leonardo Valeriano> acho que n vai rolar
+2014-03-17 16:48:05 <Dayvid Victor> Eu tbm ainda não recebi
+2014-03-17 16:48:12 <Dayvid Victor> Não pô,  rola sim
+2014-03-17 16:48:34 <Dayvid Victor> Ano passado chegou até a posição 22 no mês de abril
+2014-03-17 16:48:51 <Leonardo Valeriano> hum
+2014-03-17 16:48:59 <Leonardo Valeriano> só esperando pra ver
+2014-03-17 16:49:01 <Dayvid Victor> No fim do ano, já tava na posição 34
+2014-03-17 16:49:11 <Leonardo Valeriano> a galera tá mandando email desesperada
+2014-03-17 16:49:14 <Leonardo Valeriano> :)
+2014-03-17 16:49:19 <Dayvid Victor> Pois é
+2014-03-17 16:49:26 <Dayvid Victor> Mas é fogo mesmo
+2014-03-17 16:49:32 <Dayvid Victor> Eu tenho uma grana guardada
+2014-03-17 16:49:47 <Dayvid Victor> Mas tem gente que nai tem
+2014-03-17 16:50:02 <Leonardo Valeriano> é amigo
+2014-03-17 16:50:08 <Leonardo Valeriano> tá tenso o negócio
+2014-03-17 17:02:11 <Dayvid Victor> Eu vou lá na secretaria amanhã
+2014-03-17 17:34:38 <Leonardo Valeriano> hum
+2014-03-17 17:34:47 <Leonardo Valeriano> mas acho que eles n vão dizer nada
+2014-03-17 17:55:16 <Dayvid Victor> Rapaz, mas tem uma galera que não vão receber,  tas ligado?
+2014-03-17 17:55:38 <Dayvid Victor> Luís, Ruan,...
+2014-03-17 17:55:53 <Dayvid Victor> Que já são professores de federais e nao podem acumular
+2014-03-17 18:00:04 <Leonardo Valeriano> é...
+2014-03-17 18:00:31 <Leonardo Valeriano> acho que dá pra acumular se der tempo
+2014-03-17 18:00:47 <Leonardo Valeriano> só quem n pode é funcionário de empresa privada
+2014-03-17 18:01:01 <Dayvid Victor> E como tu vai fazer pô?
+2014-03-17 18:01:24 <Leonardo Valeriano> o próprio regulamento favorece o funcionário público ¬¬
+2014-03-17 18:01:34 <Leonardo Valeriano> eu n vou fazer nada
+2014-03-17 18:01:43 <Leonardo Valeriano> n estou acumulando nada ainda
+2014-03-17 18:01:44 <Leonardo Valeriano> :)
+2014-03-17 18:02:08 <Dayvid Victor> Mas quando a bolsa chegar em tu?
+2014-03-17 18:02:16 <Leonardo Valeriano> se sair bolsa, faço que nem o cara aqui da empresa
+2014-03-17 18:02:35 <Leonardo Valeriano> "só n pode CLT, PJ não disseram nada"
+2014-03-17 18:02:48 <Dayvid Victor> Gênio
+2014-03-17 18:02:51 <Dayvid Victor> Hauahauhu
+2014-03-17 18:03:05 <Dayvid Victor> E a empresa ai contrata PJ?
+2014-03-17 18:05:08 <Leonardo Valeriano> contratou aqui
+2014-03-17 18:05:16 <Leonardo Valeriano> só n pagou a multa do INSS
+2014-03-17 18:05:21 <Leonardo Valeriano> dos 40%
+2014-03-17 18:05:23 <Dayvid Victor> Hum... Ótimo
+2014-03-17 18:05:31 <Dayvid Victor> É, foi bom
+2014-03-17 18:05:42 <Leonardo Valeriano> agora se acontecer eu vou querer todos os descontos que eu tinha
+2014-03-17 18:05:46 <Leonardo Valeriano> mais o FGTS
+2014-03-17 18:06:00 <Dayvid Victor> Como assim todos os descontos?
+2014-03-17 18:06:16 <Leonardo Valeriano> meu salário sofre os descontos da CLT
+2014-03-17 18:06:20 <Leonardo Valeriano> INSS e IRRF
+2014-03-17 18:06:26 <Dayvid Victor> Ah, to ligado
+2014-03-17 18:06:31 <Leonardo Valeriano> e eles pagam do bolso o FGTS
+2014-03-17 18:06:34 <Leonardo Valeriano> depositam
+2014-03-17 18:06:43 <Dayvid Victor> Agora é bom tu se ligar
+2014-03-17 18:09:01 <Leonardo Valeriano> hum
+2014-03-17 18:24:33 <Dayvid Victor> Pq PJ não tem férias nem 13
+2014-04-14 13:35:24 <Dayvid Victor> Léo
+2014-04-14 13:35:31 <Dayvid Victor> Tu vai pra a aula se seminariosnhj
+2014-04-14 13:35:36 <Dayvid Victor> Se 5h?
+2014-04-14 13:35:40 <Dayvid Victor> De*
+2014-04-23 16:54:48 <Dayvid Victor> Leo
+2014-04-23 16:55:02 <Dayvid Victor> Tivesse algn feedback?
+2014-04-23 16:55:12 <Dayvid Victor> Sobre bolsa de doutorado?
+2014-04-23 18:44:41 <Leonardo Valeriano> Tive ainda n cara. Vou checar os spans
+2014-04-23 18:44:46 <Leonardo Valeriano> *spams
+2014-05-09 16:27:43 <Dayvid Victor> Eu vou entregar na segunda fe
+2014-05-09 16:27:59 <Dayvid Victor> Mas eu to preocupado, deadline e dia 25
+2014-05-09 16:28:21 <Dayvid Victor> Mas Vlw, agora pra entregar a dele, eu não vou colocar na ABNT nao
+2014-05-09 16:28:30 <Dayvid Victor> Sonquando for imprimir
+2014-05-09 16:28:35 <Dayvid Victor> Pra biblioteca
+2014-05-09 16:47:42 <Leonardo Valeriano> Eu n boteu abnt na entrega pra banca.
+2014-05-09 16:48:57 <Dayvid Victor> Mas o que eu ia dizer
+2014-05-09 16:49:09 <Dayvid Victor> Era que o prazo de 3 meses e pra a banca
+2014-05-09 16:49:14 <Dayvid Victor> E não pra a biblioteca
+2014-05-09 16:49:17 <Dayvid Victor> Neh?
+2014-05-09 16:51:16 <Leonardo Valeriano> Correto. Entrega pra banca logo e explica as correções que tu fez pra agilizar.
+2014-05-09 16:51:39 <Dayvid Victor> Outra coisa
+2014-05-09 16:51:48 <Dayvid Victor> As correções eh só pra o presidente
+2014-05-09 16:51:55 <Dayvid Victor> Ou pra toda a banca?
+2014-05-09 16:55:21 <Leonardo Valeriano> Só pro presidente.
+2014-05-09 16:55:32 <Dayvid Victor> Masssa
+2014-05-09 16:55:36 <Dayvid Victor> Oaaaa
+2014-05-09 16:55:50 <Dayvid Victor> Já tivesse alguma notícia da bolsa de doutorado
+2014-05-09 16:55:53 <Dayvid Victor> ?
+2014-05-09 16:56:35 <Leonardo Valeriano> Ainda n vei
+2014-05-09 16:57:01 <Leonardo Valeriano> Tu acha que vão sair mais bolsas?
+2014-05-09 17:00:38 <Dayvid Victor> bem, eu não sei!
+2014-05-09 17:00:52 <Dayvid Victor> Eu só sei que eu só vou esperar até esse semestre, se não sair eu vou trancar o doutorado!
+2014-05-09 17:00:59 <Dayvid Victor> e vou trabalhar 8h!
+2014-05-09 17:01:01 <Leonardo Valeriano> Eu tô achando que já acabou.
+2014-05-09 17:03:21 <Dayvid Victor> Disseram que iria sair mais esse mês, na primeira semana, mas dai não saiu nada
+2014-05-09 17:04:29 <Leonardo Valeriano> Mais acompanhado do plural bolsas? ☺
+2014-05-09 17:04:39 <Leonardo Valeriano> Hehehe
+2014-05-09 17:06:06 <Dayvid Victor> Hauahau
+2014-05-09 17:06:10 <Dayvid Victor> Rapaz, nem sei
+2014-05-09 17:06:21 <Dayvid Victor> Olha, quando abhebte vai pra o Udon?
+2014-05-09 17:30:32 <Leonardo Valeriano> Bora marcar semana que vem.
+2014-05-09 17:31:25 <Dayvid Victor> Ok
+2014-05-27 10:39:58 <Dayvid Victor> Leo
+2014-05-27 10:40:02 <Dayvid Victor> Tas por aí?
+2014-06-03 22:20:25 <Dayvid Victor> Leo
+2014-06-03 22:20:31 <Dayvid Victor> Liberaram mais bolsas
+2014-06-03 22:20:36 <Dayvid Victor> Recebesse?
+2014-06-03 22:21:06 <Leonardo Valeriano> Recebi sim
+2014-06-03 22:21:22 <Leonardo Valeriano> Tem que preencher tudo amanhã.
+2014-06-03 22:21:37 <Dayvid Victor> É, eu tbm
+2014-06-03 22:21:40 <Leonardo Valeriano> Tem que ir no cartório
+2014-06-03 22:21:49 <Leonardo Valeriano> Reconhecer firma.
+2014-06-03 22:21:59 <Dayvid Victor> Eu vou preencher tudo amanha de manha e reconhecer firma
+2014-06-03 22:22:05 <Dayvid Victor> Atualizar o lattes
+2014-06-03 22:22:51 <Dayvid Victor> E de tarde entrego a documrnt. Acho que vou gastar o dia todo ...
+2014-06-03 22:23:17 <Leonardo Valeriano> N pow. Faz tudo hj
+2014-06-03 22:23:44 <Leonardo Valeriano> Reconhece no Cartório amanhã de manhã
+2014-06-03 22:24:10 <Leonardo Valeriano> Vou fazer logo pra n esquecer.
+2014-06-03 22:30:22 <Dayvid Victor> hu...melhor
+2014-06-03 22:30:29 <Dayvid Victor> olha, aí na atualização do lattes
+2014-06-03 22:30:37 <Dayvid Victor> a gente já tem que adicionar bolsista é?
+2014-06-03 22:31:09 <Leonardo Valeriano> N n.
+2014-06-03 22:31:16 <Leonardo Valeriano> N pode ter nada.
+2014-06-03 22:31:32 <Dayvid Victor> hum...ok
+2014-06-03 22:31:48 <Dayvid Victor> já atualizei o lattes, agor aé só preencher esse formulário e o termo de compromisso!
+2014-06-03 22:32:29 <Leonardo Valeriano> Vou correr pra resolver o assunto na empresa.
+2014-06-03 22:32:59 <Leonardo Valeriano> Tenho que migrar pra PJ
+2014-06-03 22:33:40 <Leonardo Valeriano> eu vou receber os benefícios no pagamento (inss e fgts)
+2014-06-03 22:33:59 <Dayvid Victor> hum...os caras já aceitaram isso já?
+2014-06-03 22:35:46 <Leonardo Valeriano> Tô conversando com o chefe.
+2014-06-03 22:36:00 <Leonardo Valeriano> Esperando a resposta dele
+2014-06-03 22:36:32 <Dayvid Victor> no campo
+2014-06-03 22:36:36 <Dayvid Victor> obtenção de título
+2014-06-03 22:36:40 <Dayvid Victor> tu colocasse oq?
+2014-06-03 22:36:43 <Dayvid Victor> (que data?)
+2014-06-03 22:36:48 <Dayvid Victor> porque a gente ainda não recebeu o título
+2014-06-03 22:37:06 <Dayvid Victor> (do mestrado(
+2014-06-03 22:37:07 <Dayvid Victor> )
+2014-06-03 22:42:54 <Leonardo Valeriano> Mas tem o comprovante de defesa e o comprovante de matrícula do doutorado.
+2014-06-03 22:43:06 <Dayvid Victor> Então, tu colocasse qual data?
+2014-06-03 22:43:09 <Leonardo Valeriano> Pega o teu na secretaria.
+2014-06-03 22:43:20 <Leonardo Valeriano> 21 de fevereiro.
+2014-06-03 22:43:31 <Dayvid Victor> ah, o dia da defesa, neh?
+2014-06-03 22:43:38 <Leonardo Valeriano> Dia que tá escrito na ata.
+2014-06-03 22:43:41 <Leonardo Valeriano> É
+2014-06-03 22:43:42 <Dayvid Victor> ok
+2014-06-03 22:43:56 <Dayvid Victor> O problema é que Ricardo ainda não enviou o email pra secrearia, aprovando meu trabalho
+2014-06-03 22:44:01 <Dayvid Victor> ele já aprovou mais não mandou email
+2014-06-03 22:44:06 <Dayvid Victor> aí eu não sei se tem problema
+2014-06-03 22:44:50 <Leonardo Valeriano> hum. Mas n precisa disso né? É só preencher a ficha e levar o comprovante de matrícula
+2014-06-03 22:45:25 <Dayvid Victor> verdade
+2014-06-03 22:45:44 <Dayvid Victor> onde diz quais os documentos que eu preciso levar?
+2014-06-03 22:46:35 <Leonardo Valeriano> Tem uns anexos.
+2014-06-03 22:46:55 <Dayvid Victor> Eu vi, mas nos anexos não vi dizendo nada específico de quais documentos levar!
+2014-06-03 22:47:19 <Leonardo Valeriano> Tem po..
+2014-06-03 22:48:02 <Dayvid Victor> no meu não tem não!
+2014-06-03 22:51:11 <Leonardo Valeriano> Na carta aos bolsistas.
+2014-06-03 22:51:21 <Leonardo Valeriano> Tem dizendo lá.
+2014-06-03 22:53:49 <Leonardo Valeriano> Tu respondeu o email?
+2014-06-03 22:54:22 <Leonardo Valeriano> Ele tava com cópia pra Tsang.  Respondi pra ele tbm.
+2014-06-03 22:54:31 <Leonardo Valeriano> ^_^;;
+2014-06-03 22:54:37 <Dayvid Victor> Reepondi sim, pra todos!
+2014-06-03 22:55:09 <Dayvid Victor> Ei, ca narta aos bolsistas? Eu não to vendo isso aqui no meu não? Pede titulo de eleitorz alistamento ... ?
+2014-06-04 23:54:49 <Leonardo Valeriano> Dayvid
+2014-06-04 23:54:57 <Leonardo Valeriano> dá uma luz se tu puder
+2014-06-04 23:55:08 <Leonardo Valeriano> nesse negócio de PJ
+2014-06-04 23:55:43 <Leonardo Valeriano> eu procurei aqui mas n entendi nem os passos que tenho que seguir pra conseguir isso
+2014-06-05 04:14:03 <Dayvid Victor> Pra abrir um PJ?
+2014-06-05 04:14:37 <Dayvid Victor> Eu amanhã peço pra a pessoa lá da empreja
+2014-06-05 04:14:43 <Dayvid Victor> Que saca dessa parte
+2014-06-05 04:14:56 <Dayvid Victor> Falar contigo
+2014-06-05 04:15:01 <Dayvid Victor> :)
+2014-06-05 15:50:48 <Leonardo Valeriano> Vlw grande
+2014-06-05 15:51:02 <Leonardo Valeriano> olha, tu tava procurando por grafos
+2014-06-05 15:51:40 <Leonardo Valeriano> pra fazer aquele sistema de recomendação?
+2014-06-05 15:51:48 <Leonardo Valeriano> eu achei um paper massa
+2014-06-05 15:51:54 <Leonardo Valeriano> research.microsoft.com/pubs/210256/kiciman-icwsm-discussiongraphs_final.pdf
+2014-06-05 15:52:08 <Leonardo Valeriano> agora em jun/14
+2014-06-05 15:52:25 <Dayvid Victor> vlw ei
+2014-06-05 15:52:27 <Dayvid Victor> vei*
+2014-06-05 15:52:33 <Dayvid Victor> mas agora já passou o prazo
+2014-06-05 15:52:33 <Dayvid Victor> hehe
+2014-06-05 15:52:38 <Leonardo Valeriano> hum
+2014-06-05 15:52:46 <Leonardo Valeriano> mas ele é massa
+2014-06-05 15:54:00 <Leonardo Valeriano> tem muita parada massa da microsoft de Social Media
+2014-06-05 15:54:08 <Leonardo Valeriano> http://research.microsoft.com/apps/pubs/default.aspx?id=204503
+2014-06-05 15:54:35 <Leonardo Valeriano> aqui tem outros grupos tbm:
+2014-06-05 15:54:47 <Leonardo Valeriano> http://research.microsoft.com/en-us/research/default.aspx
+2014-06-05 15:55:39 <Dayvid Victor> vlw, vou dar uma sacada!
+2014-06-05 15:55:44 <Leonardo Valeriano> recebesse aquele email do CNpQ
+2014-06-05 15:55:50 <Leonardo Valeriano> ?
+2014-06-05 15:56:23 <Dayvid Victor> Não
+2014-06-05 15:56:24 <Dayvid Victor> e tu?
+2014-06-05 15:56:30 <Leonardo Valeriano> tbm n
+2014-06-05 15:56:32 <Leonardo Valeriano> :P
+2014-06-06 15:16:19 <Dayvid Victor> Ei, so pra tu saber, esse cheque nao e meu nao, nem da empresa. E de um cliente, dai a gente combinou que eu nao poderia tirar do caixa da empresa, sacaria diretamente, por isso dicou assim!
+2014-06-06 17:04:27 <Leonardo Valeriano> blz
+2014-06-06 17:04:28 <Leonardo Valeriano> :)
+2014-06-09 15:04:16 <Dayvid Victor> Leo, onde tu levasse a dissetaçao para fazer a revisão?
+2014-06-09 15:04:30 <Dayvid Victor> Eu quero levar amanha cedo
+2014-06-09 15:04:32 <Leonardo Valeriano> foi no CCEN
+2014-06-09 15:04:42 <Leonardo Valeriano> pega a direita
+2014-06-09 15:04:44 <Dayvid Victor> Mas onde no ccen
+2014-06-09 15:04:58 <Leonardo Valeriano> tem uma sala de vidro lá
+2014-06-09 15:05:20 <Dayvid Victor> Blz, vou colovat no rise e levar amanha
+2014-06-09 15:05:29 <Dayvid Victor> Em qual andar?
+2014-06-09 15:05:31 <Leonardo Valeriano> blz
+2014-06-09 15:05:40 <Leonardo Valeriano> na biblioteca pow
+2014-06-09 15:05:47 <Dayvid Victor> Ah, blz
+2014-06-09 15:05:55 <Leonardo Valeriano> pega a direita na sala de vidro
+2014-06-09 15:07:07 <Dayvid Victor> Blz, oa, tem que mandat fazet a capa por fora, ne?
+2014-06-09 15:08:11 <Leonardo Valeriano> n
+2014-06-09 15:08:30 <Leonardo Valeriano> tem uma capinha na secretaria do CIn
+2014-06-09 15:08:46 <Leonardo Valeriano> tem que mandar encadernar
+2014-06-09 15:09:34 <Dayvid Victor> Hum...ok
+2014-06-09 15:17:23 <Dayvid Victor> Mas tipo, na hora de levar la na sala de vidro, ja ftem que estar com essa capinha é?
+2014-06-09 15:17:40 <Dayvid Victor> Ou essa capa é só na binlioteca?
+2014-06-09 15:17:42 <Leonardo Valeriano> n n
+2014-06-09 15:17:52 <Leonardo Valeriano> é só pra biblioteca central
+2014-06-09 15:18:04 <Leonardo Valeriano> tem que tá tudo encadernado e tal
+2014-06-09 15:18:16 <Leonardo Valeriano> e são duas cópias encadernadas
+2014-06-09 15:18:19 <Dayvid Victor> Tu vai levar quando na biblioteca central?
+2014-06-09 15:18:33 <Leonardo Valeriano> tem que ver a colação ná
+2014-06-09 15:18:36 <Leonardo Valeriano> *né?
+2014-06-09 15:18:48 <Dayvid Victor> Pois é tem que aer essa semana
+2014-06-09 15:19:32 <Leonardo Valeriano> vixe
+2014-06-09 15:19:44 <Leonardo Valeriano> tá o bixo meu véi
+2014-06-09 15:19:52 <Leonardo Valeriano> essa semana tá tenso
+2014-06-09 15:21:16 <Leonardo Valeriano> a próxima colação vai ser quando
+2014-06-09 15:21:17 <Leonardo Valeriano> ?
+2014-06-09 15:21:22 <Dayvid Victor> Pois eh
+2014-06-09 15:21:33 <Dayvid Victor> Tem problema de xolar grau na proxima vez?
+2014-06-09 15:21:38 <Leonardo Valeriano> n
+2014-06-09 15:21:40 <Dayvid Victor> Semestre
+2014-06-09 15:21:50 <Leonardo Valeriano> se n entrega, n tem diploma
+2014-06-09 15:21:52 <Leonardo Valeriano> :)
+2014-06-09 15:22:06 <Leonardo Valeriano> só quando entregar vai sair diploma
+2014-06-09 16:10:19 <Dayvid Victor> Entendi
+2014-06-10 18:40:52 <Dayvid Victor> Ei leo, a banca toda tem que assinar é?
+2014-06-10 18:41:03 <Dayvid Victor> E o cara que é de fora? (Sem ser da UFPE?, lascou!)
+2014-06-10 18:41:29 <Leonardo Valeriano> n pow
+2014-06-10 18:41:43 <Leonardo Valeriano> essa folha já está assinada
+2014-06-10 18:41:52 <Dayvid Victor> ah ... massa!
+2014-06-10 18:41:58 <Dayvid Victor> E onde eu pego essas duas folhas?
+2014-06-10 18:42:22 <Leonardo Valeriano> a ficha catalográfica é na biblioteca do CCEN
+2014-06-10 18:42:43 <Leonardo Valeriano> e a página da banca é na secretaria da pós
+2014-06-10 18:42:48 <Dayvid Victor> hum...ok
+2014-06-10 18:42:57 <Dayvid Victor> Olha, + uma coisa ... tu ajeitasse aquela para da 'Table'?
+2014-06-10 18:43:04 <Dayvid Victor> no lugar de 'Tabela'
+2014-06-10 18:43:04 <Dayvid Victor> ?
+2014-06-10 18:43:12 <Leonardo Valeriano> ajeitei
+2014-06-10 18:43:18 <Dayvid Victor> como é?
+2014-06-10 18:43:30 <Leonardo Valeriano> vi agora que no topo da pág. tem CHAPTER
+2014-06-10 18:43:35 <Leonardo Valeriano> vou ter que ajeitar
+2014-06-10 18:43:45 <Leonardo Valeriano> eu fiz na classe rise.cls
+2014-06-10 18:43:58 <Leonardo Valeriano> na tora
+2014-06-10 18:44:06 <Dayvid Victor> po vei, manda pra mim esse teu arquivo!
+2014-06-10 18:45:09 <Dayvid Victor> ( na minha versão não aparece essa palavra CHAPTER, apenas o nome do capítulo)
+2014-06-10 18:45:22 <Leonardo Valeriano> hum
+2014-06-10 18:45:35 <Leonardo Valeriano> o meu aparece CHAPTER: <nome>
+2014-06-10 18:45:43 <Dayvid Victor> É, eu vi o teu aqui
+2014-06-10 18:45:45 <Leonardo Valeriano> tem que botar capítulo
+2014-06-10 18:46:08 <Dayvid Victor> Mas o que eu queria fazer era colocar o Tabela e o Figura
+2014-06-10 18:46:17 <Dayvid Victor> já era pra estar traduzido, pois tem lá no gdef
+2014-06-10 18:46:35 <Dayvid Victor> (no que tu mandasse pra mim e pra pedro)
+2014-06-10 18:47:01 <Leonardo Valeriano> é, eu achei estranho
+2014-06-10 18:47:11 <Leonardo Valeriano> acho que tem uns bugs nessa classe
+2014-06-10 18:47:24 <Leonardo Valeriano> eu saí tirando tudo que era inglês
+2014-06-10 18:47:35 <Leonardo Valeriano> e botei em português
+2014-06-10 18:47:47 <Leonardo Valeriano> referente a tabelas e figuras
+2014-06-10 18:51:47 <Dayvid Victor> eu coloquei agora, mas essa merda não tá funcionando não
+2014-06-10 18:51:48 <Dayvid Victor> !
+2014-06-10 18:58:40 <Leonardo Valeriano> mandei a classe
+2014-06-10 19:01:29 <Dayvid Victor> po vei, coloquei essa tua classe, o bixo não pegou não!
+2014-06-10 19:02:01 <Leonardo Valeriano> é tenso
+2014-06-10 19:02:08 <Leonardo Valeriano> o que foi que deu?
+2014-06-10 19:02:20 <Dayvid Victor> nada, continuou a mesma coisa
+2014-06-10 19:02:31 <Dayvid Victor> Agora, essa tua não tá em portugues tudo não, visse?
+2014-06-10 19:03:25 <Dayvid Victor> Oa, tu vais lá pro CIn amanhã?
+2014-06-10 19:03:43 <Leonardo Valeriano> rapaz
+2014-06-10 19:03:45 <Leonardo Valeriano> vou n
+2014-06-10 19:05:54 <Dayvid Victor> Tu vai entregar tua dissertação quando?
+2014-06-10 19:06:01 <Dayvid Victor> Na biblioteca?
+2014-06-10 19:06:31 <Leonardo Valeriano> Pô bixo
+2014-06-10 19:06:43 <Leonardo Valeriano> tá meio apertada essa semana
+2014-06-10 19:06:57 <Dayvid Victor> Eu liguei pra secretaria
+2014-06-10 19:07:01 <Dayvid Victor> se não entregar tudo essa semana
+2014-06-10 19:07:05 <Dayvid Victor> até meio dia da sexta
+2014-06-10 19:07:13 <Dayvid Victor> só no final do ano (ou inicio do ano que vem)
+2014-06-10 19:34:50 <Leonardo Valeriano> pô
+2014-06-10 19:34:56 <Leonardo Valeriano> é o jeito...
+2014-06-10 19:35:04 <Dayvid Victor> pois é
+2014-06-10 19:35:06 <Dayvid Victor> e o pior é que
+2014-06-10 19:35:13 <Dayvid Victor> tá uma confusão do caramba na thread lá
+2014-06-10 19:35:25 <Dayvid Victor> parece que não precisa ter tabela de figuras ...
+2014-06-10 20:04:07 <Leonardo Valeriano> hum
+2014-06-10 20:04:45 <Dayvid Victor> Da uma olhada naquela thread
+2014-06-11 16:34:51 <Dayvid Victor> Leo
+2014-06-11 16:34:53 <Dayvid Victor> tas online?
+2014-06-11 21:44:47 <Dayvid Victor> Lro
+2014-06-11 21:44:56 <Dayvid Victor> Desistisse de colar grau agora foi?
+2014-06-12 00:57:21 <Leonardo Valeriano> Rapaz, é que essa semana tá corrida d+
+2014-06-12 00:58:14 <Leonardo Valeriano> Tá muito tenso, o produto vai usar a Copa como teste. Tem que correr atrás de muita coisa.
+2014-06-12 00:58:40 <Leonardo Valeriano> Acho que só final de ano mesmo.
+2014-08-03 11:47:07 <Dayvid Victor> Léo, vais colocar quais cadeiras?
+2014-08-03 11:47:09 <Dayvid Victor> Eu vou colocar a de George, combinação de Classificadores, bora?
+2014-08-03 12:07:02 <Leonardo Valeriano> bora
+2014-08-03 12:07:16 <Leonardo Valeriano> mas qual o nome dela no Sig@
+2014-08-03 12:15:38 <Dayvid Victor> rapaz, sei não, eu tô sem entrar no siga
+2014-08-03 12:15:51 <Dayvid Victor> Vou no CIn amanhã pra redefinir minha senha
+2014-08-03 12:25:47 <Leonardo Valeriano> hum
+2014-08-03 12:26:02 <Leonardo Valeriano> eu procurei lá
+2014-08-03 12:26:07 <Leonardo Valeriano> mas n achei
+2014-08-03 12:47:58 <Dayvid Victor> Tinha na prematricula
+2014-08-03 12:48:07 <Dayvid Victor> Quando eu ver amanhã eu te digo!
+2014-08-03 12:48:13 <Dayvid Victor> Tu vais pagar mais quad
+2014-08-03 12:48:17 <Dayvid Victor> Qual?
+2014-08-03 12:49:23 <Leonardo Valeriano> acho que só essa dele
+2014-08-03 12:49:38 <Leonardo Valeriano> tu já dispensou as cadeiras do mestrado?
+2014-08-03 12:52:50 <Dayvid Victor> Ainda não
+2014-08-03 12:52:59 <Dayvid Victor> Vou ver como faz pra ver isso
+2014-08-03 12:53:17 <Dayvid Victor> Vou dispensar estatística, eng de software
+2014-08-03 12:53:28 <Dayvid Victor> E uma das de ruy
+2014-08-03 12:53:41 <Dayvid Victor> Hi que vou pagar uma dessas de rua agora
+2014-08-03 12:54:51 <Leonardo Valeriano> hum
+2014-08-03 12:55:01 <Leonardo Valeriano> só precisa de 6 né?
+2014-08-03 12:55:09 <Dayvid Victor> Isso, que eh saiba sim
+2014-08-03 12:55:16 <Leonardo Valeriano> eu já paguei duas nesse semestre
+2014-08-03 12:55:26 <Dayvid Victor> + seminário! Pagasse quais?
+2014-08-03 12:55:27 <Leonardo Valeriano> pago mais uma e dispenso 3
+2014-08-03 12:55:43 <Leonardo Valeriano> seminários + trabalho individual
+2014-08-03 12:55:57 <Dayvid Victor> Ah,  eu tem mas seminários não xonga
+2014-08-03 12:56:01 <Dayvid Victor> Conta
+2014-08-03 12:56:11 <Dayvid Victor> É obrigatória
+2014-08-03 12:56:35 <Leonardo Valeriano> com é:
+2014-08-03 12:56:39 <Leonardo Valeriano> *?
+2014-08-03 12:56:52 <Leonardo Valeriano> ela é sempre obrigatória?
+2014-08-03 12:57:05 <Leonardo Valeriano> mas eu já paguei mesmo
+2014-08-03 12:57:08 <Leonardo Valeriano> :)
+2014-08-03 12:57:14 <Leonardo Valeriano> n ia dispensar
+2014-08-03 12:57:40 <Leonardo Valeriano> eu vou dispensar estatística, aprendizagem e eng. soft
+2014-08-05 13:08:02 <Leonardo Valeriano> Ei Dayvid
+2014-08-05 13:08:07 <Dayvid Victor> Fala leo
+2014-08-05 13:08:09 <Leonardo Valeriano> se matriculasse em algo?
+2014-08-05 13:08:19 <Dayvid Victor> Ainda não, eu to numa situação complicada
+2014-08-05 13:08:29 <Dayvid Victor> porque a que eu quero só vai ser incluida no período de modificação
+2014-08-05 13:08:31 <Leonardo Valeriano> acho que tem que botar uma fake pra acessar o período de modificação
+2014-08-05 13:08:35 <Leonardo Valeriano> eu tbm
+2014-08-05 13:08:41 <Leonardo Valeriano> é a de George
+2014-08-05 13:08:43 <Dayvid Victor> Tópicos Avançados em Inteligência Computacional 2 ("Sistemas de Múltiplos Classificadores")
+2014-08-05 13:08:46 <Dayvid Victor> é, vai ser massa
+2014-08-05 13:08:51 <Dayvid Victor> vai ser modelo seminário, tas ligado?
+2014-08-05 13:08:53 <Leonardo Valeriano> eu acho que boto Visão e depois tiro
+2014-08-05 13:08:59 <Leonardo Valeriano> hum
+2014-08-05 13:09:06 <Leonardo Valeriano> tipo, estuda e apresenta
+2014-08-05 13:09:07 <Leonardo Valeriano> ?
+2014-08-05 13:09:22 <Dayvid Victor> Mais ou menos
+2014-08-05 13:09:35 <Dayvid Victor> Os alunos dele (eu entre eles) vão ministrar algunas aulas específicas
+2014-08-05 13:09:50 <Dayvid Victor> daí vai ter discussão, e no final do período uma prova ou projeto (ele ainda não definiu isso)
+2014-08-05 13:11:40 <Leonardo Valeriano> hum
+2014-08-05 13:11:42 <Leonardo Valeriano> massa
+2014-08-05 13:11:49 <Leonardo Valeriano> eu vou participar
+2014-08-05 13:12:01 <Leonardo Valeriano> vou esperar Edna responder
+2014-08-05 13:12:04 <Dayvid Victor> Eu tbm!
+2014-08-05 13:12:06 <Dayvid Victor> ainda tem tempo!
+2014-08-05 13:12:11 <Leonardo Valeriano> se demorar muito, boto Visão
+2014-08-05 13:12:22 <Leonardo Valeriano> depois tiro na modificação
+2014-08-05 13:13:55 <Dayvid Victor> é, eu tbm!
+2014-09-15 16:34:54 <Dayvid Victor> Léo, a aula começa amanhã
+2014-09-15 18:25:35 <Leonardo Valeriano> Massa
+2014-09-16 00:32:27 <Leonardo Valeriano> e aew
+2014-09-16 00:32:32 <Leonardo Valeriano> :)
+2014-09-16 00:32:44 <Dayvid Victor> ae
+2014-09-16 00:32:45 <Leonardo Valeriano> de que horas é a aula amanhã?
+2014-09-16 00:32:58 <Dayvid Victor> 10h
+2014-09-16 00:33:03 <Leonardo Valeriano> hum
+2014-09-16 00:33:05 <Leonardo Valeriano> massa
+2014-09-16 00:33:15 <Leonardo Valeriano> tava precisando dormir
+2014-09-16 00:33:40 <Dayvid Victor> hruauhrsa, blz!
+2014-09-16 00:33:43 <Dayvid Victor> tá lá no siga po!
+2014-09-16 00:34:01 <Leonardo Valeriano> é pra evitar a fadiga
+2014-09-16 00:37:54 <Dayvid Victor> blz!
+2014-09-16 00:37:58 <Dayvid Victor> então vamo nessa!
+2014-09-16 00:37:59 <Dayvid Victor> flwz
+2014-09-16 00:38:09 <Leonardo Valeriano> flwz
+2014-09-16 09:46:25 <Leonardo Valeriano> Qual é a sala Dayvid?
+2014-09-16 09:47:06 <Dayvid Victor> Vai ser a na frente do aquário
+2014-09-16 09:47:32 <Dayvid Victor> Tas chegando?
+2014-09-16 10:09:12 <Dayvid Victor> Na frente do aquário da BlackBerry
+2014-09-16 17:53:13 <Dayvid Victor> leo, tas online
+2014-09-16 17:54:32 <Leonardo Valeriano> oi
+2014-09-16 17:54:58 <Dayvid Victor> nada não, já resolvi com Denys!
+2014-09-16 17:54:59 <Dayvid Victor> vlwz
+2014-09-16 17:55:04 <Leonardo Valeriano> hehehehe
+2014-09-16 17:55:07 <Leonardo Valeriano> blz
+2014-09-16 17:55:10 <Leonardo Valeriano> flwz
+2014-10-07 10:38:23 <Leonardo Valeriano> Ei Dayvid,
+2014-10-07 10:38:29 <Leonardo Valeriano> Hj teve aula?
+2014-10-07 11:03:29 <Dayvid Victor> Não car, George tá viajando
+2014-10-07 11:03:39 <Leonardo Valeriano> blz
+2014-10-07 11:03:46 <Leonardo Valeriano> vlw
+2014-11-04 08:18:54 <Dayvid Victor> Léo, tas aí?
+2014-11-04 08:59:12 <Leonardo Valeriano> Tô sim.
+2014-11-04 08:59:18 <Leonardo Valeriano> Vai ter aula?
+2014-11-04 08:59:45 <Dayvid Victor> Vai,
+2014-11-04 08:59:49 <Leonardo Valeriano> Já tô no caminho.
+2014-11-04 08:59:58 <Dayvid Victor> Oa, tua bolsa já entrou esse mês?
+2014-11-04 09:00:16 <Leonardo Valeriano> Ainda n vi.
+2014-11-04 09:00:50 <Leonardo Valeriano> Mas entra até dia 5 acredito.
+2014-11-04 09:08:44 <Dayvid Victor> Eu pensei que fosse dia 4, ia comprar uma parada  hoje, mas acho que vou deixar pra amanhã então
+2014-11-04 09:38:19 <Leonardo Valeriano> Compra no crédito. ☺
+2014-11-04 16:07:22 <Dayvid Victor> Eu não!  :P
+2015-03-31 10:27:59 <Dayvid Victor> Leo
+2015-03-31 10:28:04 <Dayvid Victor> quais os dias que tu vvem no CIn?
+2015-03-31 10:30:37 <Leonardo Valeriano> hoje e quinta
+2015-03-31 10:30:55 <Leonardo Valeriano> tu vai quando?
+2015-04-06 11:21:51 <Leonardo Valeriano> grande Dayvid
+2015-04-06 11:22:04 <Leonardo Valeriano> parabéns atrasado cara!
+2015-04-06 11:22:06 <Leonardo Valeriano> :)
+2015-04-06 11:22:11 <Dayvid Victor> valeu Lheo! =]
+2015-04-06 11:22:31 <Leonardo Valeriano> Felicidades e sucesso!
+2016-05-23 12:58:06 <Leonardo Valeriano> Ei Dayvid
+2016-05-23 12:58:15 <Leonardo Valeriano> Já visse essa:
+2016-05-23 12:58:29 <Leonardo Valeriano> LIBOL: A Library for Online Learning Algorithms
+2016-05-23 12:58:49 <Dayvid Victor> conhecia nao
+2016-05-23 12:59:00 <Leonardo Valeriano> https://www.mendeley.com/catalog/libol-library-online-learning-algorithms/
+2016-05-23 12:59:48 <Leonardo Valeriano> O Cara tem uma publicação fuderosa só com implementação das técnicas mais recentes e a API
+2016-05-23 13:00:02 <Dayvid Victor> massa
+2016-05-23 13:00:07 <Dayvid Victor> essa é a mesma publicação
+2016-05-23 13:00:14 <Dayvid Victor> o mesmo jounral*
+2016-05-23 13:00:16 <Dayvid Victor> do scikit-learn
+2016-05-23 13:00:20 <Dayvid Victor> e do scikit-image
+2016-05-23 13:00:32 <Dayvid Victor> eu pretendo publicar lá depois
+2016-05-23 13:00:36 <Dayvid Victor> o negocio é fazer API
+2016-05-23 13:00:40 <Leonardo Valeriano> hahahaha
+2016-05-23 13:00:46 <Leonardo Valeriano> bote fé 
+2016-05-23 13:00:58 <Leonardo Valeriano> se a proposta não dá certo tem a API
+2016-05-23 13:01:01 <Leonardo Valeriano> XD
+2016-05-23 13:02:28 <Leonardo Valeriano> Vê a linha de pesquisa da galera
+2016-05-23 13:02:29 <Leonardo Valeriano> https://www.mendeley.com/catalog/recent-advances-asr-applied-arabic-transcription-system-aljazeera/
+2016-05-23 13:03:18 <Dayvid Victor> hahaha
+2016-05-23 13:03:28 <Dayvid Victor> caramba
+2016-05-23 13:03:30 <Dayvid Victor> se garantem
+2016-05-23 13:03:34 <Dayvid Victor> oa
+2016-05-23 13:03:36 <Dayvid Victor> como tá tua proposta?
+2016-05-23 13:03:42 <Dayvid Victor> já falasse com tsang sobre marcar a defesa?
+2016-05-23 13:18:45 <Leonardo Valeriano> Rapaz
+2016-05-23 13:19:03 <Leonardo Valeriano> ele tá pressionando, pq esse mês eu n entreguei nada a ela
+2016-05-23 13:19:08 <Leonardo Valeriano> tá tudo em andamento
+2016-05-23 13:19:19 <Leonardo Valeriano> mas ainda n concluí com os experimentos
+2016-05-23 13:19:27 <Leonardo Valeriano> ele quer com experimentos
+2016-05-23 13:24:57 <Dayvid Victor> tlg
+2016-05-23 13:25:00 <Dayvid Victor> george nao quer com experimentos
+2016-05-23 13:25:07 <Dayvid Victor> mas tá cobrando a escrita nível alto
+2016-05-23 13:25:10 <Dayvid Victor> preferia experimentos
+2016-05-23 13:25:10 <Dayvid Victor> rs
+2016-05-23 13:25:17 <Dayvid Victor> mas eu to ficando com medo vei
+2016-05-23 13:25:20 <Leonardo Valeriano> tô ligado
+2016-05-23 13:25:23 <Leonardo Valeriano> ahaauhaua
+2016-05-23 13:25:25 <Dayvid Victor> amanhã tenho uma reunião com ele
+2016-05-23 13:25:25 <Leonardo Valeriano> tbm
+2016-05-23 13:25:52 <Leonardo Valeriano> tsang quer com tudo, proposta, experimentos e trabalhos futuros
+2016-05-23 13:26:02 <Leonardo Valeriano> mas esse mês tá a desgraça
+2016-05-23 13:26:02 <Dayvid Victor> deu capeste
+2016-05-23 13:26:06 <Dayvid Victor> ou seja, é o doutorado haha
+2016-05-23 13:26:09 <Dayvid Victor> pois é vei
+2016-05-23 13:26:13 <Dayvid Victor> mas depois do teu casamento
+2016-05-23 13:26:16 <Leonardo Valeriano> casamento, apartamento, viagem
+2016-05-23 13:26:17 <Dayvid Victor> as coisas melhoram
+2016-05-23 13:26:19 <Dayvid Victor> pois é
+2016-05-23 13:26:40 <Leonardo Valeriano> tô correndo mais que ayrton senna
+2016-05-23 13:26:55 <Dayvid Victor> haha
+2016-05-23 13:27:00 <Dayvid Victor> e o trabalho, como tá?
+2016-05-23 13:27:01 <Leonardo Valeriano> 😧
+2016-05-23 13:27:10 <Leonardo Valeriano> o trabalho tá indo bem
+2016-05-23 13:27:26 <Leonardo Valeriano> finalizamos uma proposta pra GE (General Eletrics)
+2016-05-23 13:27:34 <Leonardo Valeriano> e eles tão avaliando
+2016-05-23 13:27:41 <Leonardo Valeriano> eu tô na FITec agora
+2016-05-23 13:29:07 <Dayvid Victor> legal
+2016-05-23 13:29:21 <Dayvid Victor> tu vai pro CIn de que horas?
+2016-05-23 13:30:08 <Leonardo Valeriano> hoje eu chego de 17h
+2016-05-23 13:30:17 <Leonardo Valeriano> e fico até perto de 0h
+2016-05-23 13:30:53 <Leonardo Valeriano> hoje eu cheguei tarde.. qnd chego cedo, vou para o Cin de 15h
+2016-05-23 13:32:14 <Dayvid Victor> amanhã tem uma palestra do pessoal da in loco media
+2016-05-23 13:32:17 <Dayvid Victor> os caras se garantiram
+2016-05-23 13:37:12 <Leonardo Valeriano> massa
+2016-05-23 13:37:21 <Leonardo Valeriano> eu tinha visto no email
+2016-05-23 13:37:45 <Leonardo Valeriano> eles vão falar de empreendedorismo, ou vagas de trabalho?
+2016-05-23 13:38:24 <Dayvid Victor> vagas
+2016-05-23 13:38:34 <Dayvid Victor> dá uma olhada no fb deles
+2016-05-23 13:38:37 <Dayvid Victor> tem um post lá sobre isso
+2016-05-23 13:43:49 <Leonardo Valeriano> blz
+2016-05-23 13:43:54 <Leonardo Valeriano> tu vai assistir
+2016-05-23 13:43:56 <Leonardo Valeriano> ?
+2016-05-23 13:48:34 <Dayvid Victor> é de 16:30
+2016-05-23 13:48:35 <Dayvid Victor> acho que sim
+2016-05-23 13:48:37 <Dayvid Victor> mas nao tenho certeza
+2016-05-23 13:49:57 <Leonardo Valeriano> massa
+2016-09-12 10:48:05 <Leonardo Valeriano> Ei Dayvid, tais aqui no CIn?
+2016-10-13 08:15:33 <Leonardo Valeriano> Bom dia Dayvid!
+2016-10-13 08:15:56 <Leonardo Valeriano> Tu vais pro Cin hj à tarde? Vou passar lá  pra pegar meu crachá
+2016-10-13 08:19:55 <Dayvid Victor> bora leo
+2016-10-13 08:19:59 <Dayvid Victor> vou hoje nao bicho
+2016-10-13 08:20:02 <Dayvid Victor> só sexta
+2016-10-13 08:20:07 <Dayvid Victor> e olhe lá rs
+2016-10-13 08:20:09 <Leonardo Valeriano> massa, de boas
+2016-10-13 08:20:11 <Leonardo Valeriano> ahhahaha
+2016-10-13 08:20:27 <Leonardo Valeriano> e esse periódico, tá escrevendo já?
+2016-10-13 08:20:32 <Dayvid Victor> haha to escrevendo
+2016-10-13 08:20:36 <Leonardo Valeriano> massa
+2016-10-13 08:20:49 <Leonardo Valeriano> vou correr tbm, se n n sai
+2016-10-13 08:21:06 <Leonardo Valeriano> ;P
+2016-10-13 08:21:19 <Dayvid Victor> pois é
+2016-10-13 08:21:23 <Dayvid Victor> george tá viajando
+2016-10-13 08:21:26 <Dayvid Victor> se eu noa andar logo
+2016-10-13 08:21:32 <Dayvid Victor> ele bota pra lascar em mim rs
+2016-10-13 08:21:36 <Leonardo Valeriano> heheheheh
+2016-10-13 08:21:55 <Leonardo Valeriano> Tsang tá offline, o pai dele tá muito mal
+2016-10-13 08:22:12 <Leonardo Valeriano> nem mando as coisas pra ele, tá meio pra baixo
+2016-10-13 08:30:17 <Dayvid Victor> :/
+2016-10-13 08:30:18 <Dayvid Victor> tlg
+2016-10-19 20:03:22 <Dayvid Victor> Leo
+2016-10-19 20:03:25 <Dayvid Victor> tu vai fazer o concurso do IF€
+2016-10-19 20:03:26 <Dayvid Victor> ?
+2016-10-19 20:03:29 <Dayvid Victor> IFPE*
+2016-10-19 20:03:57 <Leonardo Valeriano> Rapaz, n tava nem lembrado
+2016-10-19 20:04:06 <Dayvid Victor> eu fiz a inscrição, mas nao paguei
+2016-10-19 20:04:08 <Dayvid Victor> é até agora
+2016-10-19 20:04:11 <Dayvid Victor> acho que nao vou fazer nao
+2016-10-19 20:04:13 <Dayvid Victor> nao tenho tempo de estudar
+2016-10-19 20:04:38 <Leonardo Valeriano> Hum.. pois é. Tow com o periódico pra me preocupar
+2016-10-19 20:04:51 <Leonardo Valeriano> Vou ficar todo desorganizado
+2016-10-19 20:05:02 <Leonardo Valeriano> Pra pagar tbm é hj?
+2016-10-19 20:05:13 <Dayvid Victor> inscrição foi ontem
+2016-10-19 20:05:15 <Dayvid Victor> pagar é até hoje
+2016-10-19 20:06:08 <Leonardo Valeriano> Ah então já era. B-)
+2016-10-19 20:06:37 <Leonardo Valeriano> Se for fazer boa sorte. Amanhã eu vou pro CIn, sexta tbm.
+2016-10-19 20:06:54 <Dayvid Victor> eu vou sexta só
+2016-10-19 20:06:56 <Dayvid Victor> a gente se ve então
+2016-10-19 20:07:49 <Leonardo Valeriano> Blz. Podes almoçar por lá? Na sexta eu chego cedo.
+2016-10-19 20:08:08 <Dayvid Victor> nao sei, vai depender aqui
+2016-10-19 20:08:12 <Dayvid Victor> mas acho que dá
+2016-10-19 20:08:14 <Dayvid Victor> eu chego cedo tbm
+2016-10-19 20:08:16 <Dayvid Victor> tenho reunião as 10h
+2016-10-19 20:13:12 <Leonardo Valeriano> Massa. Nós vemos lá.

@@ -1,0 +1,153 @@
+﻿2017-04-19 08:34:19 <Omar Almeida> oi
+2017-04-19 08:46:55 <Leonardo Valeriano> Oi
+2017-04-19 09:28:18 <Omar Almeida> terminou
+2017-04-19 09:28:22 <Omar Almeida> tens pen drive aí?
+2017-04-24 07:35:51 <Omar Almeida> Leonardo
+2017-04-24 07:35:52 <Omar Almeida> bom dia
+2017-04-24 07:35:54 <Omar Almeida> tudo bom cara?
+2017-04-24 07:48:49 <Leonardo Valeriano> Tudo bom
+2017-04-24 07:49:00 <Leonardo Valeriano> Tá na Fitec?
+2017-04-24 07:49:51 <Omar Almeida> tou não, hoje tou de casa
+2017-04-24 07:49:55 <Omar Almeida> mas eu já falei com Flavio
+2017-04-24 07:50:06 <Omar Almeida> e ele já deu checkout no projeto da ericsson
+2017-04-24 07:50:08 <Omar Almeida> aí eu vou te mandr
+2017-04-24 07:50:12 <Leonardo Valeriano> Certo, é o que senta do teu lado?
+2017-04-24 07:50:20 <Omar Almeida> não não
+2017-04-24 07:50:20 <Leonardo Valeriano> massa
+2017-04-24 07:50:28 <Omar Almeida> relaxa que eu te passo  ☺
+2017-04-24 07:50:40 <Leonardo Valeriano> eu consegui terminar a tarefa do tomcat
+2017-04-24 07:50:45 <Leonardo Valeriano> blz
+2017-04-24 07:50:52 <Omar Almeida> tenta agora o postgresql
+2017-04-24 07:50:57 <Leonardo Valeriano> massa
+2017-04-24 07:50:59 <Omar Almeida> a versão 9.4 ou 9.5
+2017-04-24 07:51:03 <Omar Almeida> vê qual é que tem lá
+2017-04-24 07:51:09 <Omar Almeida> no usr/ports
+2017-04-24 07:51:28 <Omar Almeida> aí tu instala um pgadmin na tua máquina e tenta se conectar no banco
+2017-04-24 07:51:38 <Leonardo Valeriano> blz, vou fazer isso
+2017-04-24 07:51:56 <Omar Almeida> se for versão 9.3 não instala não
+2017-04-24 07:52:06 <Omar Almeida> temos um prerequisito que tem que ser a partir da 9.4
+2017-04-24 07:52:08 <Leonardo Valeriano> o pgadmin pra ficar remoto?
+2017-04-24 07:52:13 <Leonardo Valeriano> massa
+2017-04-24 07:52:15 <Omar Almeida> o pgadmin tu instala no windows
+2017-04-24 07:52:25 <Leonardo Valeriano> blz
+2017-04-24 07:52:30 <Omar Almeida> e tenta se conectar no psql do freebsd
+2017-04-24 07:53:36 <Leonardo Valeriano> blz
+2017-04-24 07:53:40 <Leonardo Valeriano> entendi 
+2017-04-24 07:53:54 <Leonardo Valeriano> qqr dúvida entro em contato contigo
+2017-04-24 07:53:59 <Omar Almeida> blza
+2017-04-24 07:54:04 <Omar Almeida> pode falar que eu vou estar aqui
+2017-04-24 07:54:11 <Omar Almeida> seria bom tbm tu instalar o skype
+2017-04-24 07:54:18 <Omar Almeida> pq a entrevista com a Ericsson vai ser via skype
+2017-04-24 07:54:28 <Leonardo Valeriano> certo, farei isso tbm
+2017-04-24 07:54:29 <Omar Almeida> existe uma versão nova de linux que é atualizada
+2017-04-24 07:54:37 <Omar Almeida> aquela antiga morreu
+2017-04-24 07:54:47 <Leonardo Valeriano> atualizada? vou checar isso
+2017-04-24 07:54:56 <Leonardo Valeriano> pois é, era muito louca
+2017-04-24 07:55:32 <Omar Almeida> https://www.skype.com/pt-br/download-skype/skype-for-linux/
+2017-04-24 07:55:41 <Omar Almeida> essa já é 64 bits
+2017-04-24 07:55:59 <Leonardo Valeriano> hum..
+2017-04-24 07:56:27 <Omar Almeida> quando tu instalar, meu usuário é: omarpta
+2017-04-24 07:56:29 <Leonardo Valeriano> olha, o postgres que eu preciso compilar é só o server
+2017-04-24 07:56:35 <Omar Almeida> é só o server
+2017-04-24 07:56:35 <Leonardo Valeriano> massa
+2017-04-24 07:59:33 <Leonardo Valeriano> já está compilando, depois é só seguir o mesmo roteiro do tomcat, corretro?
+2017-04-24 07:59:38 <Leonardo Valeriano> *correto
+2017-04-24 07:59:55 <Omar Almeida> isso
+2017-04-24 07:59:59 <Omar Almeida> tem que botar como serviço
+2017-04-24 08:00:04 <Omar Almeida> deixa eu te passar a config que usamos
+2017-04-24 08:01:44 <Omar Almeida> # PostgreSQL
+postgresql_enable="YES"
+postgresql_data="/var/lib/postgresql/9.4/main/data"
+postgresql_initdb_flags="--encoding=utf-8 --lc-collate=C"
+2017-04-24 08:01:50 <Omar Almeida> essa é a config que usamos
+2017-04-24 08:02:07 <Omar Almeida> depois te explico como criar um usuario
+2017-04-24 08:02:31 <Omar Almeida> e configurar o banco pra poder ficar acessível externamente
+2017-04-24 08:02:40 <Omar Almeida> vai anotando essas coisas hehehe  ☺
+2017-04-24 08:04:26 <Leonardo Valeriano> eu instalei o skype e te adicionei nos contatos
+2017-04-25 07:34:53 <Omar Almeida> e aí mano
+2017-04-25 07:34:56 <Omar Almeida> bom dia tudo bom?
+2017-04-25 07:54:15 *** Omar Almeida started a video chat
+2017-04-25 07:54:54 *** Omar Almeida ended a video chat
+2017-04-25 07:54:59 *** Omar Almeida started a video chat
+2017-04-25 07:55:27 <Omar Almeida> tá chegando a ligação aí mano?
+2017-04-25 07:56:45 *** Omar Almeida ended a video chat
+2017-04-25 08:03:22 *** Leonardo Valeriano started a video chat
+2017-04-25 08:04:02 <Omar Almeida> tou te ouvindo não
+2017-04-25 10:30:54 *** Leonardo Valeriano ended a video chat
+2017-04-26 08:45:30 <Omar Almeida> Bom Dia Leonardo
+2017-04-26 08:45:32 <Omar Almeida> blz?
+2017-04-26 09:17:26 <Leonardo Valeriano> Opa
+2017-04-26 09:17:30 <Leonardo Valeriano> Tudo bem sim
+2017-04-26 09:17:45 <Leonardo Valeriano> Eu tô dando build no baseproject
+2017-04-26 10:41:08 <Omar Almeida> massa
+2017-04-26 10:41:09 <Omar Almeida> e aí
+2017-04-26 10:41:13 <Omar Almeida> tá tudo sob controle?
+2017-04-26 11:57:11 <Leonardo Valeriano> N
+2017-04-26 11:57:35 <Leonardo Valeriano> algumas dependências do repositório da ericsson não estão baixando 
+2017-04-26 11:57:58 <Leonardo Valeriano> tenho que estar na rede da FITec pra baixar elas?
+2017-04-26 12:16:49 <Leonardo Valeriano> a parte que não está baixando é o project-rest 1.0.0
+2017-05-02 08:30:22 <Omar Almeida> oi Leonardo
+2017-05-02 08:30:23 <Omar Almeida> bom dia
+2017-05-02 08:30:24 <Omar Almeida> tudo bom?
+2017-05-02 11:58:02 <Leonardo Valeriano> Bom dia. Tô chegando de tarde aí
+2017-05-02 11:58:29 <Omar Almeida> blza, cara
+2017-05-02 13:48:46 <Omar Almeida> oi Leonardo
+2017-05-02 13:48:48 <Omar Almeida> boa tarde
+2017-05-02 13:48:49 <Omar Almeida> tudo bom?
+2017-05-02 13:54:37 <Leonardo Valeriano> tudo bom
+2017-05-02 13:54:45 <Leonardo Valeriano> tô aqui na FITec
+2017-05-02 13:56:59 <Omar Almeida> massa
+2017-05-02 13:57:20 <Omar Almeida> eu tou de casa, tais pronto para uma conversar comigo e Elenilson?
+2017-05-02 13:57:34 <Omar Almeida> se tiver, a gente faz pelo skype pq aí tu vai se familiarizando com a turma da Ericsson
+2017-05-02 13:57:42 <Omar Almeida> pq lá é tudo skype
+2017-05-02 13:57:49 <Omar Almeida> oq vc acha?
+2017-05-02 13:58:26 <Leonardo Valeriano> pode ser
+2017-05-02 13:58:33 <Leonardo Valeriano> tenho que procurar uma sala
+2017-05-02 13:58:49 <Omar Almeida> pode ser na tua sala mesmo
+2017-05-02 13:58:53 <Omar Almeida> acho que não tem problema
+2017-05-02 13:58:55 <Omar Almeida> arruma um fone
+2017-05-02 14:05:25 <Leonardo Valeriano> ok
+2017-05-02 14:06:15 <Omar Almeida> o Flavio não chegou ainda, vamos esperar ele chegar
+2017-05-02 14:06:24 <Leonardo Valeriano> blz
+2017-05-02 14:06:39 <Leonardo Valeriano> queria testar o compartilhamento de tela
+2017-05-02 14:06:46 <Leonardo Valeriano> pode ser contigo?
+2017-05-02 14:06:57 <Omar Almeida> pode, eu tou num call com o povo da Ericsson
+2017-05-02 14:06:59 <Omar Almeida> segura ae
+2017-05-02 14:07:03 <Leonardo Valeriano> bl
+2017-05-02 14:09:36 <Omar Almeida> tu vai mostrar teu codigo
+2017-05-02 14:09:39 <Omar Almeida> tais no linux ou no windows?
+2017-05-02 14:09:44 <Leonardo Valeriano> linux
+2017-05-02 14:09:57 <Omar Almeida> então teremos que fazer via appear.in
+2017-05-02 14:09:58 <Leonardo Valeriano> tbm, era só pra ver se funciona de boas
+2017-05-02 14:10:06 <Omar Almeida> pq o skype de linux não compartilha
+2017-05-02 14:10:14 <Leonardo Valeriano> eita, poxa
+2017-05-02 14:10:22 <Omar Almeida> mas nao precisa instalar nada
+2017-05-02 14:10:24 <Omar Almeida> é tudo via web
+2017-05-02 14:10:25 <Leonardo Valeriano> sabia que ia dar treta, hahaha
+2017-05-02 14:10:34 <Omar Almeida> hehehe
+2017-05-02 14:10:47 <Omar Almeida> vou falar ctgo pelo skype e fechar aqui
+2017-05-02 14:11:25 <Leonardo Valeriano> ok
+2017-05-05 08:08:30 <Omar Almeida> e aí mano blz?
+2017-05-05 08:08:33 <Omar Almeida> bom dia
+2017-05-05 08:21:17 <Leonardo Valeriano> opa
+2017-05-05 08:21:20 <Leonardo Valeriano> bom dia
+2017-05-05 08:21:33 <Leonardo Valeriano> enviei o currículo pra Andrade ontem
+2017-05-05 08:21:42 <Omar Almeida> massa demais
+2017-05-05 08:21:54 <Omar Almeida> manda pra mim tbm pq eu posso dar dica de melhoria
+2017-05-05 08:22:14 <Omar Almeida> pra Ericsson
+2017-05-05 08:22:23 <Leonardo Valeriano> blz
+2017-05-05 08:22:28 <Leonardo Valeriano> pode ser pelo gmail mesmo
+2017-05-05 08:22:33 <Leonardo Valeriano> ?
+2017-05-05 08:22:41 <Omar Almeida> pode
+2017-05-05 08:24:58 <Leonardo Valeriano> o teu contato no gmail tá sem o email
+2017-05-05 08:25:15 <Leonardo Valeriano> passa teu email por aqui
+2017-05-05 08:25:25 <Omar Almeida> omartorres@omartorres.com.br
+2017-05-05 08:26:43 <Leonardo Valeriano> Mandei
+2017-05-05 08:26:59 <Omar Almeida> blza
+2017-05-05 08:27:03 <Omar Almeida> logo mais eu dou uma olhada
+2017-05-05 08:27:04 <Omar Almeida> valeu
+2017-05-05 08:27:26 <Leonardo Valeriano> valeu
+2017-05-05 10:07:25 <Omar Almeida> Leonardo?
+2017-05-05 10:07:27 <Omar Almeida> tais ai?
+2017-05-05 10:24:10 <Leonardo Valeriano> opa
+2017-05-05 10:24:19 <Leonardo Valeriano> tva em reunião

@@ -1,0 +1,696 @@
+﻿2017-05-05 11:57:23 <Leonardo Valeriano> Vamos bater papo no Hangouts!
+2017-05-05 11:58:05 <Hector Pinheiro> Opa cara
+2017-05-05 11:58:09 <Hector Pinheiro> Vamos em 15?
+2017-05-05 12:00:03 <Leonardo Valeriano> Blz,
+2017-05-05 12:00:16 <Leonardo Valeriano> vou ficar ali embaixo
+2017-05-05 12:10:30 <Hector Pinheiro> Massa tô indo
+2017-05-05 12:13:27 <Leonardo Valeriano> blz
+2017-05-18 07:01:25 <Leonardo Valeriano> Grande! Tudo blz?
+2017-05-18 07:01:58 <Leonardo Valeriano> tu conseguisse estudar algo do google speech api? como fazer as requisições e tal?
+2017-05-18 07:02:01 <Leonardo Valeriano> Abraço
+2017-05-18 14:51:52 <Hector Pinheiro> Nada velho
+2017-05-18 14:51:58 <Hector Pinheiro> queres trab um pouco no fds?
+2017-05-18 14:52:06 <Hector Pinheiro> posso tentar sozinho no fds também
+2017-05-18 14:53:42 <Leonardo Valeriano> podemos trabalhar sim
+2017-05-18 14:53:54 <Leonardo Valeriano> pode ser de tarde no sábado?
+2017-05-18 14:54:06 <Leonardo Valeriano> ou domingo?
+2017-05-18 14:54:38 <Hector Pinheiro> hum
+2017-05-18 14:54:42 <Hector Pinheiro> posso te responder mais tarde?
+2017-05-18 14:58:13 <Leonardo Valeriano> sim, claro
+2017-05-18 14:58:43 <Leonardo Valeriano> amanhã venho pro CIn logo cedo e fico o dia todo
+2017-05-18 14:59:04 <Hector Pinheiro> certo
+2017-05-18 14:59:07 <Hector Pinheiro> mais tarde falo com vc
+2017-05-18 14:59:11 <Hector Pinheiro> massa?
+2017-05-18 14:59:41 <Leonardo Valeriano> massa
+2017-05-18 21:48:24 <Hector Pinheiro> Certo
+2017-05-18 21:48:27 <Hector Pinheiro> 16h
+2017-05-18 21:48:29 <Hector Pinheiro> Amanhã
+2017-05-18 21:48:33 <Hector Pinheiro> Pode ser ?
+2017-05-19 09:11:57 <Leonardo Valeriano> Pode sim
+2017-05-19 11:37:45 <Hector Pinheiro> Onde vcs estão ?
+2017-05-20 18:24:05 <Hector Pinheiro> mermao switchboard é muito grande vei!
+2017-05-20 18:24:06 <Hector Pinheiro> hahaha
+2017-05-20 18:24:17 <Hector Pinheiro> nunca lidei com tantos dados de speech
+2017-05-20 18:24:47 <Leonardo Valeriano> hahahah
+2017-05-20 18:24:55 <Leonardo Valeriano> pega um só
+2017-05-20 18:25:04 <Leonardo Valeriano> é pra esse protótipo apenas
+2017-05-20 18:25:46 <Leonardo Valeriano> eu queria ver contigo se tu podia testar 1 configuração sem o RASTA, só pra ter a comparação
+2017-05-20 18:26:17 <Hector Pinheiro> só features? ou i-vectors?
+2017-05-20 18:26:30 <Leonardo Valeriano> com os i-vectors tbm
+2017-05-20 18:26:37 <Leonardo Valeriano> se for viável
+2017-05-20 18:26:45 <Hector Pinheiro> mas com switchboard?
+2017-05-20 18:26:54 <Hector Pinheiro> eu vou mandar ainda as configurações para vocês
+2017-05-20 18:27:00 <Hector Pinheiro> as que vou considerar
+2017-05-20 18:27:05 <Leonardo Valeriano> massa
+2017-05-20 18:27:09 <Hector Pinheiro> vou considerar com e sem rasta
+2017-05-20 18:27:44 <Leonardo Valeriano> ok, era só pq nos artigos n vejo  ngm explicitando o RASTA
+2017-05-20 18:27:51 <Hector Pinheiro> uhum
+2017-05-20 18:28:00 <Leonardo Valeriano> mas eles devem usar e n falam pra ngm
+2017-05-20 18:28:00 <Hector Pinheiro> na verdade, com i-vectors, ele se tornou meio desnecessário sabe?
+2017-05-20 18:28:08 <Leonardo Valeriano> hum
+2017-05-20 18:28:28 <Hector Pinheiro> hoje o default é MDCC+d1+d2 + CMS (e as vezes feature warping)
+2017-05-20 18:28:51 <Leonardo Valeriano> eu penso que a quantidade enorme de dados o problema deve acabar aparecendo
+2017-05-20 18:29:03 <Hector Pinheiro> qual problema?
+2017-05-20 18:29:05 <Hector Pinheiro> de channel?
+2017-05-20 18:29:24 <Leonardo Valeriano> sim, o framwork aprende a resolver sozinho
+2017-05-20 18:29:55 <Leonardo Valeriano> os problemas de canal que forem aparecendo 
+2017-05-20 18:30:37 <Leonardo Valeriano> essa configuração tá massa, o vetor fica maior e o SVD faz mais efeito
+2017-05-20 18:32:10 <Leonardo Valeriano> Tu tá com a NIST SRE?
+2017-05-20 18:32:22 <Leonardo Valeriano> é de telefone tbm?
+2017-05-20 18:32:48 <Hector Pinheiro> cara, não sei velho
+2017-05-20 18:32:54 <Hector Pinheiro> eu estou começando a me inteirar das bases agora
+2017-05-20 18:32:55 <Hector Pinheiro> hehe
+2017-05-20 18:33:38 <Leonardo Valeriano> massa
+2017-05-20 18:33:44 <Leonardo Valeriano> vou conferir aqui
+2017-05-20 18:34:20 <Leonardo Valeriano> vou terminar logo o paper, muito pequeno e trabalhoso  :S
+2017-05-20 18:35:57 <Hector Pinheiro> parser?
+2017-05-20 18:37:47 <Leonardo Valeriano> oi?
+2017-05-20 18:38:00 <Hector Pinheiro> ah foi mal
+2017-05-20 18:38:03 <Hector Pinheiro> li parser
+2017-05-20 18:38:06 <Hector Pinheiro> mas é paper hehe
+2017-05-20 18:38:13 <Hector Pinheiro> se precisar de ajuda fala visse?
+2017-05-20 18:38:36 <Leonardo Valeriano> blz cara, vlw
+2017-05-20 18:39:15 <Leonardo Valeriano> queria experimentar mais, mas  tá apertado
+2017-05-20 18:42:20 <Hector Pinheiro> saquei
+2017-05-20 20:20:50 <Hector Pinheiro> validei meus scripts
+2017-05-20 20:20:59 <Hector Pinheiro> tava utilizando o espectro até 8Khz
+2017-05-20 20:21:07 <Hector Pinheiro> por isso estava dando diferente
+2017-05-20 20:21:17 <Hector Pinheiro> amanhã tento começar a usar a swb2
+2017-05-20 20:21:56 <Hector Pinheiro> se rolar, já consigo dar uma estimativa
+2017-05-20 22:41:15 <Leonardo Valeriano> massa
+2017-05-20 22:41:38 <Leonardo Valeriano> só precisamos fixar esse detalhe
+2017-05-20 22:41:56 <Hector Pinheiro> cara
+2017-05-20 22:41:57 <Hector Pinheiro> vamos pro sre
+2017-05-20 22:42:03 <Hector Pinheiro> melhor
+2017-05-21 11:15:46 <Leonardo Valeriano> tu tá achando mais fácil? Pode ser tbm
+2017-05-21 16:46:19 <Hector Pinheiro> eu acho que seria mais interessante
+2017-05-21 16:46:27 <Hector Pinheiro> inclusive para nossos doutorados
+2017-05-21 16:46:32 <Hector Pinheiro> mas é uma decisão nossa
+2017-05-21 16:46:37 <Hector Pinheiro> deixa eu te passar um git
+2017-05-21 18:21:43 <Leonardo Valeriano> vi agora
+2017-05-21 18:26:48 <Leonardo Valeriano> vamos padronizar então pra ter um tracking consistente das abordagens
+2017-05-22 16:44:07 <Hector Pinheiro> sim
+2017-05-28 22:19:58 <Leonardo Valeriano> Boa noite Héctor! Tudo bem?
+2017-05-28 22:20:46 <Leonardo Valeriano> Tu teve algum avanço com treinamento do UBM e do T naquelas bases do SRE?
+2017-05-28 22:24:14 <Hector Pinheiro> cara, eu decidi usar a fisher
+2017-05-28 22:24:16 <Hector Pinheiro> tudo bem?
+2017-05-28 22:24:34 <Leonardo Valeriano> opa, tudo bem
+2017-05-28 22:24:51 <Leonardo Valeriano> tu seguiu o protocolo do Kaldi?
+2017-05-28 22:25:29 <Hector Pinheiro> não rsrs
+2017-05-28 22:25:34 <Hector Pinheiro> mas aprendi a ler tudo
+2017-05-28 22:25:37 <Leonardo Valeriano> ehhehehe
+2017-05-28 22:25:39 <Leonardo Valeriano> massa
+2017-05-28 22:25:42 <Hector Pinheiro> o protocolo a gente escolhe
+2017-05-28 22:25:52 <Hector Pinheiro> saca
+2017-05-28 22:26:25 <Leonardo Valeriano> tu definiu muitas configurações das features?
+2017-05-28 22:26:32 <Hector Pinheiro> https://catalog.ldc.upenn.edu/LDC2004T19
+2017-05-28 22:27:03 <Hector Pinheiro> cara
+2017-05-28 22:27:40 <Hector Pinheiro> acho que no final vou adiantar poucas configurações pra você
+2017-05-28 22:29:26 <Leonardo Valeriano> ótimo, tinha pensado o mesmo
+2017-05-28 22:31:08 <Leonardo Valeriano> tô com uma dúvida
+2017-05-28 22:32:03 <Hector Pinheiro> diz
+2017-05-28 22:32:30 <Leonardo Valeriano> o protocolo CALLHOME usa o corpora da Fisher? 
+2017-05-28 22:32:49 <Leonardo Valeriano> ou é uma base com um protocolo?
+2017-05-28 22:35:23 <Hector Pinheiro> eu não sei
+2017-05-28 22:35:31 <Hector Pinheiro> mas a impressão que eu tenho é que usa como base de treinamento
+2017-05-28 22:39:04 <Leonardo Valeriano> hum
+2017-05-28 22:39:21 <Leonardo Valeriano> eu notei que eles usaram a WordWave para transcrição
+2017-05-28 22:40:06 <Leonardo Valeriano> seria interessante em algum ponto nós adaptarmos ela para o português
+2017-05-28 22:40:45 <Hector Pinheiro> sim
+2017-06-02 08:13:54 <Leonardo Valeriano> opa
+2017-06-02 08:13:59 <Leonardo Valeriano> tudo bem cara?
+2017-06-02 08:14:29 <Leonardo Valeriano> qual foi o horário que a gente combinou pra fazer as coisas?
+2017-06-02 08:28:47 <Hector Pinheiro> Nem combinamos né
+2017-06-02 08:29:05 <Hector Pinheiro> Pode ser a tarde?
+2017-06-02 08:29:15 <Hector Pinheiro> Ou vc já está no cin ?
+2017-06-02 08:43:59 <Leonardo Valeriano> eu já estou aqui, mas tava pensando em sair perto das 17h
+2017-06-02 08:44:03 <Leonardo Valeriano> 17:30
+2017-06-02 08:44:22 <Leonardo Valeriano> tu vai estar muito ocupado de tarde?
+2017-06-02 08:44:29 <Hector Pinheiro> Cara faz uns dias que eu tô com dor de cabeça
+2017-06-02 08:44:50 <Hector Pinheiro> Eu tomei remédio e tô dando  um tempo para ir
+2017-06-02 08:45:02 <Hector Pinheiro> Mas podemos a tarde sim
+2017-06-02 08:45:12 <Hector Pinheiro> Eu preciso fazer umas coisas no lab agora de manhã
+2017-06-02 08:45:16 <Hector Pinheiro> Foda
+2017-06-02 08:45:29 <Leonardo Valeriano> eita
+2017-06-02 08:45:34 <Leonardo Valeriano> tudo bem cara
+2017-06-02 08:45:42 <Hector Pinheiro> Vamos almoçar ?
+2017-06-02 08:45:49 <Leonardo Valeriano> vamos sim
+2017-06-02 08:46:02 <Hector Pinheiro> Cara a Fischer tem transcrição com tempo velho
+2017-06-02 08:46:10 <Hector Pinheiro> 5k conversas telefônicas
+2017-06-02 08:46:15 <Hector Pinheiro> Hauhauahau
+2017-06-02 08:46:19 <Hector Pinheiro> Teu doutorado aí
+2017-06-02 08:46:33 <Hector Pinheiro> Mas sempre duas pessoas
+2017-06-02 08:46:35 <Leonardo Valeriano> ouxi mano
+2017-06-02 08:46:45 <Hector Pinheiro> Mas são conversas de cinco minutos
+2017-06-02 08:46:49 <Leonardo Valeriano> posso mixar e montar as conversações
+2017-06-02 08:46:55 <Hector Pinheiro> Massa visse
+2017-06-02 08:46:59 <Leonardo Valeriano> mas tem muita, dá no mesmo
+2017-06-02 08:47:08 <Leonardo Valeriano> vou olhar isso
+2017-06-02 08:47:09 <Hector Pinheiro> Massa
+2017-06-02 08:47:28 <Hector Pinheiro> Eu tô usando como vad entendes ?
+2017-06-02 08:47:43 <Leonardo Valeriano> sim
+2017-06-02 08:47:43 <Hector Pinheiro> Para só pegar os segmentos com voz
+2017-06-02 08:48:04 <Leonardo Valeriano> mas dentro dos segmentos têm silêncio ainda
+2017-06-02 08:48:06 <Leonardo Valeriano> ?
+2017-06-02 08:48:17 <Hector Pinheiro> Não
+2017-06-02 08:48:33 <Hector Pinheiro> Pq são as transcrições frase a frase
+2017-06-02 08:48:48 <Hector Pinheiro> Se tiver eh muito pouco
+2017-06-02 08:48:52 <Hector Pinheiro> Te mostro mais tarde
+2017-06-02 08:49:08 <Leonardo Valeriano> massa
+2017-06-02 08:49:27 <Leonardo Valeriano> o importante é conseguir montar as conversas
+2017-06-02 08:49:45 <Hector Pinheiro> Isso é de boa
+2017-06-02 11:23:57 <Leonardo Valeriano> opa
+2017-06-02 11:24:09 <Leonardo Valeriano> tu vai querer almoçar de que horas?
+2017-06-02 11:25:09 <Hector Pinheiro> pode ser daqui a pouco
+2017-06-02 11:28:40 <Leonardo Valeriano> massa, posso subir aí?
+2017-06-02 11:29:01 <Hector Pinheiro> pode
+2017-06-02 13:02:39 <Hector Pinheiro> opa cara
+2017-06-02 13:02:42 <Hector Pinheiro> tas onde?
+2017-06-02 13:02:53 <Leonardo Valeriano> to no grad da pós
+2017-06-02 13:02:58 <Hector Pinheiro> blz
+2017-06-02 13:03:02 <Hector Pinheiro> to indo ai
+2017-06-02 13:03:49 <Leonardo Valeriano> ok
+2017-06-02 13:11:39 <Leonardo Valeriano> http://www.crim.ca/perso/patrick.kenny/Kenny_sdfa.pdf
+2017-06-02 14:15:50 <Leonardo Valeriano> Var. Bayes i-vector:
+2017-06-02 14:15:50 <Leonardo Valeriano> https://pdfs.semanticscholar.org/3a9c/b7ac3838f0980ed56aa29301cf5462c39309.pdf
+2017-06-03 19:59:10 <Hector Pinheiro> duas horas depois...
+2017-06-03 19:59:17 <Hector Pinheiro> consegui reproduzir um arquivo SPHERE!
+2017-06-03 19:59:27 <Hector Pinheiro> não tinha reproduzido antes aff
+2017-06-03 19:59:30 <Hector Pinheiro> tava só ruído
+2017-06-03 19:59:35 <Hector Pinheiro> voicebox é massa
+2017-06-03 19:59:40 <Hector Pinheiro> mas é tudo fixo pra windows
+2017-06-03 19:59:48 <Hector Pinheiro> refiz as funções pra linux 
+2017-06-03 19:59:51 <Hector Pinheiro> agora sim hehe
+2017-06-04 19:51:16 <Leonardo Valeriano> massa
+2017-06-04 19:51:51 <Leonardo Valeriano> n sabia que o voicebox tinha essa limitação..
+2017-06-04 19:52:16 <Leonardo Valeriano> se tu tiver alguma dificuldade fala por aqui que tento resolver tbm
+2017-06-04 19:52:33 <Hector Pinheiro> de boa
+2017-06-04 19:52:38 <Hector Pinheiro> amanhã os vads estão prontos
+2017-06-04 19:52:53 <Leonardo Valeriano> massa
+2017-06-04 19:53:12 <Leonardo Valeriano> tu tá pegando só as amostras com voz uma a uma
+2017-06-04 20:56:55 <Hector Pinheiro> como assim?
+2017-06-04 20:57:00 <Hector Pinheiro> estou usando um vad mesmo
+2017-06-04 20:57:03 <Hector Pinheiro> https://www.mathworks.com/help/dsp/examples/g-729-voice-activity-detection.html
+2017-06-04 21:01:07 <Leonardo Valeriano> ah sim
+2017-06-04 21:01:28 <Leonardo Valeriano> pensei que tinha o time stamp de voz/não voz
+2017-06-04 21:01:45 <Hector Pinheiro> tem de falar
+2017-06-04 21:01:47 <Hector Pinheiro> falas*
+2017-06-04 21:01:56 <Hector Pinheiro> tipo, o timestamp da setença inteira
+2017-06-04 21:02:06 <Hector Pinheiro> entre palavras não tem não
+2017-06-04 21:02:31 <Leonardo Valeriano> certo
+2017-06-04 21:02:44 <Leonardo Valeriano> lembro que a TIMIT tinha
+2017-06-04 21:02:51 <Leonardo Valeriano> ou uma versão dela
+2017-06-04 21:03:38 <Hector Pinheiro> saquei
+2017-06-08 13:04:24 <Hector Pinheiro> Que hrs eh nossa reunião amanhã ?
+2017-06-08 15:00:56 <Leonardo Valeriano> man, eu n poderei ir
+2017-06-08 15:01:28 <Leonardo Valeriano> vou viajar, mas na teoria é às 11h
+2017-06-08 15:01:44 <Hector Pinheiro> opa
+2017-06-08 15:01:46 <Hector Pinheiro> de boa cara
+2017-06-08 15:01:52 <Hector Pinheiro> era só pra saber mesmo
+2017-06-08 15:01:57 <Hector Pinheiro> não consegui trabalhar muito essa semana
+2017-06-08 15:02:38 <Leonardo Valeriano> tranquilo, tô refazendo alguns experimentos do períodico, aí n deu pra adiantar tanto tbm
+2017-06-08 15:05:01 <Hector Pinheiro> beleza
+2017-06-08 15:05:07 <Hector Pinheiro> refazendo?
+2017-06-08 15:05:14 <Hector Pinheiro> se quiser me manda algo para rodar
+2017-06-08 15:06:42 <Leonardo Valeriano> rapaz é coisa pra caramba incluindo as features, hehehe.. eu tô fazendo uma revisão sistemática testando parâmetro a parâmetro
+2017-06-08 15:17:40 <Hector Pinheiro> podemos juntar um dia
+2017-06-08 15:17:43 <Hector Pinheiro> para ver isso
+2017-06-08 15:26:44 <Leonardo Valeriano> blz, eu tô fazendo isso até amanhã, se n avançar, eu deixo os resultados que já estão no artigo
+2017-06-08 15:26:51 <Hector Pinheiro> certo
+2017-06-08 15:26:56 <Hector Pinheiro> tsang vai me passar depois
+2017-06-08 15:27:36 <Leonardo Valeriano> O link é esse aqui:
+2017-06-08 15:27:37 <Leonardo Valeriano> https://www.overleaf.com/9642004vpdhjygfvdfn
+2017-06-08 15:28:07 <Leonardo Valeriano> eu vou colocar teu nome tbm, se tu for editar, coloca lá
+2017-06-08 15:32:51 <Hector Pinheiro> opa cara
+2017-06-08 15:32:52 <Hector Pinheiro> massa
+2017-06-08 15:32:56 <Hector Pinheiro> mas queria te ajudar nos experimentos
+2017-06-08 15:33:01 <Hector Pinheiro> vou dar uma lida e te falo esse fds
+2017-06-08 16:27:25 <Leonardo Valeriano> vlw cara
+2017-06-08 16:27:45 <Leonardo Valeriano> assim que saírem esses resultados preliminares, converso contigo
+2017-06-08 16:30:56 <Hector Pinheiro> Massa
+2017-06-08 16:31:16 <Hector Pinheiro> Vou revisar o artigo e te mando algo esse fds
+2017-06-08 16:31:28 <Leonardo Valeriano> ouxi massa! 
+2017-06-08 16:32:13 <Leonardo Valeriano> vou dar uma organizada no código
+2017-06-08 16:32:22 <Leonardo Valeriano> tenho coisa pra otimizar ainda
+2017-06-08 16:32:45 <Hector Pinheiro> Saquei
+2017-06-08 16:32:46 <Hector Pinheiro> Mas velho
+2017-06-08 16:32:52 <Hector Pinheiro> Tem o pc do lab
+2017-06-08 16:32:59 <Hector Pinheiro> Se quiser botar lá
+2017-06-08 16:33:06 <Hector Pinheiro> É só me falar
+2017-06-08 16:33:25 <Hector Pinheiro> Te passo o teamviewer e tu coloca lá
+2017-06-08 16:33:34 <Hector Pinheiro> Ou se quiser ir tb
+2017-06-08 16:33:48 <Leonardo Valeriano> tu consegue desenrolar isso tipo agora?
+2017-06-08 16:33:54 <Leonardo Valeriano> eu tô aqui no CIn
+2017-06-08 16:34:06 <Leonardo Valeriano> mas sexta viajo de manhã
+2017-06-08 16:34:28 <Hector Pinheiro> Cara acabei de sair
+2017-06-08 16:34:33 <Hector Pinheiro> Tô chegando em casa
+2017-06-08 16:34:47 <Hector Pinheiro> Eu posso desenrolar o tv agora
+2017-06-08 16:43:08 <Leonardo Valeriano> hum.. tranquilo
+2017-06-08 16:43:22 <Leonardo Valeriano> tu ia passar o user pra mim?
+2017-06-08 16:44:05 <Hector Pinheiro> Sim
+2017-06-08 16:44:08 <Hector Pinheiro> O user e a senha
+2017-06-08 16:45:26 <Leonardo Valeriano> blz
+2017-06-08 16:45:41 <Leonardo Valeriano> eu vou instalar aqui na minha máquina
+2017-06-08 17:30:03 <Hector Pinheiro> https://lh3.googleusercontent.com/-wA_Shzx5YEE/WTmzy3BCokI/AAAAAAAABJo/WkT53SSZxaspJpTINhCZXppnKL2OqdEbwCK8B/s0/2017-06-08.jpg
+2017-06-08 23:34:23 <Leonardo Valeriano> opa
+2017-06-08 23:34:45 <Leonardo Valeriano> tô vendo isso agora
+2017-06-08 23:36:32 <Hector Pinheiro> Hehe massa
+2017-06-08 23:36:33 <Hector Pinheiro> Pode ficar a vontade
+2017-06-08 23:36:34 <Hector Pinheiro> A senha eh viisar
+2017-06-08 23:36:34 <Hector Pinheiro> Cria uma pasta lá pra ti
+2017-06-08 23:36:35 <Hector Pinheiro> Tem uma partição lá de 1tb
+2017-06-08 23:37:02 <Leonardo Valeriano> blz
+2017-06-08 23:37:19 <Leonardo Valeriano> vou tentar acessar
+2017-06-08 23:37:27 <Hector Pinheiro> Na verdade não eh uma partição
+2017-06-08 23:37:32 <Hector Pinheiro> Tem dois hds
+2017-06-08 23:37:42 <Hector Pinheiro> Um eh ssd, onde fica o os
+2017-06-08 23:37:54 <Hector Pinheiro> O outro eh pra uso
+2017-06-08 23:38:00 <Hector Pinheiro> Vê aí Oq tu precisa
+2017-06-08 23:38:14 <Hector Pinheiro> Tem Python, tensorflow e queras
+2017-06-08 23:38:17 <Hector Pinheiro> E matlab
+2017-06-08 23:38:34 <Hector Pinheiro> Tem o sublime
+2017-06-08 23:38:42 <Hector Pinheiro> E o vs code
+2017-06-08 23:38:50 <Hector Pinheiro> E o pycharm eu acho
+2017-06-08 23:39:22 <Leonardo Valeriano> ouxi, tem tudo
+2017-06-08 23:40:00 <Leonardo Valeriano> o matlab tem o pool configurado só pra essa máquina?
+2017-06-08 23:40:16 <Leonardo Valeriano> tipo ele n envia job pra mais ninguém né?
+2017-06-08 23:40:22 <Hector Pinheiro> Não
+2017-06-08 23:40:26 <Hector Pinheiro> Tá o default
+2017-06-08 23:40:32 <Hector Pinheiro> 4 pools
+2017-06-08 23:40:40 <Hector Pinheiro> Pq eh um i5
+2017-06-08 23:40:40 <Leonardo Valeriano> certo é o mesmo aqui
+2017-06-08 23:40:47 <Leonardo Valeriano> certo
+2017-06-08 23:41:13 <Leonardo Valeriano> tá ótimo, já acelera demais
+2017-06-08 23:41:21 <Hector Pinheiro> Uhum
+2017-06-08 23:41:34 <Hector Pinheiro> Qualquer coisa tô no cin amanhã de manhã
+2017-06-08 23:41:52 <Hector Pinheiro> Me manda um e-mail explicando o que precisa ser feito, se for o caso
+2017-06-08 23:42:01 <Hector Pinheiro> Mermao eh muito dado veeei
+2017-06-08 23:42:10 <Hector Pinheiro> Pra rodar o i-vector aqui
+2017-06-08 23:42:15 <Hector Pinheiro> Hauhauahau
+2017-06-08 23:42:28 <Hector Pinheiro> Tipo, 20x a quantidade que estou acostumado
+2017-06-08 23:42:30 <Leonardo Valeriano> hahuaha
+2017-06-08 23:42:38 <Leonardo Valeriano> Outro nível
+2017-06-08 23:42:39 <Hector Pinheiro> Vou ter que passar meus códigos pra gpu
+2017-06-08 23:42:47 <Hector Pinheiro> Se não não qualifico hauhauahau
+2017-06-08 23:43:06 <Leonardo Valeriano> vou passar aqui tbm
+2017-06-08 23:43:28 <Leonardo Valeriano> o que eu faço é estimativa de média e covariância
+2017-06-08 23:43:37 <Hector Pinheiro> Ah po
+2017-06-08 23:43:41 <Leonardo Valeriano> coisa pouca, mais tem muito vetor
+2017-06-08 23:43:42 <Hector Pinheiro> Bota na gpu mesmo
+2017-06-08 23:44:16 <Leonardo Valeriano> eu já coloquei tudo numa matriz N x M x d
+2017-06-08 23:44:37 <Leonardo Valeriano> eu preciso computar essas coisas pra cada N
+2017-06-08 23:45:15 <Leonardo Valeriano> eu sei que dá tudo na GPU e rápido pois a transferência de dados só ocorre uma vez
+2017-06-08 23:45:31 <Hector Pinheiro> Massa
+2017-06-08 23:45:45 <Hector Pinheiro> Essa tem 8GB
+2017-06-08 23:45:55 <Hector Pinheiro> Tsang comprou uma com 11
+2017-06-08 23:46:02 <Leonardo Valeriano> danosse
+2017-06-08 23:46:03 <Hector Pinheiro> Digae
+2017-06-08 23:46:10 <Leonardo Valeriano> monstrinha
+2017-06-08 23:46:13 <Leonardo Valeriano> ahahah
+2017-06-08 23:46:19 <Hector Pinheiro> Pronto
+2017-06-08 23:46:25 <Hector Pinheiro> Qualquer coisa me fala aí
+2017-06-08 23:46:30 <Hector Pinheiro> E boa viagem vei
+2017-06-08 23:46:35 <Hector Pinheiro> Precisando eh só falar
+2017-06-08 23:46:42 <Leonardo Valeriano> blz, vou ficar online
+2017-06-08 23:47:53 <Leonardo Valeriano> já consegui conexão
+2017-06-08 23:48:12 <Leonardo Valeriano> essa senha expira com muita frequência?
+2017-06-08 23:48:21 <Hector Pinheiro> Não
+2017-06-08 23:48:31 <Hector Pinheiro> Só quando o pc desliga
+2017-06-08 23:48:44 <Hector Pinheiro> Quando vc não conseguir acesso vc me diz
+2017-06-09 00:08:58 <Leonardo Valeriano> tá ok
+2017-06-09 00:09:15 <Leonardo Valeriano> vlw
+2017-06-09 00:09:32 <Hector Pinheiro> Flw cara
+2017-06-09 00:09:37 <Hector Pinheiro> Boa viagem ae
+2017-06-09 09:46:21 <Hector Pinheiro> Me avisa quando for deixar algo rodando
+2017-06-09 13:43:15 <Leonardo Valeriano> certo
+2017-06-09 13:43:26 <Leonardo Valeriano> eu tô vendo algumas coisas antes
+2017-06-09 16:09:06 <Hector Pinheiro> beleza
+2017-06-15 22:41:01 <Leonardo Valeriano> Boa noite Hector! Tudo bem?
+2017-06-15 22:48:02 <Hector Pinheiro> e ai cara
+2017-06-15 22:48:03 <Hector Pinheiro> beleza?
+2017-06-15 22:48:28 <Leonardo Valeriano> blz cara
+2017-06-15 22:48:44 <Leonardo Valeriano> Feliz aniversário de ontem
+2017-06-15 22:50:03 <Leonardo Valeriano> Olha, tu conseguiu treinar o UBM com os dados da Fischer? tá tendo alguma dificuldade?
+2017-06-15 22:51:19 <Hector Pinheiro> Valeu cara!
+2017-06-15 22:51:24 <Hector Pinheiro> não
+2017-06-15 22:51:26 <Hector Pinheiro> só tempo mesmo
+2017-06-15 22:51:30 <Hector Pinheiro> demora muito as coisas
+2017-06-15 22:51:35 <Hector Pinheiro> amanhã acho que o T está pronto
+2017-06-15 22:51:41 <Hector Pinheiro> tá treinando aqui
+2017-06-15 22:51:44 <Hector Pinheiro> o ubm está pronto
+2017-06-15 22:51:53 <Hector Pinheiro> pra mfcc, d1, d2, energia
+2017-06-15 22:51:56 <Hector Pinheiro> com cms
+2017-06-15 22:52:00 <Leonardo Valeriano> massa
+2017-06-15 22:52:24 <Leonardo Valeriano> grande avanço, se brincar só tem isso no Brasil hehehe
+2017-06-15 22:52:30 <Leonardo Valeriano> *tu
+2017-06-15 22:53:07 <Leonardo Valeriano> eu achei uma toolbox da Microsoft em Matlab para Identificação de locutor
+2017-06-15 22:53:27 <Leonardo Valeriano> devem ter alguns scripts que faltam pro eigenvoices
+2017-06-15 22:54:31 <Hector Pinheiro> qual o nome?
+2017-06-15 22:54:32 <Hector Pinheiro> mrs?
+2017-06-15 22:59:18 <Leonardo Valeriano> MSR
+2017-06-15 22:59:35 <Hector Pinheiro> to ligado
+2017-06-15 22:59:42 <Leonardo Valeriano> eles têm todo o background
+2017-06-15 22:59:44 <Hector Pinheiro> eu me baseei nele para fazer meus scripts
+2017-06-15 23:00:01 <Leonardo Valeriano> ah então tá blz
+2017-06-15 23:00:16 <Leonardo Valeriano> eu baixei enquanto tá de graça  ☺
+2017-06-15 23:01:02 <Leonardo Valeriano> vou estudar como especializar esses modelos pra uma quantidade pequena de dados
+2017-06-15 23:02:02 <Hector Pinheiro> matlab?
+2017-06-15 23:02:04 <Leonardo Valeriano> velho, vou dar um gás na base das teleconferências pra ter o sistema completo
+2017-06-15 23:02:12 <Leonardo Valeriano> sim
+2017-06-15 23:02:44 <Hector Pinheiro> saquei
+2017-06-21 07:38:17 <Leonardo Valeriano> Bom dia Hector, tudo bem?
+2017-06-21 07:38:47 <Leonardo Valeriano> começasse a escrever a proposta?
+2017-06-21 07:44:45 <Hector Pinheiro> opa velho bom dia
+2017-06-21 07:44:50 <Hector Pinheiro> cara, não 
+2017-06-21 07:44:54 <Hector Pinheiro> estou nos experimentos
+2017-06-21 07:45:02 <Leonardo Valeriano> massa
+2017-06-21 07:45:04 <Hector Pinheiro> mas começarei nos próximos dias
+2017-06-21 07:45:12 <Hector Pinheiro> tas precisando de alguma ajuda?
+2017-06-21 07:45:35 <Leonardo Valeriano> quando  tu tiver algo manda pra eu dar uma revisada, tu vai chamar o André?
+2017-06-21 07:45:48 <Leonardo Valeriano> ele é bem exigente nos detalhes
+2017-06-21 07:46:30 <Leonardo Valeriano> opa, eu queria saber se tu conseguiu resolver a bronca do treinamento da matriz T
+2017-06-21 07:48:49 <Hector Pinheiro> opa consegui
+2017-06-21 07:48:54 <Hector Pinheiro> vou te mandar hoje
+2017-06-21 07:49:02 <Hector Pinheiro> seria o UBM e o T, né isso?
+2017-06-21 07:49:25 <Leonardo Valeriano> correto
+2017-06-21 07:49:34 <Leonardo Valeriano> tem também as features
+2017-06-21 07:49:36 <Hector Pinheiro> seria bom tb eu extrair as features
+2017-06-21 07:49:38 <Hector Pinheiro> isso
+2017-06-21 07:50:04 <Leonardo Valeriano> a extração é mais rápida
+2017-06-21 07:50:28 <Leonardo Valeriano> o i-vector eu extraio na minha máquina mesmo
+2017-06-21 07:50:35 <Hector Pinheiro> blz
+2017-06-21 07:50:44 <Hector Pinheiro> onde está o áudio mesmo?
+2017-06-21 07:50:53 <Leonardo Valeriano> tá no Drive
+2017-06-21 07:51:05 <Hector Pinheiro> ok!
+2017-06-21 07:51:07 <Leonardo Valeriano> do CIn, tu consegue mandar tudo por lá
+2017-06-21 07:51:11 <Leonardo Valeriano> ?
+2017-06-21 07:51:19 <Hector Pinheiro> AHAM
+2017-06-21 07:51:21 <Hector Pinheiro> aham
+2017-06-21 07:51:30 <Hector Pinheiro> eu subo lá
+2017-06-21 07:51:33 <Leonardo Valeriano> blz
+2017-06-21 07:51:52 <Leonardo Valeriano> consegui migrar a proposta de segmentação pra GPU
+2017-06-21 07:52:08 <Leonardo Valeriano> muito rápido vei
+2017-06-21 07:52:19 <Hector Pinheiro> oxe massa
+2017-06-21 07:52:28 <Hector Pinheiro> em matlab ou python?
+2017-06-21 07:52:35 <Leonardo Valeriano> em python
+2017-06-21 07:52:44 <Leonardo Valeriano> *matlab
+2017-06-21 07:53:01 <Leonardo Valeriano> pra python deve ser tranquilo
+2017-06-21 07:53:50 <Leonardo Valeriano> tenho que associar o pagefun de matlab pra algo parecido em python 
+2017-06-21 07:54:30 <Leonardo Valeriano> o bsxfun deve ter algo similar pra python tbm
+2017-06-21 07:55:38 <Hector Pinheiro> saquei
+2017-06-22 07:22:39 <Leonardo Valeriano> Olha, saiu mais uma base da AMI
+2017-06-22 07:22:41 <Leonardo Valeriano> http://groups.inf.ed.ac.uk/ami/icsi/download/
+2017-06-24 15:19:42 <Hector Pinheiro> opa mano
+2017-06-24 15:19:46 <Hector Pinheiro> desculpa pela ausência
+2017-06-24 15:19:52 <Hector Pinheiro> essa saída do lab tem sido meio ozzy pra mim
+2017-06-24 15:20:01 <Hector Pinheiro> assim que puder lhe envio tudo que devo te enviar ok?
+2017-06-24 15:20:12 <Hector Pinheiro> cara, você sabe qual o processo para marcar a qualificação?
+2017-06-24 18:38:01 <Leonardo Valeriano> Opa cara, tudo bem, é assim mesmo
+2017-06-24 18:38:27 <Leonardo Valeriano> Tava finalizando outra ideia pro periódico
+2017-06-24 18:39:27 <Leonardo Valeriano> O processo de marcação é parecido com o de dissertação, só que é Tese e com a descrição de Qualificação.
+2017-06-24 20:19:28 <Hector Pinheiro> Saquei
+2017-06-26 21:27:33 <Hector Pinheiro> cara, não estou achando o áudio no drive
+2017-06-26 21:27:35 <Hector Pinheiro> onde está mesmo?
+2017-06-26 22:29:56 <Leonardo Valeriano> opa
+2017-06-26 22:30:04 <Leonardo Valeriano> vou checar
+2017-06-26 22:31:12 <Leonardo Valeriano> Tá na pasta Speech Samples
+2017-06-26 22:31:36 <Leonardo Valeriano> https://drive.google.com/drive/u/1/folders/0B20tXqTbaB2MNzV3SUxpalBSTWs
+2017-06-26 22:31:53 <Hector Pinheiro> ah sim
+2017-06-26 22:31:57 <Hector Pinheiro> pensei que era no email do cin
+2017-06-26 22:32:15 <Hector Pinheiro> executo em qual audio?
+2017-06-26 22:32:30 <Hector Pinheiro> magazine?
+2017-06-26 22:32:44 <Leonardo Valeriano> sim
+2017-06-26 22:32:47 <Hector Pinheiro> beleza
+2017-06-26 22:32:57 <Hector Pinheiro> lhe envio tudo amanhã, blz?
+2017-06-26 22:33:03 <Leonardo Valeriano> tu conseguiu terminar tudo?
+2017-06-26 22:33:04 <Hector Pinheiro> as features, ubm, t
+2017-06-26 22:33:15 <Leonardo Valeriano> ah massa
+2017-06-26 22:33:22 <Hector Pinheiro> posso mandar os pldas tb
+2017-06-26 22:33:33 <Hector Pinheiro> caso vc queira iventar alguma distancia com base nos pldas
+2017-06-26 22:33:34 <Leonardo Valeriano> manda tbm
+2017-06-26 22:33:39 <Hector Pinheiro> beleza
+2017-06-26 22:33:48 <Leonardo Valeriano> tinha pensado nisso
+2017-06-26 22:34:02 <Hector Pinheiro> de boa te enviar só amanhã?
+2017-06-26 22:34:11 <Hector Pinheiro> pq to rodando outras coisas aqui
+2017-06-26 22:34:14 <Leonardo Valeriano> tá de boa
+2017-06-26 22:34:17 <Hector Pinheiro> aí terminando amanhã executo
+2017-06-26 22:34:33 <Leonardo Valeriano> tô refazendoos experimentos do paper
+2017-06-26 22:34:47 <Leonardo Valeriano> tranquilo tá ótimo
+2017-06-26 22:34:52 <Hector Pinheiro> beleza
+2017-06-26 22:34:55 <Hector Pinheiro> se precisar de ajuda me fala
+2017-06-26 22:45:25 <Leonardo Valeriano> massa
+2017-06-26 22:52:45 <Hector Pinheiro> Opa velho
+2017-06-26 22:52:47 <Hector Pinheiro> Posso te pedir mais um favor ?
+2017-06-26 22:52:52 <Hector Pinheiro> Podes me enviar teu doc de qualificação ?
+2017-06-26 22:53:03 <Hector Pinheiro> A minha dissertação tá no template antigo
+2017-06-26 23:49:20 <Leonardo Valeriano> ok
+2017-06-26 23:49:25 <Leonardo Valeriano> vou te enviar
+2017-06-27 22:00:28 <Hector Pinheiro> valeu cara
+2017-06-27 22:00:30 <Hector Pinheiro> velho
+2017-06-27 22:00:40 <Hector Pinheiro> eu estou com algum problema e não consigo ler o arquivo mp3 pelo matlab
+2017-06-27 22:00:51 <Hector Pinheiro> você pode gerar o y e fs e me enviar?
+2017-06-27 22:04:43 <Leonardo Valeriano> Posso sim.
+2017-06-27 22:04:56 <Leonardo Valeriano> Tu usou audioread?
+2017-06-27 22:05:25 <Leonardo Valeriano> Vou fazer isso agora
+2017-06-27 22:17:29 <Hector Pinheiro> sim
+2017-06-27 22:17:35 <Hector Pinheiro> mas estou com problema de driver aqui
+2017-06-27 22:17:37 <Hector Pinheiro> tá foda
+2017-06-27 22:17:48 <Hector Pinheiro> o meu gstreamer não está funcionando
+2017-06-27 22:17:51 <Hector Pinheiro> nem minha gpu
+2017-06-27 22:17:52 <Hector Pinheiro> rs
+2017-06-27 22:17:55 <Hector Pinheiro> tentando resolver
+2017-06-27 22:18:25 <Leonardo Valeriano> aparece essas broncas no meu console
+2017-06-27 22:18:31 <Leonardo Valeriano> mas ele abre
+2017-06-27 22:18:36 <Leonardo Valeriano> vou upar
+2017-06-27 22:18:39 <Hector Pinheiro> valeu!
+2017-06-27 22:19:26 <Leonardo Valeriano> de boas
+2017-06-27 22:29:35 <Leonardo Valeriano> Tá subindo devagar
+2017-06-27 22:29:45 <Leonardo Valeriano> A internet deu uma piorada
+2017-06-27 22:30:22 <Leonardo Valeriano> Vai ficar na mesma pasta do áudio com o nome audio_wave
+2017-06-27 22:43:50 <Hector Pinheiro> blz
+2017-06-27 22:43:52 <Hector Pinheiro> valeu vei!
+2017-07-01 11:23:10 <Hector Pinheiro> cara
+2017-07-01 11:23:50 <Hector Pinheiro> subi no drive os dados e alguns scripts para teste da extração dos ivectors e scores utilizando os gpldas ok?
+2017-07-01 11:24:45 <Hector Pinheiro> daqui a duas horas termina  :P
+2017-07-01 11:24:50 <Hector Pinheiro> de subir
+2017-07-01 14:48:11 <Hector Pinheiro> subi visse vei
+2017-07-01 14:48:14 <Hector Pinheiro> magazine_data
+2017-07-01 14:48:27 <Hector Pinheiro> tá na pasta speech samples
+2017-07-05 07:32:06 <Leonardo Valeriano> opa
+2017-07-05 07:32:20 <Leonardo Valeriano> eu  conferi ontem
+2017-07-05 07:32:45 <Leonardo Valeriano> fiquei um tempo sem ver o hangout, foi mal
+2017-07-05 07:32:52 <Leonardo Valeriano> como está a proposta
+2017-07-05 14:23:43 <Hector Pinheiro> Tá indo cara
+2017-07-05 14:23:50 <Hector Pinheiro> Seguindo um cronograma
+2017-07-06 15:27:58 <Leonardo Valeriano> opa Héctor
+2017-07-06 15:28:38 <Leonardo Valeriano> tudo bem?
+quando tu tiver um tempo, saca esses slides do Shum, 
+2017-07-06 15:28:52 <Leonardo Valeriano> http://people.csail.mit.edu/sshum/talks/sshum-diarization_erlangen-29Nov2012.pdf
+2017-07-06 15:29:35 <Leonardo Valeriano> ele coloca umas soluções bem interessantes de clustering com um número desconhecido de locutores
+2017-07-06 15:30:53 <Hector Pinheiro> po massa cara
+2017-07-06 15:33:29 <Leonardo Valeriano> ele faz uma decomposição de autovalores da matriz de covariância de todos os i-vectors
+2017-07-06 15:34:03 <Leonardo Valeriano> plota o decaimento dos autovalores
+2017-07-06 15:34:34 <Leonardo Valeriano> e define um ponto de corte que será o número estimado de locutores na conversa
+2017-07-06 15:38:16 <Hector Pinheiro> interessante
+2017-07-06 15:38:24 <Hector Pinheiro> isso deve ser um método de clusterização
+2017-07-08 22:49:21 <Hector Pinheiro> Leonardo, como se faz a requerimento?
+2017-07-08 22:49:25 <Hector Pinheiro> requerimento de tese mesmo?
+2017-07-08 22:49:45 <Hector Pinheiro> pq é obrigatório colocar cinco avaliadores e dois suplentes.
+2017-07-14 14:32:36 <Leonardo Valeriano> Opa Héctor, velho foi malz
+2017-07-14 14:33:04 <Leonardo Valeriano> esqueci de te responder sobre o requerimento
+2017-07-14 14:33:12 <Leonardo Valeriano> tu desenrolou?
+2017-07-14 14:34:19 <Hector Pinheiro> Sim
+2017-07-14 14:34:23 <Hector Pinheiro> De boa velho
+2017-07-14 14:34:25 <Hector Pinheiro> Valeu!
+2017-07-14 15:07:31 <Hector Pinheiro> Cara tas usando a máquina de tsang né ?
+2017-07-14 15:08:10 <Hector Pinheiro> Acho que vou precisar dela
+2017-07-14 15:08:21 <Hector Pinheiro> Quando vc termina às execuções
+2017-07-14 15:08:24 <Hector Pinheiro> ?
+2017-07-14 18:52:05 <Leonardo Valeriano> Eu liberei ela
+2017-07-14 18:52:12 <Leonardo Valeriano> Pode ir lá
+2017-07-14 19:00:08 <Hector Pinheiro> certeza mano?
+2017-07-14 19:00:12 <Hector Pinheiro> posso ficar essa semana com ela?
+2017-07-14 19:15:15 <Leonardo Valeriano> Com certeza
+2017-07-14 19:15:30 <Leonardo Valeriano> Esse experimento era um adicional
+2017-07-14 19:20:13 <Hector Pinheiro> Massa valeu vei
+2017-08-01 21:53:08 <Leonardo Valeriano> Boa noite Héctor
+2017-08-01 21:53:15 <Leonardo Valeriano> tudo blz?
+2017-08-01 22:35:36 <Hector Pinheiro> E aí mano!
+2017-08-01 22:35:43 <Hector Pinheiro> tudo caminhando
+2017-08-01 22:35:45 <Hector Pinheiro> e tu ?
+2017-08-02 06:59:41 <Leonardo Valeriano> velho eu tô bem, terminei uma segunda versão do artigo da eletronic letters, com outro método completamente diferente
+2017-08-02 07:00:15 <Leonardo Valeriano> bem mais simples e que tá funcionando melhor que o do ICASSP
+2017-08-02 07:01:01 <Leonardo Valeriano> tu tá com dificuldade na escrita da proposta? precisa de ajuda em algo?
+2017-08-02 19:46:37 <Hector Pinheiro> massa cara
+2017-08-02 19:46:53 <Hector Pinheiro> velho, eu to terminando o segundo cap, o de revisão da literatura
+2017-08-02 19:47:05 <Hector Pinheiro> quando eu mandar pra tsang mando pra ti tb pra tu dar uma olhada, se der
+2017-08-11 14:15:36 <Leonardo Valeriano> mano
+2017-08-11 14:15:45 <Leonardo Valeriano> se liga na matrícula vínculo
+2017-08-11 14:43:14 <Hector Pinheiro> Valeu mano
+2017-08-11 14:43:21 <Hector Pinheiro> Visse o doc que enviei ?
+2017-08-11 14:43:29 <Hector Pinheiro> Tens alguma sugestão ?
+2017-08-11 18:20:53 <Leonardo Valeriano> Eu vi sim
+2017-08-11 18:21:43 <Leonardo Valeriano> tu conseguiu escrever mais do cap 03? 
+2017-08-11 18:28:03 <Hector Pinheiro> sim
+2017-08-11 18:28:07 <Hector Pinheiro> mas acho que enviei só para tsang
+2017-08-11 18:28:09 <Hector Pinheiro> te encaminhei
+2017-08-14 20:58:57 <Leonardo Valeriano> man
+2017-08-14 20:59:01 <Leonardo Valeriano> tudo bem?
+2017-08-14 20:59:32 <Leonardo Valeriano> eu conferi a proposta, achei ela bem completa. 
+2017-08-14 21:00:23 <Leonardo Valeriano> tu tem algum exemplo que possa ser mostrado em figura da Teoria dos Dados ausentes
+2017-08-14 21:00:27 <Leonardo Valeriano> ?
+2017-08-14 22:10:51 <Hector Pinheiro> Daria pra fazer
+2017-08-14 22:11:15 <Hector Pinheiro> Acho que vou fazer pra apresentação
+2017-08-14 22:11:20 <Hector Pinheiro> Eh uma boa
+2017-08-14 22:12:10 <Leonardo Valeriano> esse cara que trabalhou com ruído em algumas bandas não fez nenhuma figura n?
+2017-08-14 22:12:37 <Hector Pinheiro> Nada haha
+2017-08-14 22:12:50 <Leonardo Valeriano> só texto e equação, ahahhahaha
+2017-08-14 22:12:54 <Leonardo Valeriano> é dos meus
+2017-08-14 22:12:58 <Leonardo Valeriano> :D
+2017-08-14 22:13:24 <Hector Pinheiro> Que nem eu hehe
+2017-08-14 22:14:13 <Leonardo Valeriano> eu tinha pensado se tu podia mostrar um PCA em 2D com os tipos de i-vectors 
+2017-08-14 22:14:46 <Leonardo Valeriano> i-vector s/ PLDA; com PLDA; entre outros
+2017-08-14 22:14:59 <Leonardo Valeriano> em um exemplo com 3 locutores
+2017-08-14 22:15:06 <Hector Pinheiro> Uhum
+2017-08-14 22:15:13 <Hector Pinheiro> Geralmente a galera faz isso saca
+2017-08-14 22:15:16 <Hector Pinheiro> Mas porra
+2017-08-14 22:15:23 <Hector Pinheiro> Escrevi muito na pressa vei
+2017-08-14 22:15:25 <Hector Pinheiro> Foda
+2017-08-14 22:15:30 <Leonardo Valeriano> é foda pow
+2017-08-14 22:15:37 <Leonardo Valeriano> faz na apresentação  mesmo
+2017-08-14 22:15:47 <Hector Pinheiro> Uhum
+2017-08-14 22:15:55 <Leonardo Valeriano> a apresentação tem mais espaço pra ilustrar
+2017-08-14 22:15:59 <Hector Pinheiro> E o foda eh que eu poderia ter mais um mês
+2017-08-14 22:16:15 <Leonardo Valeriano> tu marcou data né?
+2017-08-14 22:16:27 <Hector Pinheiro> Sim
+2017-08-14 22:16:38 <Leonardo Valeriano> fica tudo amarrado com a data
+2017-08-14 22:16:41 <Hector Pinheiro> E tinha até setembro mas me ikformaram errado aff
+2017-08-14 22:18:14 <Leonardo Valeriano> haha
+2017-08-14 22:18:21 <Leonardo Valeriano> é de propósito
+2017-08-14 22:18:41 <Leonardo Valeriano> fizesse a matrícula vícunlo?
+2017-08-14 22:18:55 <Hector Pinheiro> Fiz vei
+2017-08-14 22:18:59 <Hector Pinheiro> Hehe
+2017-08-14 22:19:03 <Hector Pinheiro> Só pq tu lembrou msm
+2017-08-14 22:19:08 <Hector Pinheiro> Valeu
+2017-08-14 22:20:58 <Leonardo Valeriano> nada pow
+2017-08-14 22:21:09 <Leonardo Valeriano> Dayvid me lembrou tbm
+2017-08-14 22:21:42 <Leonardo Valeriano> eu tô vendo se assisto as aulas de Deep Learning que vão ter no CIn
+2017-08-14 22:22:08 <Leonardo Valeriano> só pra acompanhar mesmo
+2017-08-14 22:27:48 <Hector Pinheiro> Saquei
+2017-08-14 22:28:00 <Hector Pinheiro> Eu assisti no primeiro semestre que ofertaram
+2017-08-14 22:28:04 <Hector Pinheiro> Foi ok
+2017-08-14 22:28:09 <Hector Pinheiro> Mas muito superficial
+2017-08-14 22:28:22 <Leonardo Valeriano> hum
+2017-08-14 22:28:42 <Leonardo Valeriano> mas usava as máquinas do CIn mesmo?
+2017-08-14 22:28:57 <Hector Pinheiro> Cara não sei
+2017-08-14 22:29:01 <Hector Pinheiro> Não fiz o projeto
+2017-08-14 22:29:07 <Hector Pinheiro> Só assisti às aulas
+2017-08-14 22:29:17 <Leonardo Valeriano> saquei
+2017-08-14 22:29:20 <Hector Pinheiro> Mas as aulas práticas eram no grad
+2017-08-14 23:06:55 <Leonardo Valeriano> massa
+2017-08-14 23:07:27 <Leonardo Valeriano> eu tô revisando o artigo da EL ainda, esse mês foi corrido pra caramba
+2017-08-14 23:07:47 <Leonardo Valeriano> muito complexo encaixar tudo em 2 págs
+2017-08-14 23:48:07 <Hector Pinheiro> essa semana ainda te mando uma revisão
+2017-08-14 23:48:18 <Hector Pinheiro> depois da minha enrega amanha
+2017-08-15 06:43:23 <Leonardo Valeriano> vlw mesmo
+2017-08-24 23:29:30 <Hector Pinheiro> Opa cara desculpa não ter te ajudado no artigo
+2017-08-25 11:07:42 <Leonardo Valeriano> grande Héctor
+2017-08-25 11:08:07 <Leonardo Valeriano> como foi na apresentação?
+2017-08-25 11:08:33 <Leonardo Valeriano> em relação ao artigo não se preocupe, vc com certeza ajudou
+2017-08-25 11:09:04 <Leonardo Valeriano> queria ver contigo se podemos fazer experimentos em verificação com a feature desse artigo
+2017-08-25 22:21:37 <Hector Pinheiro> cara a defesa foi boa
+2017-08-25 22:21:39 <Hector Pinheiro> pesada
+2017-08-25 22:21:42 <Hector Pinheiro> com muita discussão massa
+2017-08-25 22:21:44 <Hector Pinheiro> mas foi ótimo
+2017-08-25 22:21:58 <Hector Pinheiro> vamos sim!
+2017-08-25 22:22:15 <Hector Pinheiro> vou escrever um projeto para a nvidia pedindo uma gpu
+2017-08-25 22:22:20 <Hector Pinheiro> tu podes fazer o mesmo
+2017-08-25 22:22:36 <Hector Pinheiro> to com algumas ideias na cabeça
+2017-08-25 22:22:47 <Hector Pinheiro> o que pretendo fazer pode ser usado no teu problema
+2017-08-25 22:22:50 <Hector Pinheiro> outra coisa
+2017-08-25 22:22:58 <Hector Pinheiro> aprendi muito escrevendo a proposta
+2017-08-25 22:23:08 <Hector Pinheiro> tenho algumas ideias do ivector que pode te interessar
+2017-08-28 13:18:47 <Leonardo Valeriano> Massa cara! Vou tentar escrever alguma coisa tbm!Eu li bastante sobre o que o pessoal fez em clustering. A maioria se concentra nas features mesmo. Tô pensando em um método que aprenda de fato a diarizacao. Tenho que elaborar um problema de  otimização pra isso.Tens ido pro CIn em algum dia da semana? Qual horário tu costuma trabalhar?
+2017-08-28 13:34:22 <Hector Pinheiro> cara
+2017-08-28 13:34:32 <Hector Pinheiro> seg, quarta e sexta eu to tocando a empresa
+2017-08-28 13:34:37 <Hector Pinheiro> os outros dias eu to livre
+2017-08-28 13:34:42 <Hector Pinheiro> de manhã e a tarde
+2017-08-30 12:31:19 <Leonardo Valeriano> massa cara! tá indo bem na empresa? eu li o que o pessoal tá fazendo pra lidar com i-vectors extraídos de segmentos curtos e segmentos de tamanhos bem distintos
+2017-08-30 12:32:35 <Leonardo Valeriano> assim como o uso de redes neurais pra pular o UBM da etapa de extração de estatísticas (custa muito caro em processamento)
+2017-08-30 12:33:20 <Leonardo Valeriano> amanhã tento te mostrar um resumo e as minhas dúvidas, tudo bem?
+2017-08-30 12:33:45 <Hector Pinheiro> Amanhã ?
+2017-08-30 12:33:49 <Hector Pinheiro> Que hrs ?
+2017-08-30 12:34:04 <Leonardo Valeriano> no fim da tarde, pode ser?
+2017-08-30 12:34:28 <Hector Pinheiro> Tas trabalhando né ?
+2017-08-30 12:34:39 <Hector Pinheiro> No final da tarde talvez fique corrido pra mim
+2017-08-30 12:34:52 <Leonardo Valeriano> tô cara, n posso me sustentar só com a esposa, hhehehehe
+2017-08-30 12:35:00 <Hector Pinheiro> Hahaha
+2017-08-30 12:35:03 <Leonardo Valeriano> pode ser à noite?
+2017-08-30 12:35:03 <Hector Pinheiro> Saquei
+2017-08-30 12:35:15 <Hector Pinheiro> Então o problema eh a noite
+2017-08-30 12:35:26 <Hector Pinheiro> Vc larga que hrs ?
+2017-08-30 12:35:30 <Leonardo Valeriano> ah tah..
+2017-08-30 12:35:36 <Hector Pinheiro> Seria no cin ou call?
+2017-08-30 12:35:40 <Leonardo Valeriano> call
+2017-08-30 12:35:45 <Hector Pinheiro> Ah tá
+2017-08-30 12:35:48 <Hector Pinheiro> Então blz
+2017-08-30 12:35:55 <Hector Pinheiro> Final da tarde tá de boa
+2017-08-30 12:36:09 <Leonardo Valeriano> massa, só pra adiantar
+2017-08-30 12:36:12 <Hector Pinheiro> Só preciso terminar antes das 19
+2017-08-30 12:36:21 <Leonardo Valeriano> ok, sem problemas
+2017-08-30 12:36:35 <Leonardo Valeriano> tu conhece Daniel-Garcia Romero?
+2017-08-30 12:37:27 <Leonardo Valeriano> tem muito trabalho dele em diarização
+2017-08-30 12:37:28 <Leonardo Valeriano> https://sites.google.com/site/dgromeroweb/publications
+2017-08-30 12:38:02 <Hector Pinheiro> Esse bicho eh um dos professores mais ativos em biometria
+2017-08-30 12:38:09 <Hector Pinheiro> Já li alguns artigos dele
+2017-08-30 12:38:14 <Leonardo Valeriano> muito foda velho
+2017-08-30 12:38:22 <Leonardo Valeriano> toda conf ele publica
+2017-08-30 12:38:32 <Hector Pinheiro> Uhum
+2017-08-30 12:38:59 <Hector Pinheiro> A normalização de ivectors foi ideia dele
+2017-08-30 12:39:22 <Leonardo Valeriano> Tô rastreando os trabalhos, pra entender direitinho
+2017-08-30 12:39:46 <Hector Pinheiro> Uhum
+2017-08-30 12:40:14 <Hector Pinheiro> Então
+2017-08-30 12:40:22 <Hector Pinheiro> Amanhã que hrs ?
+2017-08-30 12:40:32 <Leonardo Valeriano> pode ser de 17:30?
+2017-08-30 12:40:38 <Hector Pinheiro> Beleza
+2017-08-30 12:40:45 <Hector Pinheiro> Vc larga que hrs ?
+2017-08-30 12:41:03 <Leonardo Valeriano> eu largo de 15:30
+2017-08-30 12:41:11 <Hector Pinheiro> Saquei
+2017-08-30 12:41:17 <Hector Pinheiro> Vou estar ok
+2017-08-30 12:41:20 <Hector Pinheiro> On*
+2017-08-30 12:41:28 <Hector Pinheiro> Quando tu puder tu fala cmg
+2017-08-30 12:41:44 <Leonardo Valeriano> massa, até amanhã cara! abraço
+2017-08-30 12:41:55 <Hector Pinheiro> Abraço
+2017-08-31 17:28:05 <Leonardo Valeriano> Opa Hector
+2017-08-31 17:28:11 <Leonardo Valeriano> Tudo bem?
+2017-08-31 17:38:03 <Leonardo Valeriano> Cara, tô sem internet aqui em casa, podemos nos falar amanhã depois da reunião?
+2017-08-31 17:38:36 <Hector Pinheiro> Sim
+2017-08-31 17:38:40 <Hector Pinheiro> Tranquilo
+2017-08-31 17:39:01 <Leonardo Valeriano> N tem como compartilhar a tela na 3g
+2017-08-31 17:39:11 <Leonardo Valeriano> Posso te ligar rapidinho?
+2017-08-31 17:39:33 <Hector Pinheiro> Pode
+2017-08-31 17:39:42 *** Leonardo Valeriano started a video chat
+2017-08-31 17:40:32 *** Leonardo Valeriano ended a video chat
+2017-08-31 17:40:39 <Hector Pinheiro> Vc me escutou ?
+2017-08-31 17:40:51 <Leonardo Valeriano> escutei
+2017-08-31 17:41:08 *** Leonardo Valeriano started a video chat
+2017-08-31 17:41:54 *** Hector Pinheiro ended a video chat
+2017-08-31 17:42:02 <Leonardo Valeriano> Tá sem microfone
+2017-08-31 17:42:13 <Leonardo Valeriano> O meu n tá funcionando
+2017-08-31 17:42:14 <Hector Pinheiro> Vc ou eu ?
+2017-08-31 17:42:20 <Leonardo Valeriano> O meu
+2017-08-31 17:42:38 <Hector Pinheiro> Tas no cel?
+2017-08-31 17:42:42 <Hector Pinheiro> Tens o app?
+2017-08-31 17:42:46 <Leonardo Valeriano> Sim
+2017-08-31 17:42:55 <Leonardo Valeriano> Foi por ele mesmo
+2017-08-31 17:43:06 <Hector Pinheiro> Que viagem
+2017-08-31 17:43:22 <Leonardo Valeriano> Deve ser a 3g..
+2017-08-31 17:43:41 <Hector Pinheiro> Saquei
+2017-08-31 17:43:49 <Hector Pinheiro> Queres que eu te ligue ?
+2017-08-31 17:43:58 <Hector Pinheiro> Via telefone msm
+2017-08-31 17:44:15 <Leonardo Valeriano> Tu tens meu celular?
+2017-08-31 17:44:19 <Hector Pinheiro> Não haha
+2017-08-31 17:44:25 <Leonardo Valeriano> 991051447
+2017-08-31 17:44:30 <Leonardo Valeriano> Haha
+2017-08-31 17:44:44 <Leonardo Valeriano> Coisa rápida
+2017-09-01 13:33:37 <Hector Pinheiro> Tas pelo cin ?
