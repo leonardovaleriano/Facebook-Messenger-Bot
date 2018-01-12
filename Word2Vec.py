@@ -1,8 +1,8 @@
 import tensorflow as tf
+from tensorflow.contrib import layers
+from sklearn.model_selection import train_test_split
 import numpy as np
-import re
 from collections import Counter
-import sys
 import math
 from random import randint
 import pickle
@@ -15,11 +15,11 @@ import os
 # Check out Tensorflow's documentation which is pretty good for Word2Vec
 # https://www.tensorflow.org/tutorials/word2vec
 
-wordVecDimensions = 200
-batchSize = 200
+wordVecDimensions = 100
+batchSize = 128
 numNegativeSample = 100
-windowSize = 3
-numIterations = 100000
+windowSize = 7
+numIterations = 1000000
 
 # This function just takes in the conversation data and makes it 
 # into one huge string, and then uses a Counter to identify words
@@ -37,8 +37,8 @@ def createTrainingMatrices(dictionary, corpus):
     allUniqueWords = dictionary.keys()
     allWords = corpus.split()
     numTotalWords = len(allWords)
-    xTrain=[]
-    yTrain=[]
+    X=[]
+    y=[]
     for i in range(numTotalWords):
         if i % 1000 == 0:
             print('Finished %d/%d total words' % (i, numTotalWords))
@@ -46,20 +46,22 @@ def createTrainingMatrices(dictionary, corpus):
         wordsBefore = allWords[max(0, i - windowSize):i]
         wordsAdded = wordsAfter + wordsBefore
         for word in wordsAdded:
-            xTrain.append(list(allUniqueWords).index(allWords[i]))
-            yTrain.append(list(allUniqueWords).index(word))
-    return allUniqueWords, xTrain, yTrain
+            X.append(list(allUniqueWords).index(allWords[i]))
+            y.append(list(allUniqueWords).index(word))
+    return allUniqueWords, X, y
+
 
 def getTrainingBatch():
-    num = randint(0,numTrainingExamples - batchSize - 1)
-    arr = xTrain[num:num + batchSize]
-    labels = yTrain[num:num + batchSize]
-    return arr, labels[:,np.newaxis]
+    num = randint(0, numTrainingExamples - batchSize - 1)
+    arr = X_train[num:num + batchSize]
+    labels = y_train[num:num + batchSize]
+    return arr, labels
 
 # Loading the data structures if they are present in the directory
 if (os.path.isfile('Word2VecXTrain.npy') and os.path.isfile('Word2VecYTrain.npy') and os.path.isfile('wordList.txt')):
-    xTrain = np.load('Word2VecXTrain.npy')
-    yTrain = np.load('Word2VecYTrain.npy')
+    X = np.load('Word2VecXTrain.npy')
+    y = np.load('Word2VecYTrain.npy')
+    y = np.reshape(y, [-1, 1])
     print('Finished loading training matrices')
     with open("wordList.txt", "rb") as fp:
         wordList = pickle.load(fp)
@@ -70,46 +72,108 @@ else:
     print('Finished parsing and cleaning dataset')
     print('Full corpus length: %d' % len(fullCorpus))
     print('Dictionary length: %d' % len(datasetDictionary))
-    wordList, xTrain, yTrain  = createTrainingMatrices(datasetDictionary, fullCorpus)
+    wordList, X, y = createTrainingMatrices(datasetDictionary, fullCorpus)
+    y = np.reshape(y, [-1, 1])
     print('Finished creating training matrices')
-    np.save('Word2VecXTrain.npy', xTrain)
-    np.save('Word2VecYTrain.npy', yTrain)
+    np.save('Word2VecXTrain.npy', X)
+    np.save('Word2VecYTrain.npy', y)
     with open("wordList.txt", "wb") as fp:
         pickle.dump(list(wordList), fp)
 
-numTrainingExamples = len(xTrain)
+numTrainingExamples = len(X)
 vocabSize = len(wordList)
 
-sess = tf.Session()
-embeddingMatrix = tf.Variable(tf.random_uniform([vocabSize, wordVecDimensions], -1.0, 1.0))
-nceWeights = tf.Variable(tf.truncated_normal([vocabSize, wordVecDimensions], stddev=1.0 / math.sqrt(wordVecDimensions)))
-nceBiases = tf.Variable(tf.zeros([vocabSize]))
+graph = tf.Graph()
 
-inputs = tf.placeholder(tf.int32, shape=[batchSize])
-outputs = tf.placeholder(tf.int32, shape=[batchSize, 1])
+# Create tensor variables, network layers, labels, and loss using Tensorflow
+with graph.as_default():
+    # Input data.
+    inputs = tf.placeholder(tf.int32, shape=[None])
+    labels = tf.placeholder(tf.int32, shape=[None, 1])
 
-embed = tf.nn.embedding_lookup(embeddingMatrix, inputs)
+    regularizer = tf.contrib.layers.l2_regularizer(scale=0.1)
 
-loss = tf.reduce_mean(
-    tf.nn.nce_loss(weights=nceWeights,
-                   biases=nceBiases,
-                   labels=outputs,
-                   inputs=embed,
-                   num_sampled=numNegativeSample,
-                   num_classes=vocabSize))
+    # Look up embeddings for inputs. tf.random_uniform([vocabSize,wordVecDimensions],-1.0, 1.0)
+    embeddings = tf.get_variable("E", shape=[vocabSize, wordVecDimensions],
+                                 initializer=tf.contrib.layers.xavier_initializer(),
+                                 regularizer=regularizer)
+    embed = tf.nn.embedding_lookup(embeddings, inputs)
 
-# optimizer = tf.train.GradientDescentOptimizer(learning_rate=1.0).minimize(loss)
-learning_rate = 1.0
-optimizer = tf.train.RMSPropOptimizer(learning_rate, decay=0.9, momentum=0.25, epsilon=1, centered=False).minimize(loss)
-# learning_rate = 1.0
-# optimizer = tf.train.AdamOptimizer(learning_rate, beta1=0.99, beta2=0.85, epsilon=1).minimize(loss)
+    # Construct the variables for the NCE loss
+    nce_weights = tf.get_variable("W", shape=[vocabSize, wordVecDimensions],
+                                  initializer=tf.contrib.layers.xavier_initializer(),
+                                  regularizer=regularizer)
 
-sess.run(tf.global_variables_initializer())
-for i in range(numIterations):
-    trainInputs, trainLabels = getTrainingBatch()
-    _, curLoss = sess.run([optimizer, loss], feed_dict={inputs: trainInputs, outputs: trainLabels})
-    if (i % 1000 == 0):
-        print('Current loss is:', curLoss)
+    nce_biases = tf.Variable(tf.zeros([vocabSize]))
+
+
+    # Compute the average NCE loss for the batch.
+    # tf.nce_loss automatically draws a new sample of the negative labels each
+    # time we evaluate the loss.
+    loss = tf.reduce_mean(tf.nn.nce_loss(weights=nce_weights,
+                                         biases=nce_biases,
+                                         labels=labels,
+                                         inputs=embed,
+                                         num_sampled=batchSize/2,
+                                         num_classes=vocabSize)
+                          )
+
+    # Decaying the learning rate
+    global_step = tf.Variable(0, trainable=False)
+    starter_learning_rate = 0.05
+    learning_rate = tf.reduce_max([tf.train.exponential_decay(starter_learning_rate, global_step, 1500, 0.96,
+                                                              staircase=True),
+                                   0.00001])
+
+    # Construct the AdamOptimizer with default parameters
+    optimizer = tf.train.AdamOptimizer(beta1=0.9,
+                                       beta2=0.99,
+                                       epsilon=1e-6,
+                                       learning_rate=learning_rate).minimize(loss, global_step=global_step)
+
+    # Add variable initializer.
+    init = tf.global_variables_initializer()
+
+X_train, X_val, y_train, y_val = train_test_split(X, y, test_size=0.2, random_state=0, stratify=y)
+
+print("y stats: ", max(y_train), min(y_train))
+print("X stats: ", max(X_train), min(X_train))
+
+training_loss = []
+val_loss = []
+embeddings_mat = None
+cum_training_loss = 0
+min_val_loss = 100000
+print_step = numIterations * 0.25 / 100
+
+with tf.Session(graph=graph) as session:
+    session.run(init)
+
+    for i in range(numIterations):
+        trainInputs, trainLabels = getTrainingBatch()
+        _, curLoss = session.run([optimizer, loss], feed_dict={inputs: trainInputs, labels: trainLabels})
+
+        if not np.isnan(curLoss):
+            cum_training_loss += curLoss
+
+        if i % print_step == 0:
+            print("Iteration: ", i, " Learning rate: ", session.run(learning_rate))
+
+            if i > 0:
+                cum_training_loss /= print_step
+
+            training_loss.append(cum_training_loss)
+            print('Training loss: ', cum_training_loss)
+            cum_training_loss = 0
+
+            val_step_loss = session.run(loss, feed_dict={inputs: X_val, labels: y_val})
+            val_loss.append(val_step_loss)
+            print('Validation loss: ', val_step_loss)
+
+            if val_step_loss < min_val_loss:
+                min_val_loss = val_step_loss
+                embeddings_mat = embeddings.eval()
+
+print("Lower validation loss: ", min_val_loss)
 print('Saving the word embedding matrix')
-embedMatrix = embeddingMatrix.eval(session=sess)
-np.save('embeddingMatrix.npy', embedMatrix)
+np.save('embeddingMatrix.npy', embeddings_mat)
